@@ -1,0 +1,90 @@
+{
+  "raw_sha256": "6b4277e0eb681dee284533854b467089395aa1957681f8ba6a09636e9c552793",
+  "raw_rows": 322,
+  "raw_worksheet": "Sheet1",
+  "candidate_rows": 100,
+  "full_audited_rows": 99,
+  "full_audited_studies": 23,
+  "main_rows": 86,
+  "main_studies": 22,
+  "classes": [
+    "C2H4",
+    "C2H5OH",
+    "CH4",
+    "CO"
+  ],
+  "exclusion_counts": {
+    "source_citation_has_no_explicit_doi": 104,
+    "bare_copper_control": 66,
+    "modifier_not_lexically_parseable_smiles_representation": 31,
+    "no_modifier_record_or_source_note": 14,
+    "class_has_fewer_than_10_records_or_3_doi_groups": 13,
+    "fewer_than_two_explicit_numeric_carbon_species": 5,
+    "nonpositive_or_tied_maximum_reported_carbon_fe": 2,
+    "same_recorded_condition_same_label_duplicate_collapsed": 1
+  },
+  "modification_count": 243,
+  "duplicate_conflicting_conditions": 0,
+  "raw_rows_accounted_for": 322,
+  "feature_sets": {
+    "catalyst": [
+      "atom_C",
+      "atom_N",
+      "atom_O",
+      "atom_S",
+      "atom_F",
+      "atom_P",
+      "atom_Cl",
+      "atom_Br",
+      "atom_I",
+      "atom_metal",
+      "atom_total",
+      "polymer_category"
+    ],
+    "conditions": [
+      "potential_rhe_v",
+      "ph_category",
+      "electrolyte",
+      "reactor"
+    ],
+    "combined": [
+      "atom_C",
+      "atom_N",
+      "atom_O",
+      "atom_S",
+      "atom_F",
+      "atom_P",
+      "atom_Cl",
+      "atom_Br",
+      "atom_I",
+      "atom_metal",
+      "atom_total",
+      "polymer_category",
+      "potential_rhe_v",
+      "ph_category",
+      "electrolyte",
+      "reactor"
+    ]
+  },
+  "numeric_features": [
+    "atom_C",
+    "atom_N",
+    "atom_O",
+    "atom_S",
+    "atom_F",
+    "atom_P",
+    "atom_Cl",
+    "atom_Br",
+    "atom_I",
+    "atom_metal",
+    "atom_total",
+    "potential_rhe_v"
+  ],
+  "categorical_features": [
+    "polymer_category",
+    "ph_category",
+    "electrolyte",
+    "reactor"
+  ],
+  "exact_recorded_input_groups_shared_across_dois": 0
+}

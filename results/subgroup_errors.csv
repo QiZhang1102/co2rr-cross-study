@@ -1,0 +1,443 @@
+split,model,feature_set,calibration,complete_oof,subgroup_variable,subgroup,n_records,n_studies,accuracy,log_loss,brier
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,reactor,GDE,40,7,0.725,0.7904789102172797,0.3978910090592373
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,reactor,H-Cell,45,15,0.4888888888888889,1.566415426456334,0.6606794635599957
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,reactor,missing,1,1,1.0,0.06763221655692928,0.006130372089408509
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,ph_category,acid,1,1,1.0,0.06763221655692928,0.006130372089408509
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,ph_category,basic,26,4,0.8076923076923077,0.6972927054154346,0.301175526185018
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,ph_category,neutral,59,17,0.5084745762711864,1.4233600043800834,0.6409432634196411
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,polymer_category,MOF,17,5,0.5294117647058824,1.4811417790871988,0.6440446642769019
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,1.0497703367937599,0.635929256166513
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,polymer_category,nonpolymer,51,9,0.6078431372549019,1.1928576298546905,0.5242502582984797
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,polymer_category,polymer,15,8,0.6666666666666666,0.8674014958886863,0.4039357573486243
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,missing_pattern,none,72,19,0.5694444444444444,1.2849071920531605,0.5574214700183457
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,1.0497703367937599,0.635929256166513
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.8,0.6445221761017381,0.3604082612748859
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.06763221655692928,0.006130372089408509
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.5633802816901409,1.3161364352392124,0.5817922121116164
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.8888888888888888,0.2918945833299878,0.16298602631005504
+random_condition,hist_gradient_boosting,catalyst,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,1.0171241106381952,0.47970421632390753
+random_condition,hist_gradient_boosting,combined,sigmoid,True,reactor,GDE,40,7,0.65,1.0530009308833799,0.5720891991455295
+random_condition,hist_gradient_boosting,combined,sigmoid,True,reactor,H-Cell,45,15,0.4444444444444444,1.5589488929825959,0.7654436213760891
+random_condition,hist_gradient_boosting,combined,sigmoid,True,reactor,missing,1,1,1.0,0.7311780869141606,0.4282542413603957
+random_condition,hist_gradient_boosting,combined,sigmoid,True,ph_category,acid,1,1,1.0,0.7311780869141606,0.4282542413603957
+random_condition,hist_gradient_boosting,combined,sigmoid,True,ph_category,basic,26,4,0.6538461538461539,0.9537969516913309,0.5528302260371788
+random_condition,hist_gradient_boosting,combined,sigmoid,True,ph_category,neutral,59,17,0.4915254237288136,1.4826104521284302,0.7280499161148907
+random_condition,hist_gradient_boosting,combined,sigmoid,True,polymer_category,MOF,17,5,0.35294117647058826,1.644575221199249,0.7841702509781076
+random_condition,hist_gradient_boosting,combined,sigmoid,True,polymer_category,missing,3,2,0.6666666666666666,0.7589630316892674,0.4370470796049601
+random_condition,hist_gradient_boosting,combined,sigmoid,True,polymer_category,nonpolymer,51,9,0.5294117647058824,1.3061480724529315,0.6873203337099275
+random_condition,hist_gradient_boosting,combined,sigmoid,True,polymer_category,polymer,15,8,0.8,1.077046397060774,0.5374275096304386
+random_condition,hist_gradient_boosting,combined,sigmoid,True,missing_pattern,none,72,19,0.5138888888888888,1.360676258592604,0.6986147264933682
+random_condition,hist_gradient_boosting,combined,sigmoid,True,missing_pattern,polymer_category,3,2,0.6666666666666666,0.7589630316892674,0.4370470796049601
+random_condition,hist_gradient_boosting,combined,sigmoid,True,missing_pattern,potential_rhe_v,10,3,0.7,1.2027157705816707,0.5717129381407804
+random_condition,hist_gradient_boosting,combined,sigmoid,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.7311780869141606,0.4282542413603957
+random_condition,hist_gradient_boosting,combined,sigmoid,True,catalyst_family,N-containing modifier,71,15,0.5492957746478874,1.2931440457173244,0.6658352523451175
+random_condition,hist_gradient_boosting,combined,sigmoid,True,catalyst_family,"O-containing, no N modifier",9,4,0.4444444444444444,1.5818638134363017,0.7539755609485516
+random_condition,hist_gradient_boosting,combined,sigmoid,True,catalyst_family,other modifier,6,6,0.6666666666666666,1.1589856566015684,0.6161170340108812
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,reactor,GDE,40,7,0.7,0.9082610576210653,0.5196029520554214
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,reactor,H-Cell,45,15,0.6666666666666666,1.6951351217999384,0.62784013475347
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,reactor,missing,1,1,0.0,1.5845011992316242,0.9335606863634317
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,ph_category,acid,1,1,0.0,1.5845011992316242,0.9335606863634317
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,ph_category,basic,26,4,0.8076923076923077,0.6483347772214133,0.3582607480322213
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,ph_category,neutral,59,17,0.6271186440677966,1.6229630267471715,0.6732566897844959
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,polymer_category,MOF,17,5,0.6470588235294118,1.712960694730074,0.61955582126874
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,polymer_category,missing,3,2,1.0,0.6880968695921933,0.37644893964401965
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,polymer_category,nonpolymer,51,9,0.5882352941176471,1.4431659973775615,0.6989916473567128
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,polymer_category,polymer,15,8,0.9333333333333333,0.6273290466418661,0.17734100245289605
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,missing_pattern,none,72,19,0.6805555555555556,1.3761989182046959,0.5734953413611321
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,missing_pattern,polymer_category,3,2,1.0,0.6880968695921933,0.37644893964401965
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.6,1.1460910066325138,0.6615912749189425
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,0.0,1.5845011992316242,0.9335606863634317
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.6338028169014085,1.4703819906201407,0.6436378476017591
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,1.0,0.22105889693369574,0.10755465535016323
+random_condition,hist_gradient_boosting,combined,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,1.301562096439705,0.5507009591016773
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,reactor,GDE,40,7,0.5,1.535523105470491,0.8168170725776822
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,reactor,H-Cell,45,15,0.37777777777777777,1.6649820854096864,0.7994772254176468
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,reactor,missing,1,1,1.0,0.3364518601594537,0.11778981206797397
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,ph_category,acid,1,1,1.0,0.3364518601594537,0.11778981206797397
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,ph_category,basic,26,4,0.5384615384615384,1.2115640258121125,0.7322130088652282
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,ph_category,neutral,59,17,0.3898305084745763,1.7770246337481457,0.8408749121424653
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,polymer_category,MOF,17,5,0.47058823529411764,1.1910566249987316,0.7347280740878775
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,polymer_category,missing,3,2,0.3333333333333333,1.8676967811014373,0.8924205442754355
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,polymer_category,nonpolymer,51,9,0.45098039215686275,1.7836211902095593,0.8226692937108813
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,polymer_category,polymer,15,8,0.4,1.3243890835629812,0.7762116658262801
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,missing_pattern,none,72,19,0.4027777777777778,1.5585516764763745,0.8244572828433535
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,missing_pattern,polymer_category,3,2,0.3333333333333333,1.8676967811014373,0.8924205442754355
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,1.8526307012652246,0.6610972049353643
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.3364518601594537,0.11778981206797397
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.43661971830985913,1.66776659038972,0.8348792407221983
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.6666666666666666,0.5987327023003209,0.36432887534876013
+random_condition,hist_gradient_boosting,conditions,uncalibrated,True,catalyst_family,other modifier,6,6,0.16666666666666666,2.1469246140069935,1.0352603149257418
+random_condition,logistic_regression,catalyst,uncalibrated,True,reactor,GDE,40,7,0.7,0.812623577956192,0.4203231580157857
+random_condition,logistic_regression,catalyst,uncalibrated,True,reactor,H-Cell,45,15,0.5777777777777777,1.2495929798884065,0.6321217233501613
+random_condition,logistic_regression,catalyst,uncalibrated,True,reactor,missing,1,1,1.0,0.4865881369934033,0.20891833122720369
+random_condition,logistic_regression,catalyst,uncalibrated,True,ph_category,acid,1,1,1.0,0.4865881369934033,0.20891833122720369
+random_condition,logistic_regression,catalyst,uncalibrated,True,ph_category,basic,26,4,0.8076923076923077,0.6386763313334133,0.31012514804317337
+random_condition,logistic_regression,catalyst,uncalibrated,True,ph_category,neutral,59,17,0.559322033898305,1.2225600440433426,0.6304262715638336
+random_condition,logistic_regression,catalyst,uncalibrated,True,polymer_category,MOF,17,5,0.4117647058823529,1.3192098270563566,0.6979925622099896
+random_condition,logistic_regression,catalyst,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,1.1082560215534092,0.6371397035006944
+random_condition,logistic_regression,catalyst,uncalibrated,True,polymer_category,nonpolymer,51,9,0.6862745098039216,0.996360762991915,0.49503745590097487
+random_condition,logistic_regression,catalyst,uncalibrated,True,polymer_category,polymer,15,8,0.7333333333333333,0.8438320875342273,0.42954128557295085
+random_condition,logistic_regression,catalyst,uncalibrated,True,missing_pattern,none,72,19,0.6388888888888888,1.038319778031806,0.5225894675586925
+random_condition,logistic_regression,catalyst,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,1.1082560215534092,0.6371397035006944
+random_condition,logistic_regression,catalyst,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.6,1.0652835130275697,0.5720543096660752
+random_condition,logistic_regression,catalyst,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.4865881369934033,0.20891833122720369
+random_condition,logistic_regression,catalyst,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.6197183098591549,1.0247429327383815,0.5300504713878093
+random_condition,logistic_regression,catalyst,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.7777777777777778,1.0068165726587328,0.4849126346582169
+random_condition,logistic_regression,catalyst,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,1.2341863286442816,0.5782541703595804
+random_condition,logistic_regression,combined,sigmoid,True,reactor,GDE,40,7,0.6,1.115021081718296,0.5923822813751355
+random_condition,logistic_regression,combined,sigmoid,True,reactor,H-Cell,45,15,0.37777777777777777,1.385330597977928,0.7528699387257517
+random_condition,logistic_regression,combined,sigmoid,True,reactor,missing,1,1,1.0,0.6670984560844206,0.32315055788877517
+random_condition,logistic_regression,combined,sigmoid,True,ph_category,acid,1,1,1.0,0.6670984560844206,0.32315055788877517
+random_condition,logistic_regression,combined,sigmoid,True,ph_category,basic,26,4,0.5769230769230769,1.1296684996591528,0.5978922595906179
+random_condition,logistic_regression,combined,sigmoid,True,ph_category,neutral,59,17,0.4406779661016949,1.3147345624847566,0.712359995734037
+random_condition,logistic_regression,combined,sigmoid,True,polymer_category,MOF,17,5,0.23529411764705882,1.517150607960753,0.8300843326185691
+random_condition,logistic_regression,combined,sigmoid,True,polymer_category,missing,3,2,0.6666666666666666,1.0037314615001545,0.5510343112800106
+random_condition,logistic_regression,combined,sigmoid,True,polymer_category,nonpolymer,51,9,0.47058823529411764,1.2655759077882105,0.6835320803777509
+random_condition,logistic_regression,combined,sigmoid,True,polymer_category,polymer,15,8,0.8,0.9507128411194006,0.4848610911954678
+random_condition,logistic_regression,combined,sigmoid,True,missing_pattern,none,72,19,0.4444444444444444,1.297289412970151,0.6997792529895308
+random_condition,logistic_regression,combined,sigmoid,True,missing_pattern,polymer_category,3,2,0.6666666666666666,1.0037314615001545,0.5510343112800106
+random_condition,logistic_regression,combined,sigmoid,True,missing_pattern,potential_rhe_v,10,3,0.7,1.0524688059387264,0.5537229348577993
+random_condition,logistic_regression,combined,sigmoid,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.6670984560844206,0.32315055788877517
+random_condition,logistic_regression,combined,sigmoid,True,catalyst_family,N-containing modifier,71,15,0.5211267605633803,1.2124005124240536,0.6510270854435
+random_condition,logistic_regression,combined,sigmoid,True,catalyst_family,"O-containing, no N modifier",9,4,0.1111111111111111,1.6294903648344599,0.8887253803901727
+random_condition,logistic_regression,combined,sigmoid,True,catalyst_family,other modifier,6,6,0.6666666666666666,1.1436614947008452,0.6126895942588274
+random_condition,logistic_regression,combined,uncalibrated,True,reactor,GDE,40,7,0.75,0.6931404883938883,0.3912469620311866
+random_condition,logistic_regression,combined,uncalibrated,True,reactor,H-Cell,45,15,0.5777777777777777,1.1331185163621085,0.5706001888314632
+random_condition,logistic_regression,combined,uncalibrated,True,reactor,missing,1,1,1.0,0.2104126528916908,0.048689824873213196
+random_condition,logistic_regression,combined,uncalibrated,True,ph_category,acid,1,1,1.0,0.2104126528916908,0.048689824873213196
+random_condition,logistic_regression,combined,uncalibrated,True,ph_category,basic,26,4,0.8846153846153846,0.4272586689050288,0.24506943476797444
+random_condition,logistic_regression,combined,uncalibrated,True,ph_category,neutral,59,17,0.559322033898305,1.1458852098393164,0.5924590114355252
+random_condition,logistic_regression,combined,uncalibrated,True,polymer_category,MOF,17,5,0.47058823529411764,1.1173231115139464,0.6145195102620709
+random_condition,logistic_regression,combined,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,0.9440276385248608,0.557635971994472
+random_condition,logistic_regression,combined,uncalibrated,True,polymer_category,nonpolymer,51,9,0.6862745098039216,0.8907013797961985,0.4600513636537572
+random_condition,logistic_regression,combined,uncalibrated,True,polymer_category,polymer,15,8,0.8,0.7782679496016212,0.38621451111708605
+random_condition,logistic_regression,combined,uncalibrated,True,missing_pattern,none,72,19,0.6666666666666666,0.8677681485948031,0.45426438374683
+random_condition,logistic_regression,combined,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,0.9440276385248608,0.557635971994472
+random_condition,logistic_regression,combined,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.6,1.3404563157650013,0.6946943432908141
+random_condition,logistic_regression,combined,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.2104126528916908,0.048689824873213196
+random_condition,logistic_regression,combined,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.6619718309859155,0.9071331498286902,0.48472420553526446
+random_condition,logistic_regression,combined,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.7777777777777778,0.5450003924612142,0.30013671947293535
+random_condition,logistic_regression,combined,uncalibrated,True,catalyst_family,other modifier,6,6,0.5,1.60248470915903,0.7098212892127237
+random_condition,logistic_regression,conditions,uncalibrated,True,reactor,GDE,40,7,0.625,0.933370763897946,0.5570517888044767
+random_condition,logistic_regression,conditions,uncalibrated,True,reactor,H-Cell,45,15,0.4222222222222222,1.2403912169640237,0.6762886359156164
+random_condition,logistic_regression,conditions,uncalibrated,True,reactor,missing,1,1,1.0,0.4444678378542297,0.1745361811418661
+random_condition,logistic_regression,conditions,uncalibrated,True,ph_category,acid,1,1,1.0,0.4444678378542297,0.1745361811418661
+random_condition,logistic_regression,conditions,uncalibrated,True,ph_category,basic,26,4,0.6538461538461539,0.847681928634067,0.5322017139213393
+random_condition,logistic_regression,conditions,uncalibrated,True,ph_category,neutral,59,17,0.4576271186440678,1.205300087708698,0.6589460272275761
+random_condition,logistic_regression,conditions,uncalibrated,True,polymer_category,MOF,17,5,0.5294117647058824,1.1271275529610356,0.6423650621836222
+random_condition,logistic_regression,conditions,uncalibrated,True,polymer_category,missing,3,2,0.3333333333333333,1.233483513358998,0.7107541221791575
+random_condition,logistic_regression,conditions,uncalibrated,True,polymer_category,nonpolymer,51,9,0.5490196078431373,1.092132179442526,0.6197831551610191
+random_condition,logistic_regression,conditions,uncalibrated,True,polymer_category,polymer,15,8,0.4666666666666667,1.0024362043446469,0.54854580084351
+random_condition,logistic_regression,conditions,uncalibrated,True,missing_pattern,none,72,19,0.5,1.0911562076256853,0.6202805564706715
+random_condition,logistic_regression,conditions,uncalibrated,True,missing_pattern,polymer_category,3,2,0.3333333333333333,1.233483513358998,0.7107541221791575
+random_condition,logistic_regression,conditions,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,1.0888737830172572,0.5922597735955986
+random_condition,logistic_regression,conditions,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.4444678378542297,0.1745361811418661
+random_condition,logistic_regression,conditions,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.5070422535211268,1.069684957943539,0.6067132922981414
+random_condition,logistic_regression,conditions,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.5555555555555556,1.1278173156501683,0.6486566990084971
+random_condition,logistic_regression,conditions,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,1.2498192170517277,0.6625070508798632
+random_condition,majority,none,uncalibrated,True,reactor,GDE,40,7,0.6,13.815510557964274,0.8
+random_condition,majority,none,uncalibrated,True,reactor,H-Cell,45,15,0.37777777777777777,21.490794201277758,1.2444444444444445
+random_condition,majority,none,uncalibrated,True,reactor,missing,1,1,1.0,0.0,0.0
+random_condition,majority,none,uncalibrated,True,ph_category,acid,1,1,1.0,0.0,0.0
+random_condition,majority,none,uncalibrated,True,ph_category,basic,26,4,0.5769230769230769,14.612559244000671,0.8461538461538461
+random_condition,majority,none,uncalibrated,True,ph_category,neutral,59,17,0.4406779661016949,19.318298661560213,1.11864406779661
+random_condition,majority,none,uncalibrated,True,polymer_category,MOF,17,5,0.23529411764705882,26.41200547846111,1.5294117647058822
+random_condition,majority,none,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,11.512925464970229,0.6666666666666666
+random_condition,majority,none,uncalibrated,True,polymer_category,nonpolymer,51,9,0.47058823529411764,18.28523456201154,1.0588235294117647
+random_condition,majority,none,uncalibrated,True,polymer_category,polymer,15,8,0.8,6.907755278982137,0.4
+random_condition,majority,none,uncalibrated,True,missing_pattern,none,72,19,0.4444444444444444,19.18820910828371,1.1111111111111112
+random_condition,majority,none,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,11.512925464970229,0.6666666666666666
+random_condition,majority,none,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,10.361632918473205,0.6
+random_condition,majority,none,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.0,0.0
+random_condition,majority,none,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.5211267605633803,16.539695738407932,0.9577464788732394
+random_condition,majority,none,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.1111111111111111,30.701134573253942,1.7777777777777777
+random_condition,majority,none,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,11.512925464970229,0.6666666666666666
+random_condition,random_forest,catalyst,uncalibrated,True,reactor,GDE,40,7,0.75,0.7313751448411299,0.4052394355125603
+random_condition,random_forest,catalyst,uncalibrated,True,reactor,H-Cell,45,15,0.4888888888888889,1.2275855481669011,0.6140420778721182
+random_condition,random_forest,catalyst,uncalibrated,True,reactor,missing,1,1,1.0,0.48934413086212003,0.22594473135968945
+random_condition,random_forest,catalyst,uncalibrated,True,ph_category,acid,1,1,1.0,0.48934413086212003,0.22594473135968945
+random_condition,random_forest,catalyst,uncalibrated,True,ph_category,basic,26,4,0.8846153846153846,0.6259383338677155,0.325083696133303
+random_condition,random_forest,catalyst,uncalibrated,True,ph_category,neutral,59,17,0.4915254237288136,1.156304386111782,0.5998185563607094
+random_condition,random_forest,catalyst,uncalibrated,True,polymer_category,MOF,17,5,0.47058823529411764,1.1549964259606018,0.6007936326950393
+random_condition,random_forest,catalyst,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,0.8793974086904824,0.5230227526536896
+random_condition,random_forest,catalyst,uncalibrated,True,polymer_category,nonpolymer,51,9,0.6078431372549019,0.994947110826428,0.5137285654978789
+random_condition,random_forest,catalyst,uncalibrated,True,polymer_category,polymer,15,8,0.8,0.7980176981645574,0.4056465867959237
+random_condition,random_forest,catalyst,uncalibrated,True,missing_pattern,none,72,19,0.5972222222222222,1.0326469871971424,0.5276248307898841
+random_condition,random_forest,catalyst,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,0.8793974086904824,0.5230227526536896
+random_condition,random_forest,catalyst,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,0.7507580156890024,0.4283414849915001
+random_condition,random_forest,catalyst,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.48934413086212003,0.22594473135968945
+random_condition,random_forest,catalyst,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.5915492957746479,1.0403931869196985,0.5449164469032003
+random_condition,random_forest,catalyst,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.7777777777777778,0.6413155059579098,0.3146256811930002
+random_condition,random_forest,catalyst,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,0.890990627849682,0.4244527992071989
+random_condition,random_forest,combined,sigmoid,True,reactor,GDE,40,7,0.6,1.0661706003479239,0.6013123015311901
+random_condition,random_forest,combined,sigmoid,True,reactor,H-Cell,45,15,0.4444444444444444,1.5013341996788039,0.7675217480206289
+random_condition,random_forest,combined,sigmoid,True,reactor,missing,1,1,1.0,0.5257975437895397,0.24585094243118016
+random_condition,random_forest,combined,sigmoid,True,ph_category,acid,1,1,1.0,0.5257975437895397,0.24585094243118016
+random_condition,random_forest,combined,sigmoid,True,ph_category,basic,26,4,0.6153846153846154,1.078153038937554,0.6071593648069122
+random_condition,random_forest,combined,sigmoid,True,ph_category,neutral,59,17,0.4745762711864407,1.3927946438489274,0.7255055463931556
+random_condition,random_forest,combined,sigmoid,True,polymer_category,MOF,17,5,0.47058823529411764,1.43009572109339,0.741736773738047
+random_condition,random_forest,combined,sigmoid,True,polymer_category,missing,3,2,0.6666666666666666,0.9543521416104092,0.5539201996027047
+random_condition,random_forest,combined,sigmoid,True,polymer_category,nonpolymer,51,9,0.45098039215686275,1.329812593555122,0.7263547323595912
+random_condition,random_forest,combined,sigmoid,True,polymer_category,polymer,15,8,0.8,1.0491689725681719,0.5014296374608679
+random_condition,random_forest,combined,sigmoid,True,missing_pattern,none,72,19,0.4861111111111111,1.373775959240165,0.7244793333742542
+random_condition,random_forest,combined,sigmoid,True,missing_pattern,polymer_category,3,2,0.6666666666666666,0.9543521416104092,0.5539201996027047
+random_condition,random_forest,combined,sigmoid,True,missing_pattern,potential_rhe_v,10,3,0.7,0.843193750934,0.4766698120421484
+random_condition,random_forest,combined,sigmoid,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.5257975437895397,0.24585094243118016
+random_condition,random_forest,combined,sigmoid,True,catalyst_family,N-containing modifier,71,15,0.49295774647887325,1.3309947463950873,0.708274797923745
+random_condition,random_forest,combined,sigmoid,True,catalyst_family,"O-containing, no N modifier",9,4,0.6666666666666666,1.148556255205965,0.5865103507458163
+random_condition,random_forest,combined,sigmoid,True,catalyst_family,other modifier,6,6,0.6666666666666666,0.9825045420579599,0.5451196425514746
+random_condition,random_forest,combined,uncalibrated,True,reactor,GDE,40,7,0.725,0.7256817498841259,0.4217858530031089
+random_condition,random_forest,combined,uncalibrated,True,reactor,H-Cell,45,15,0.5111111111111111,1.2667311435068869,0.6235183484206595
+random_condition,random_forest,combined,uncalibrated,True,reactor,missing,1,1,1.0,0.5235833335507524,0.23640319698743606
+random_condition,random_forest,combined,uncalibrated,True,ph_category,acid,1,1,1.0,0.5235833335507524,0.23640319698743606
+random_condition,random_forest,combined,uncalibrated,True,ph_category,basic,26,4,0.8076923076923077,0.615494878717433,0.3510777780029136
+random_condition,random_forest,combined,uncalibrated,True,ph_category,neutral,59,17,0.5254237288135594,1.1869034679071473,0.606809111372513
+random_condition,random_forest,combined,uncalibrated,True,polymer_category,MOF,17,5,0.47058823529411764,1.218917451426285,0.6250025595280934
+random_condition,random_forest,combined,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,0.9767151693096409,0.572974296452239
+random_condition,random_forest,combined,uncalibrated,True,polymer_category,nonpolymer,51,9,0.6274509803921569,0.989648004217983,0.5279565696632339
+random_condition,random_forest,combined,uncalibrated,True,polymer_category,polymer,15,8,0.7333333333333333,0.8286642926288538,0.3930941027921481
+random_condition,random_forest,combined,uncalibrated,True,missing_pattern,none,72,19,0.5972222222222222,1.0434128507882177,0.5362232141219301
+random_condition,random_forest,combined,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,0.9767151693096409,0.572974296452239
+random_condition,random_forest,combined,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,0.7974300688494341,0.4602765492918337
+random_condition,random_forest,combined,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.5235833335507524,0.23640319698743606
+random_condition,random_forest,combined,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.6056338028169014,1.036327044509305,0.5456723986378778
+random_condition,random_forest,combined,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.6666666666666666,0.7233117032692122,0.3696759400046361
+random_condition,random_forest,combined,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,1.0774548828570236,0.5160565387850674
+random_condition,random_forest,conditions,uncalibrated,True,reactor,GDE,40,7,0.625,1.0478820094170445,0.6212597813421604
+random_condition,random_forest,conditions,uncalibrated,True,reactor,H-Cell,45,15,0.4,1.3833017244128178,0.7331784433294677
+random_condition,random_forest,conditions,uncalibrated,True,reactor,missing,1,1,1.0,0.5496309623854571,0.24456850975713676
+random_condition,random_forest,conditions,uncalibrated,True,ph_category,acid,1,1,1.0,0.5496309623854571,0.24456850975713676
+random_condition,random_forest,conditions,uncalibrated,True,ph_category,basic,26,4,0.6153846153846154,0.9093996372009023,0.5844553064176762
+random_condition,random_forest,conditions,uncalibrated,True,ph_category,neutral,59,17,0.4576271186440678,1.3647367357294087,0.7228403938415742
+random_condition,random_forest,conditions,uncalibrated,True,polymer_category,MOF,17,5,0.5294117647058824,1.142566127584347,0.6574232418810557
+random_condition,random_forest,conditions,uncalibrated,True,polymer_category,missing,3,2,0.3333333333333333,1.5581365442806245,0.777689821125858
+random_condition,random_forest,conditions,uncalibrated,True,polymer_category,nonpolymer,51,9,0.5294117647058824,1.2498674896604274,0.6880400716716936
+random_condition,random_forest,conditions,uncalibrated,True,polymer_category,polymer,15,8,0.4666666666666667,1.124814210879097,0.6325787655105132
+random_condition,random_forest,conditions,uncalibrated,True,missing_pattern,none,72,19,0.4861111111111111,1.1941904142567181,0.6736802473147766
+random_condition,random_forest,conditions,uncalibrated,True,missing_pattern,polymer_category,3,2,0.3333333333333333,1.5581365442806245,0.777689821125858
+random_condition,random_forest,conditions,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,1.3507738515932988,0.7005373933470966
+random_condition,random_forest,conditions,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.5496309623854571,0.24456850975713676
+random_condition,random_forest,conditions,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.5211267605633803,1.2192565219299283,0.6739606715155358
+random_condition,random_forest,conditions,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.5555555555555556,1.0477085937993402,0.6241149789487921
+random_condition,random_forest,conditions,uncalibrated,True,catalyst_family,other modifier,6,6,0.3333333333333333,1.4528164227375078,0.7699578708545717
+study,hist_gradient_boosting,catalyst,uncalibrated,True,reactor,GDE,40,7,0.425,1.513921334986978,0.8002507196310423
+study,hist_gradient_boosting,catalyst,uncalibrated,True,reactor,H-Cell,45,15,0.4,2.26461160777623,0.9450778330925889
+study,hist_gradient_boosting,catalyst,uncalibrated,True,reactor,missing,1,1,1.0,0.014133330121196275,0.0002826302427945257
+study,hist_gradient_boosting,catalyst,uncalibrated,True,ph_category,acid,1,1,1.0,0.014133330121196275,0.0002826302427945257
+study,hist_gradient_boosting,catalyst,uncalibrated,True,ph_category,basic,26,4,0.46153846153846156,1.5479732572788003,0.8178698805075685
+study,hist_gradient_boosting,catalyst,uncalibrated,True,ph_category,neutral,59,17,0.3898305084745763,2.0714757806806894,0.9029477013764647
+study,hist_gradient_boosting,catalyst,uncalibrated,True,polymer_category,MOF,17,5,0.4117647058823529,1.7867439257130973,0.762238194994163
+study,hist_gradient_boosting,catalyst,uncalibrated,True,polymer_category,missing,3,2,0.0,1.1664125437842447,0.7002014290680681
+study,hist_gradient_boosting,catalyst,uncalibrated,True,polymer_category,nonpolymer,51,9,0.35294117647058826,2.163461931388791,1.0227978361595216
+study,hist_gradient_boosting,catalyst,uncalibrated,True,polymer_category,polymer,15,8,0.7333333333333333,1.2178710806817974,0.487831377227361
+study,hist_gradient_boosting,catalyst,uncalibrated,True,missing_pattern,none,72,19,0.4027777777777778,2.0831322971283495,0.9370391640973157
+study,hist_gradient_boosting,catalyst,uncalibrated,True,missing_pattern,polymer_category,3,2,0.0,1.1664125437842447,0.7002014290680681
+study,hist_gradient_boosting,catalyst,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.6,0.8979612724815584,0.497110717219727
+study,hist_gradient_boosting,catalyst,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.014133330121196275,0.0002826302427945257
+study,hist_gradient_boosting,catalyst,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.38028169014084506,1.972679458071374,0.9283717072825727
+study,hist_gradient_boosting,catalyst,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.6666666666666666,1.5660277283208532,0.5073121989613445
+study,hist_gradient_boosting,catalyst,uncalibrated,True,catalyst_family,other modifier,6,6,0.5,1.387336333595912,0.6764354828227023
+study,hist_gradient_boosting,combined,sigmoid,False,reactor,GDE,20,4,0.7,1.037115630166713,0.5750304411494244
+study,hist_gradient_boosting,combined,sigmoid,False,reactor,H-Cell,35,10,0.37142857142857144,1.4224839773036244,0.7464476147031172
+study,hist_gradient_boosting,combined,sigmoid,False,reactor,missing,1,1,1.0,0.6814877130029742,0.35024126277403955
+study,hist_gradient_boosting,combined,sigmoid,False,ph_category,acid,1,1,1.0,0.6814877130029742,0.35024126277403955
+study,hist_gradient_boosting,combined,sigmoid,False,ph_category,basic,6,1,0.8333333333333334,0.9870354532757609,0.5485988123506779
+study,hist_gradient_boosting,combined,sigmoid,False,ph_category,neutral,49,12,0.4489795918367347,1.3185110018225827,0.700707805377419
+study,hist_gradient_boosting,combined,sigmoid,False,polymer_category,MOF,13,3,0.3076923076923077,1.7886081209771818,0.8717914017948167
+study,hist_gradient_boosting,combined,sigmoid,False,polymer_category,missing,3,2,0.6666666666666666,0.7806859283285288,0.450228403276439
+study,hist_gradient_boosting,combined,sigmoid,False,polymer_category,nonpolymer,30,7,0.5,1.1807432478258697,0.659530620237512
+study,hist_gradient_boosting,combined,sigmoid,False,polymer_category,polymer,10,4,0.7,1.0194478729499046,0.550662456008434
+study,hist_gradient_boosting,combined,sigmoid,False,missing_pattern,none,42,11,0.42857142857142855,1.3688182708383752,0.7242336740900382
+study,hist_gradient_boosting,combined,sigmoid,False,missing_pattern,polymer_category,3,2,0.6666666666666666,0.7806859283285288,0.450228403276439
+study,hist_gradient_boosting,combined,sigmoid,False,missing_pattern,potential_rhe_v,10,3,0.7,1.069682664876377,0.5857775815986668
+study,hist_gradient_boosting,combined,sigmoid,False,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.6814877130029742,0.35024126277403955
+study,hist_gradient_boosting,combined,sigmoid,False,catalyst_family,N-containing modifier,47,10,0.5106382978723404,1.1440381011736858,0.6440118863061026
+study,hist_gradient_boosting,combined,sigmoid,False,catalyst_family,"O-containing, no N modifier",5,2,0.2,2.604599587844085,1.0932677666762995
+study,hist_gradient_boosting,combined,sigmoid,False,catalyst_family,other modifier,4,4,0.75,1.1044877068951073,0.5604047776508282
+study,hist_gradient_boosting,combined,uncalibrated,True,reactor,GDE,40,7,0.55,1.6669332830734234,0.7520897033052496
+study,hist_gradient_boosting,combined,uncalibrated,True,reactor,H-Cell,45,15,0.4666666666666667,2.35936270020689,0.9193517060540727
+study,hist_gradient_boosting,combined,uncalibrated,True,reactor,missing,1,1,1.0,0.015041728033826397,0.00033913424833337995
+study,hist_gradient_boosting,combined,uncalibrated,True,ph_category,acid,1,1,1.0,0.015041728033826397,0.00033913424833337995
+study,hist_gradient_boosting,combined,uncalibrated,True,ph_category,basic,26,4,0.5,1.5281499609801623,0.7817287910860553
+study,hist_gradient_boosting,combined,uncalibrated,True,ph_category,neutral,59,17,0.5084745762711864,2.256216166894284,0.8666011243458611
+study,hist_gradient_boosting,combined,uncalibrated,True,polymer_category,MOF,17,5,0.5882352941176471,1.9319658811839835,0.7536775552978462
+study,hist_gradient_boosting,combined,uncalibrated,True,polymer_category,missing,3,2,0.3333333333333333,1.868527497182552,0.9350662469049804
+study,hist_gradient_boosting,combined,uncalibrated,True,polymer_category,nonpolymer,51,9,0.43137254901960786,2.3371090901062512,0.9642231723104188
+study,hist_gradient_boosting,combined,uncalibrated,True,polymer_category,polymer,15,8,0.7333333333333333,1.0148085662124415,0.44411033801879374
+study,hist_gradient_boosting,combined,uncalibrated,True,missing_pattern,none,72,19,0.4861111111111111,2.087422672613278,0.8728544122059341
+study,hist_gradient_boosting,combined,uncalibrated,True,missing_pattern,polymer_category,3,2,0.3333333333333333,1.868527497182552,0.9350662469049804
+study,hist_gradient_boosting,combined,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,1.694863791254333,0.5803698485101072
+study,hist_gradient_boosting,combined,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.015041728033826397,0.00033913424833337995
+study,hist_gradient_boosting,combined,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.4788732394366197,2.0578262955822244,0.8638755163981627
+study,hist_gradient_boosting,combined,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.7777777777777778,1.9758054824442612,0.6566733589442113
+study,hist_gradient_boosting,combined,uncalibrated,True,catalyst_family,other modifier,6,6,0.5,1.4959630386574132,0.7015886906873532
+study,hist_gradient_boosting,conditions,uncalibrated,True,reactor,GDE,40,7,0.475,2.1749399081614342,0.8873753591980134
+study,hist_gradient_boosting,conditions,uncalibrated,True,reactor,H-Cell,45,15,0.24444444444444444,2.5822286348313073,1.1502860448602024
+study,hist_gradient_boosting,conditions,uncalibrated,True,reactor,missing,1,1,1.0,0.06463658015226183,0.005479322245750838
+study,hist_gradient_boosting,conditions,uncalibrated,True,ph_category,acid,1,1,1.0,0.06463658015226183,0.005479322245750838
+study,hist_gradient_boosting,conditions,uncalibrated,True,ph_category,basic,26,4,0.46153846153846156,2.0026468236770962,0.9207412055183553
+study,hist_gradient_boosting,conditions,uncalibrated,True,ph_category,neutral,59,17,0.3050847457627119,2.5615096182756227,1.0731968651381767
+study,hist_gradient_boosting,conditions,uncalibrated,True,polymer_category,MOF,17,5,0.11764705882352941,3.090374754982857,1.3752534427163727
+study,hist_gradient_boosting,conditions,uncalibrated,True,polymer_category,missing,3,2,0.3333333333333333,2.484184407934625,0.9467503268532432
+study,hist_gradient_boosting,conditions,uncalibrated,True,polymer_category,nonpolymer,51,9,0.4117647058823529,2.276729197468939,0.9349951806236203
+study,hist_gradient_boosting,conditions,uncalibrated,True,polymer_category,polymer,15,8,0.4666666666666667,1.8106938896393423,0.8906034660221797
+study,hist_gradient_boosting,conditions,uncalibrated,True,missing_pattern,none,72,19,0.3055555555555556,2.4164390417013575,1.090690048934845
+study,hist_gradient_boosting,conditions,uncalibrated,True,missing_pattern,polymer_category,3,2,0.3333333333333333,2.484184407934625,0.9467503268532432
+study,hist_gradient_boosting,conditions,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,2.176172066756459,0.588795188276107
+study,hist_gradient_boosting,conditions,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.06463658015226183,0.005479322245750838
+study,hist_gradient_boosting,conditions,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.38028169014084506,2.25505844257868,0.9733164014731819
+study,hist_gradient_boosting,conditions,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.1111111111111111,3.505280736906252,1.4462855199567328
+study,hist_gradient_boosting,conditions,uncalibrated,True,catalyst_family,other modifier,6,6,0.5,1.934307569795992,0.856888587444815
+study,logistic_regression,catalyst,uncalibrated,True,reactor,GDE,40,7,0.475,9.191334238676626,0.8990729495951431
+study,logistic_regression,catalyst,uncalibrated,True,reactor,H-Cell,45,15,0.5555555555555556,2.7503717279802227,0.8471205662512428
+study,logistic_regression,catalyst,uncalibrated,True,reactor,missing,1,1,1.0,0.3664730275601788,0.12864308191349247
+study,logistic_regression,catalyst,uncalibrated,True,ph_category,acid,1,1,1.0,0.3664730275601788,0.12864308191349247
+study,logistic_regression,catalyst,uncalibrated,True,ph_category,basic,26,4,0.5,13.44309547234185,1.015933672544974
+study,logistic_regression,catalyst,uncalibrated,True,ph_category,neutral,59,17,0.5254237288135594,2.405078220767575,0.8079503047278361
+study,logistic_regression,catalyst,uncalibrated,True,polymer_category,MOF,17,5,0.47058823529411764,1.9855457628822226,0.8074954080575415
+study,logistic_regression,catalyst,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,1.0520355683840459,0.5599588774516009
+study,logistic_regression,catalyst,uncalibrated,True,polymer_category,nonpolymer,51,9,0.47058823529411764,8.63832647939012,1.0166307617523258
+study,logistic_regression,catalyst,uncalibrated,True,polymer_category,polymer,15,8,0.7333333333333333,0.9547690140459422,0.4637679418882343
+study,logistic_regression,catalyst,uncalibrated,True,missing_pattern,none,72,19,0.5,6.628964193002556,0.9280313928707575
+study,logistic_regression,catalyst,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,1.0520355683840459,0.5599588774516009
+study,logistic_regression,catalyst,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.6,1.0978568704838874,0.5585206546062313
+study,logistic_regression,catalyst,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.3664730275601788,0.12864308191349247
+study,logistic_regression,catalyst,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.4788732394366197,6.533369540071,0.9060281226886379
+study,logistic_regression,catalyst,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.7777777777777778,2.1900524972648197,0.7091654728054692
+study,logistic_regression,catalyst,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,1.3678100855517858,0.5835834301471047
+study,logistic_regression,combined,sigmoid,False,reactor,GDE,20,4,0.5,1.2638670504641627,0.6623722518401078
+study,logistic_regression,combined,sigmoid,False,reactor,H-Cell,35,10,0.4,1.4658604392593502,0.771011451797936
+study,logistic_regression,combined,sigmoid,False,reactor,missing,1,1,1.0,0.7158090427279457,0.35040770236843083
+study,logistic_regression,combined,sigmoid,False,ph_category,acid,1,1,1.0,0.7158090427279457,0.35040770236843083
+study,logistic_regression,combined,sigmoid,False,ph_category,basic,6,1,0.16666666666666666,1.57225564073804,0.830019810539334
+study,logistic_regression,combined,sigmoid,False,ph_category,neutral,49,12,0.46938775510204084,1.3703861742639236,0.7194434078876307
+study,logistic_regression,combined,sigmoid,False,polymer_category,MOF,13,3,0.3076923076923077,1.7274634836733622,0.8479226289324332
+study,logistic_regression,combined,sigmoid,False,polymer_category,missing,3,2,0.6666666666666666,1.2283700225506407,0.6444626202494107
+study,logistic_regression,combined,sigmoid,False,polymer_category,nonpolymer,30,7,0.36666666666666664,1.4008304244241698,0.7604467548949977
+study,logistic_regression,combined,sigmoid,False,polymer_category,polymer,10,4,0.8,0.9131217337957722,0.48134688683785526
+study,logistic_regression,combined,sigmoid,False,missing_pattern,none,42,11,0.35714285714285715,1.4960881253733507,0.7888375376651142
+study,logistic_regression,combined,sigmoid,False,missing_pattern,polymer_category,3,2,0.6666666666666666,1.2283700225506407,0.6444626202494107
+study,logistic_regression,combined,sigmoid,False,missing_pattern,potential_rhe_v,10,3,0.7,1.006164505002785,0.5168281407046877
+study,logistic_regression,combined,sigmoid,False,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.7158090427279457,0.35040770236843083
+study,logistic_regression,combined,sigmoid,False,catalyst_family,N-containing modifier,47,10,0.44680851063829785,1.309791902464775,0.7057711427350439
+study,logistic_regression,combined,sigmoid,False,catalyst_family,"O-containing, no N modifier",5,2,0.2,2.304558685602092,1.0362464761854653
+study,logistic_regression,combined,sigmoid,False,catalyst_family,other modifier,4,4,0.75,1.0538131455583886,0.5576943656559882
+study,logistic_regression,combined,uncalibrated,True,reactor,GDE,40,7,0.4,9.85908832999383,0.9941886832769468
+study,logistic_regression,combined,uncalibrated,True,reactor,H-Cell,45,15,0.5333333333333333,2.211147311930014,0.809860041388244
+study,logistic_regression,combined,uncalibrated,True,reactor,missing,1,1,1.0,0.23038386202990346,0.05696678980426881
+study,logistic_regression,combined,uncalibrated,True,ph_category,acid,1,1,1.0,0.23038386202990346,0.05696678980426881
+study,logistic_regression,combined,uncalibrated,True,ph_category,basic,26,4,0.34615384615384615,14.472364239992215,1.1699320141510303
+study,logistic_regression,combined,uncalibrated,True,ph_category,neutral,59,17,0.5254237288135594,1.992943932149258,0.7761528275529163
+study,logistic_regression,combined,uncalibrated,True,polymer_category,MOF,17,5,0.35294117647058826,1.8023436292783561,0.792829977683902
+study,logistic_regression,combined,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,1.0119075451791983,0.5391984206016049
+study,logistic_regression,combined,uncalibrated,True,polymer_category,nonpolymer,51,9,0.4117647058823529,8.77936172631707,1.0779829140618171
+study,logistic_regression,combined,uncalibrated,True,polymer_category,polymer,15,8,0.8,0.8448355815462313,0.4130254989179531
+study,logistic_regression,combined,uncalibrated,True,missing_pattern,none,72,19,0.4444444444444444,6.622211997251444,0.9435658735248142
+study,logistic_regression,combined,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,1.0119075451791983,0.5391984206016049
+study,logistic_regression,combined,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.6,1.403017579896227,0.6656911037957408
+study,logistic_regression,combined,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.23038386202990346,0.05696678980426881
+study,logistic_regression,combined,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.4647887323943662,6.5824515852789665,0.9190741125627547
+study,logistic_regression,combined,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.4444444444444444,2.041033254574822,0.7908840190482166
+study,logistic_regression,combined,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,1.3953640421089684,0.6493329699939294
+study,logistic_regression,conditions,uncalibrated,True,reactor,GDE,40,7,0.5,1.4368252441012381,0.7360028916011055
+study,logistic_regression,conditions,uncalibrated,True,reactor,H-Cell,45,15,0.13333333333333333,1.6680947217459636,0.9239958489913574
+study,logistic_regression,conditions,uncalibrated,True,reactor,missing,1,1,1.0,0.546322487915254,0.2442147692080545
+study,logistic_regression,conditions,uncalibrated,True,ph_category,acid,1,1,1.0,0.546322487915254,0.2442147692080545
+study,logistic_regression,conditions,uncalibrated,True,ph_category,basic,26,4,0.4230769230769231,1.560999556091832,0.8203200183253987
+study,logistic_regression,conditions,uncalibrated,True,ph_category,neutral,59,17,0.2542372881355932,1.5584963353259365,0.8422306507151686
+study,logistic_regression,conditions,uncalibrated,True,polymer_category,MOF,17,5,0.29411764705882354,2.0956454643067257,1.0465035873757418
+study,logistic_regression,conditions,uncalibrated,True,polymer_category,missing,3,2,0.3333333333333333,1.1971815501774847,0.7104825446582982
+study,logistic_regression,conditions,uncalibrated,True,polymer_category,nonpolymer,51,9,0.37254901960784315,1.46209127762261,0.781672512962858
+study,logistic_regression,conditions,uncalibrated,True,polymer_category,polymer,15,8,0.13333333333333333,1.2866281352022169,0.7651224571596735
+study,logistic_regression,conditions,uncalibrated,True,missing_pattern,none,72,19,0.2777777777777778,1.6104500702256432,0.8656601523640508
+study,logistic_regression,conditions,uncalibrated,True,missing_pattern,polymer_category,3,2,0.3333333333333333,1.1971815501774847,0.7104825446582982
+study,logistic_regression,conditions,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.5,1.299332253583914,0.656095026446876
+study,logistic_regression,conditions,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.546322487915254,0.2442147692080545
+study,logistic_regression,conditions,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.323943661971831,1.40479915517224,0.7691819429971116
+study,logistic_regression,conditions,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.1111111111111111,2.9406202911673236,1.421282806718437
+study,logistic_regression,conditions,uncalibrated,True,catalyst_family,other modifier,6,6,0.5,1.1462120154663633,0.6434467374337516
+study,majority,none,uncalibrated,True,reactor,GDE,40,7,0.6,13.815510557964274,0.8
+study,majority,none,uncalibrated,True,reactor,H-Cell,45,15,0.37777777777777777,21.490794201277758,1.2444444444444445
+study,majority,none,uncalibrated,True,reactor,missing,1,1,1.0,0.0,0.0
+study,majority,none,uncalibrated,True,ph_category,acid,1,1,1.0,0.0,0.0
+study,majority,none,uncalibrated,True,ph_category,basic,26,4,0.5769230769230769,14.612559244000671,0.8461538461538461
+study,majority,none,uncalibrated,True,ph_category,neutral,59,17,0.4406779661016949,19.318298661560213,1.11864406779661
+study,majority,none,uncalibrated,True,polymer_category,MOF,17,5,0.23529411764705882,26.41200547846111,1.5294117647058822
+study,majority,none,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,11.512925464970229,0.6666666666666666
+study,majority,none,uncalibrated,True,polymer_category,nonpolymer,51,9,0.47058823529411764,18.28523456201154,1.0588235294117647
+study,majority,none,uncalibrated,True,polymer_category,polymer,15,8,0.8,6.907755278982137,0.4
+study,majority,none,uncalibrated,True,missing_pattern,none,72,19,0.4444444444444444,19.18820910828371,1.1111111111111112
+study,majority,none,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,11.512925464970229,0.6666666666666666
+study,majority,none,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,10.361632918473205,0.6
+study,majority,none,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.0,0.0
+study,majority,none,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.5211267605633803,16.539695738407932,0.9577464788732394
+study,majority,none,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.1111111111111111,30.701134573253942,1.7777777777777777
+study,majority,none,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,11.512925464970229,0.6666666666666666
+study,random_forest,catalyst,uncalibrated,True,reactor,GDE,40,7,0.525,1.06252294780129,0.5846569878833197
+study,random_forest,catalyst,uncalibrated,True,reactor,H-Cell,45,15,0.4666666666666667,1.4795044170782141,0.7528228585017129
+study,random_forest,catalyst,uncalibrated,True,reactor,missing,1,1,1.0,0.23968758433460227,0.06435846181060825
+study,random_forest,catalyst,uncalibrated,True,ph_category,acid,1,1,1.0,0.23968758433460227,0.06435846181060825
+study,random_forest,catalyst,uncalibrated,True,ph_category,basic,26,4,0.46153846153846156,0.9989706318763746,0.5571329553862545
+study,random_forest,catalyst,uncalibrated,True,ph_category,neutral,59,17,0.5084745762711864,1.408565766979415,0.7250483272519873
+study,random_forest,catalyst,uncalibrated,True,polymer_category,MOF,17,5,0.5882352941176471,1.3788127864997897,0.645941004295511
+study,random_forest,catalyst,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,0.9851308028423839,0.5900255497424683
+study,random_forest,catalyst,uncalibrated,True,polymer_category,nonpolymer,51,9,0.37254901960784315,1.330672809761193,0.7459985418166383
+study,random_forest,catalyst,uncalibrated,True,polymer_category,polymer,15,8,0.8,1.0039187458707601,0.4353778169880549
+study,random_forest,catalyst,uncalibrated,True,missing_pattern,none,72,19,0.4583333333333333,1.3356116776653382,0.6955356119867597
+study,random_forest,catalyst,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,0.9851308028423839,0.5900255497424683
+study,random_forest,catalyst,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,0.9959183480139725,0.541466743563576
+study,random_forest,catalyst,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.23968758433460227,0.06435846181060825
+study,random_forest,catalyst,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.4507042253521127,1.3095796878170964,0.7033606874500907
+study,random_forest,catalyst,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.7777777777777778,1.19949361301404,0.4940552806832902
+study,random_forest,catalyst,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,0.9237839854609344,0.4904267124357402
+study,random_forest,combined,sigmoid,False,reactor,GDE,20,4,0.65,1.0937717582729645,0.5948858102264611
+study,random_forest,combined,sigmoid,False,reactor,H-Cell,35,10,0.34285714285714286,1.756080697502086,0.7898081362318394
+study,random_forest,combined,sigmoid,False,reactor,missing,1,1,1.0,0.6759467629241728,0.3532271425480431
+study,random_forest,combined,sigmoid,False,ph_category,acid,1,1,1.0,0.6759467629241728,0.3532271425480431
+study,random_forest,combined,sigmoid,False,ph_category,basic,6,1,0.8333333333333334,0.7241669633561987,0.40321301901294976
+study,random_forest,combined,sigmoid,False,ph_category,neutral,49,12,0.40816326530612246,1.612107301997859,0.7575861807870592
+study,random_forest,combined,sigmoid,False,polymer_category,MOF,13,3,0.38461538461538464,2.1023427203797103,0.8625395610774622
+study,random_forest,combined,sigmoid,False,polymer_category,missing,3,2,0.6666666666666666,0.9904717196597433,0.5505090130243996
+study,random_forest,combined,sigmoid,False,polymer_category,nonpolymer,30,7,0.4666666666666667,1.371366789838468,0.6994368862719575
+study,random_forest,combined,sigmoid,False,polymer_category,polymer,10,4,0.5,1.257133212188696,0.6046580193952718
+study,random_forest,combined,sigmoid,False,missing_pattern,none,42,11,0.40476190476190477,1.6318607465937975,0.7532001221961621
+study,random_forest,combined,sigmoid,False,missing_pattern,polymer_category,3,2,0.6666666666666666,0.9904717196597433,0.5505090130243996
+study,random_forest,combined,sigmoid,False,missing_pattern,potential_rhe_v,10,3,0.6,1.1828693062113544,0.6255068801331598
+study,random_forest,combined,sigmoid,False,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.6759467629241728,0.3532271425480431
+study,random_forest,combined,sigmoid,False,catalyst_family,N-containing modifier,47,10,0.46808510638297873,1.2762164313767588,0.6764507025821495
+study,random_forest,combined,sigmoid,False,catalyst_family,"O-containing, no N modifier",5,2,0.2,3.6615157548881596,1.1578621285628374
+study,random_forest,combined,sigmoid,False,catalyst_family,other modifier,4,4,0.75,1.4311138229520008,0.5779336127541093
+study,random_forest,combined,uncalibrated,True,reactor,GDE,40,7,0.6,1.1064063457392384,0.5993678535175169
+study,random_forest,combined,uncalibrated,True,reactor,H-Cell,45,15,0.4,1.5628519872245397,0.7581010943081391
+study,random_forest,combined,uncalibrated,True,reactor,missing,1,1,1.0,0.32609011720159875,0.10908593775525326
+study,random_forest,combined,uncalibrated,True,ph_category,acid,1,1,1.0,0.32609011720159875,0.10908593775525326
+study,random_forest,combined,uncalibrated,True,ph_category,basic,26,4,0.5769230769230769,1.093413735549227,0.6013553328347625
+study,random_forest,combined,uncalibrated,True,ph_category,neutral,59,17,0.4576271186440678,1.4602684089897273,0.7195597412010696
+study,random_forest,combined,uncalibrated,True,polymer_category,MOF,17,5,0.29411764705882354,1.6126260371137953,0.7703331051166512
+study,random_forest,combined,uncalibrated,True,polymer_category,missing,3,2,0.6666666666666666,1.2023389696076159,0.7004918131256823
+study,random_forest,combined,uncalibrated,True,polymer_category,nonpolymer,51,9,0.47058823529411764,1.373637569612835,0.713774025270124
+study,random_forest,combined,uncalibrated,True,polymer_category,polymer,15,8,0.8,0.9222338521242313,0.43991572047904914
+study,random_forest,combined,uncalibrated,True,missing_pattern,none,72,19,0.4583333333333333,1.4075689058302452,0.7078918059741902
+study,random_forest,combined,uncalibrated,True,missing_pattern,polymer_category,3,2,0.6666666666666666,1.2023389696076159,0.7004918131256823
+study,random_forest,combined,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,0.9632615126073315,0.5019577915048185
+study,random_forest,combined,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.32609011720159875,0.10908593775525326
+study,random_forest,combined,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.5352112676056338,1.3304017831481607,0.6809861411139112
+study,random_forest,combined,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.1111111111111111,1.6546444402191893,0.7611406559363252
+study,random_forest,combined,uncalibrated,True,catalyst_family,other modifier,6,6,0.6666666666666666,0.9267261343972133,0.49967789996792455
+study,random_forest,conditions,uncalibrated,True,reactor,GDE,40,7,0.475,1.3391021004578108,0.7053976538638643
+study,random_forest,conditions,uncalibrated,True,reactor,H-Cell,45,15,0.26666666666666666,1.7881961009834515,0.9282998479837188
+study,random_forest,conditions,uncalibrated,True,reactor,missing,1,1,1.0,0.4801447560447421,0.19468837813743864
+study,random_forest,conditions,uncalibrated,True,ph_category,acid,1,1,1.0,0.4801447560447421,0.19468837813743864
+study,random_forest,conditions,uncalibrated,True,ph_category,basic,26,4,0.38461538461538464,1.3957307984908351,0.7628904318352886
+study,random_forest,conditions,uncalibrated,True,ph_category,neutral,59,17,0.3559322033898305,1.6566764034204413,0.8500720014593969
+study,random_forest,conditions,uncalibrated,True,polymer_category,MOF,17,5,0.29411764705882354,2.2699601706209185,1.0348140448574716
+study,random_forest,conditions,uncalibrated,True,polymer_category,missing,3,2,0.3333333333333333,1.3916542425604803,0.7492142149823647
+study,random_forest,conditions,uncalibrated,True,polymer_category,nonpolymer,51,9,0.35294117647058826,1.4499876681653414,0.7925401360405813
+study,random_forest,conditions,uncalibrated,True,polymer_category,polymer,15,8,0.5333333333333333,1.1866264409295342,0.6616706230910404
+study,random_forest,conditions,uncalibrated,True,missing_pattern,none,72,19,0.3194444444444444,1.6436357816327014,0.8622817164114192
+study,random_forest,conditions,uncalibrated,True,missing_pattern,polymer_category,3,2,0.3333333333333333,1.3916542425604803,0.7492142149823647
+study,random_forest,conditions,uncalibrated,True,missing_pattern,potential_rhe_v,10,3,0.7,1.1516169557331795,0.5657473087252637
+study,random_forest,conditions,uncalibrated,True,missing_pattern,"potential_rhe_v,reactor",1,1,1.0,0.4801447560447421,0.19468837813743864
+study,random_forest,conditions,uncalibrated,True,catalyst_family,N-containing modifier,71,15,0.39436619718309857,1.4412872484989614,0.7885711233412611
+study,random_forest,conditions,uncalibrated,True,catalyst_family,"O-containing, no N modifier",9,4,0.1111111111111111,2.8350237616746545,1.1729060933355202
+study,random_forest,conditions,uncalibrated,True,catalyst_family,other modifier,6,6,0.5,1.1110741366857193,0.6065638491183544

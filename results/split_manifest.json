@@ -1,0 +1,44 @@
+{
+  "script_version": "1.0",
+  "config_version": "v1",
+  "records_sha256": "1017f7d9415e6748db4d36cd1f90a7b236cf1dd70e1fe5cb1418afc4bb02295c",
+  "config_sha256": "d9f05f7a5b99662189011947d0a567bac2b630eae35a4c3cab09b33ebf44f7d1",
+  "engine_sha256": "e1960f2bfd4ec25d87abecafcc2113db8137e962807d04f79c4b81378bd6fe59",
+  "splits_sha256": "29be87b47109e4330ef4120de25a35803e6889358aab63779c3baea1775bbf7c",
+  "records": 86,
+  "studies": 22,
+  "source_groups": 22,
+  "classes": [
+    "C2H4",
+    "C2H5OH",
+    "CH4",
+    "CO"
+  ],
+  "seed": 20261109,
+  "outer_folds": 3,
+  "repeats": 1,
+  "tuning_budget": 0,
+  "models": {
+    "majority": {
+      "strategy": "most_frequent"
+    },
+    "logistic_regression": {
+      "C": 1.0,
+      "max_iter": 2000,
+      "solver": "lbfgs"
+    },
+    "random_forest": {
+      "n_estimators": 150,
+      "min_samples_leaf": 2,
+      "max_features": "sqrt",
+      "n_jobs": 1
+    },
+    "hist_gradient_boosting": {
+      "max_iter": 100,
+      "max_leaf_nodes": 15,
+      "l2_regularization": 1.0,
+      "min_samples_leaf": 5
+    }
+  },
+  "note": "No outer outcomes evaluated during split preparation. Do not alter this freeze after model inspection without a dated amendment."
+}

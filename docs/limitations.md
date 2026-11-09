@@ -1,0 +1,11 @@
+# Limitations
+
+The empirical result applies to86 selected recorded conditions from22 DOI groups in an organic-modified copper workbook, not the entire CO2RR literature. Candidate A/B data were not acquired. The fallback's original study used delta-FE questions; this evaluation defines a new, explicit highest-reported individual-carbon FE label from the raw table and does not reproduce that original target. Missing products remain unreported, so a recorded winner may not be the physical dominant product. H2/aggregate carbon labels are outside this target.
+
+Selection removes236/322 raw rows. Reasons include controls, missing explicit DOI, unsuitable modifier representations, incomplete target support and rare classes. The source DOI identifiers were verified, but individual source-paper experimental values were not all independently re-extracted. Citation-block continuation is tied to workbook layout and independently tested. No exact cross-DOI recorded input matches were found; hidden shared data, equivalent SMILES and incomplete conditions can remain.
+
+All copper is invariant; catalyst inputs describe modifier atom tokens/polymer category, not catalyst structure or full molecular formula. Lexical parsing does not establish chemically valid SMILES. Electrolyte, morphology/polymer category, missingness and conditions can proxy study identity. Pressure and quantitative concentration are unavailable. RHE potential is used as reported without a new conversion. The paper-level grouping protects observed source identity, not all latent laboratory families.
+
+Small class-by-study coverage creates broad, unstable intervals. Bootstrap resamples whole DOIs conditional on saved OOF fits and omits refitting uncertainty, study selection, extraction/measurement error and literature bias. CV training sets overlap. Equal-study metrics change row weights rather than create independent new experiments. Split contrasts are descriptive and cannot establish a causal leakage effect.
+
+Sigmoid study calibration is eligible only on56records/14DOIs. Its comparison uses the exact matched raw subset, not the86-record main cohort. ECE is bin-dependent; reliability/coverage curves are exploratory. No deployable threshold, unseen-domain guarantee, mechanism, new-method novelty, publication assurance or new wet-lab evidence follows.

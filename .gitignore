@@ -1,0 +1,28 @@
+# Local Python/runtime files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Downloaded / full curated measurement tables (regenerate from pinned source)
+data/raw/
+data/processed/records.csv
+data/processed/full_audited_records.csv
+data/processed/eligible_before_duplicate_and_class_filter.csv
+
+# Repeated runs, temporary outputs and archives
+results_reproduction/
+figures_reproduction/
+work/
+*.zip
+*.tmp
+*.partial.csv
+*.log
+!results/tests.log
+!results/package_reproduction_tests.log

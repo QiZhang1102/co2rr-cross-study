@@ -1,0 +1,2078 @@
+[
+  {
+    "doi": "10.1002/ange.201907935",
+    "status": 200,
+    "title": [
+      "In\u2010Situ Nanostructuring and Stabilization of Polycrystalline Copper by an Organic Salt Additive Promotes Electrocatalytic CO<sub>2</sub> Reduction to Ethylene"
+    ],
+    "container-title": [
+      "Angewandte Chemie"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          10,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5543-6595",
+        "authenticated-orcid": false,
+        "given": "Arnaud",
+        "family": "Thevenon",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Joint Center for Artificial Photosynthesis and Division of Chemistry and Chemical Engineering California Institute of Technology  Pasadena, California 91125 USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0812-5591",
+        "authenticated-orcid": false,
+        "given": "Alonso",
+        "family": "Rosas\u2010Hern\u00e1ndez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Joint Center for Artificial Photosynthesis and Division of Chemistry and Chemical Engineering California Institute of Technology  Pasadena, California 91125 USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6610-4414",
+        "authenticated-orcid": false,
+        "given": "Jonas C.",
+        "family": "Peters",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Joint Center for Artificial Photosynthesis and Division of Chemistry and Chemical Engineering California Institute of Technology  Pasadena, California 91125 USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9692-7614",
+        "authenticated-orcid": false,
+        "given": "Theodor",
+        "family": "Agapie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Joint Center for Artificial Photosynthesis and Division of Chemistry and Chemical Engineering California Institute of Technology  Pasadena, California 91125 USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1002/anie.202010601",
+    "status": 200,
+    "title": [
+      "Highly Selective CO<sub>2</sub> Electroreduction to CH<sub>4</sub> by In\u2005Situ Generated Cu<sub>2</sub>O Single\u2010Type Sites on a Conductive MOF: Stabilizing Key Intermediates with Hydrogen Bonding"
+    ],
+    "container-title": [
+      "Angewandte Chemie International Edition"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          27
+        ]
+      ]
+    },
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9723-326X",
+        "authenticated-orcid": false,
+        "given": "Jun\u2010Dong",
+        "family": "Yi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4361-4080",
+        "authenticated-orcid": false,
+        "given": "Ruikuan",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zai\u2010Lai",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Fuzhou University  Fuzhou 350002 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guo\u2010Liang",
+        "family": "Chai",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          },
+          {
+            "name": "University of Chinese Academy of Sciences  Beijing 100049 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tian\u2010Fu",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          },
+          {
+            "name": "University of Chinese Academy of Sciences  Beijing 100049 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rui\u2010Ping",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4680-2976",
+        "authenticated-orcid": false,
+        "given": "Yuan\u2010Biao",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          },
+          {
+            "name": "University of Chinese Academy of Sciences  Beijing 100049 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2398-399X",
+        "authenticated-orcid": false,
+        "given": "Rong",
+        "family": "Cao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          },
+          {
+            "name": "University of Chinese Academy of Sciences  Beijing 100049 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1002/anie.202102193",
+    "status": 200,
+    "title": [
+      "Hierarchical Metal\u2013Polymer Hybrids for Enhanced CO<sub>2</sub>Electroreduction"
+    ],
+    "container-title": [
+      "Angewandte Chemie International Edition"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Shuaiqiang",
+        "family": "Jia",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical, Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qinggong",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing National Laboratory for Molecular Sciences CAS Key Laboratory of Colloid and Interface and Thermodynamics CAS Research/Education Center for Excellence in Molecular Sciences Institute of Chemistry Chinese Academy of Sciences Beijing 100190 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mengen",
+        "family": "Chu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical, Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shitao",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical, Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ruting",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical, Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jianxin",
+        "family": "Zhai",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical, Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wei",
+        "family": "Xia",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical, Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mingyuan",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical, Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Haihong",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical, Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0440-809X",
+        "authenticated-orcid": false,
+        "given": "Buxing",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical, Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 China"
+          },
+          {
+            "name": "Beijing National Laboratory for Molecular Sciences CAS Key Laboratory of Colloid and Interface and Thermodynamics CAS Research/Education Center for Excellence in Molecular Sciences Institute of Chemistry Chinese Academy of Sciences Beijing 100190 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1002/anie.202111136",
+    "status": 200,
+    "title": [
+      "Highly Selective Tandem Electroreduction of CO<sub>2</sub> to Ethylene over Atomically Isolated Nickel\u2013Nitrogen Site/Copper Nanoparticle Catalysts"
+    ],
+    "container-title": [
+      "Angewandte Chemie International Edition"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Dong\u2010Li",
+        "family": "Meng",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          },
+          {
+            "name": "College of Materials and Chemical Engineering Minjiang University  Fuzhou Fujian 350108 China"
+          },
+          {
+            "name": "University of Chinese Academy of Sciences  Beijing 100049 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Meng\u2010Di",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Duan\u2010Hui",
+        "family": "Si",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Min\u2010Jie",
+        "family": "Mao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ying",
+        "family": "Hou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4680-2976",
+        "authenticated-orcid": false,
+        "given": "Yuan\u2010Biao",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          },
+          {
+            "name": "University of Chinese Academy of Sciences  Beijing 100049 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2398-399X",
+        "authenticated-orcid": false,
+        "given": "Rong",
+        "family": "Cao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Structural Chemistry Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences  Fuzhou 350002 China"
+          },
+          {
+            "name": "Fujian Science &amp; Technology Innovation Laboratory for, Optoelectronic Information of China  Fuzhou Fujian 350108 P. R. China"
+          },
+          {
+            "name": "University of Chinese Academy of Sciences  Beijing 100049 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1002/anie.202111265",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1002/anie.202202607",
+    "status": 200,
+    "title": [
+      "Boosting the Productivity of Electrochemical CO<sub>2</sub>Reduction to Multi\u2010Carbon Products by Enhancing CO<sub>2</sub>Diffusion through a Porous Organic Cage"
+    ],
+    "container-title": [
+      "Angewandte Chemie International Edition"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          7
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Chunjun",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Beijing National Laboratory for Molecular Sciences CAS Key Laboratory of Colloid and Interface and Thermodynamics CAS Research/Education Center for Excellence in Molecular Sciences Institute of Chemistry Chinese Academy of Sciences Zhongguancun North First Street 2 Beijing 100190 P. R. China"
+          },
+          {
+            "name": "School of Chemistry and Chemical Engineering University of Chinese Academy of Sciences Yuquan Road, Shijingshan District Beijing 100049 P. R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xupeng",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing National Laboratory for Molecular Sciences CAS Key Laboratory of Colloid and Interface and Thermodynamics CAS Research/Education Center for Excellence in Molecular Sciences Institute of Chemistry Chinese Academy of Sciences Zhongguancun North First Street 2 Beijing 100190 P. R. China"
+          },
+          {
+            "name": "School of Chemistry and Chemical Engineering University of Chinese Academy of Sciences Yuquan Road, Shijingshan District Beijing 100049 P. R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yahui",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing National Laboratory for Molecular Sciences CAS Key Laboratory of Colloid and Interface and Thermodynamics CAS Research/Education Center for Excellence in Molecular Sciences Institute of Chemistry Chinese Academy of Sciences Zhongguancun North First Street 2 Beijing 100190 P. R. China"
+          },
+          {
+            "name": "School of Chemistry and Chemical Engineering University of Chinese Academy of Sciences Yuquan Road, Shijingshan District Beijing 100049 P. R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shoujie",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chemistry and Chemical Engineering of Guangdong Laboratory Shantou 515063 China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiudong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing National Laboratory for Molecular Sciences CAS Key Laboratory of Colloid and Interface and Thermodynamics CAS Research/Education Center for Excellence in Molecular Sciences Institute of Chemistry Chinese Academy of Sciences Zhongguancun North First Street 2 Beijing 100190 P. R. China"
+          },
+          {
+            "name": "School of Chemistry and Chemical Engineering University of Chinese Academy of Sciences Yuquan Road, Shijingshan District Beijing 100049 P. R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaofu",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing National Laboratory for Molecular Sciences CAS Key Laboratory of Colloid and Interface and Thermodynamics CAS Research/Education Center for Excellence in Molecular Sciences Institute of Chemistry Chinese Academy of Sciences Zhongguancun North First Street 2 Beijing 100190 P. R. China"
+          },
+          {
+            "name": "School of Chemistry and Chemical Engineering University of Chinese Academy of Sciences Yuquan Road, Shijingshan District Beijing 100049 P. R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qinggong",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing National Laboratory for Molecular Sciences CAS Key Laboratory of Colloid and Interface and Thermodynamics CAS Research/Education Center for Excellence in Molecular Sciences Institute of Chemistry Chinese Academy of Sciences Zhongguancun North First Street 2 Beijing 100190 P. R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Haihong",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 P. R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0440-809X",
+        "authenticated-orcid": false,
+        "given": "Buxing",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beijing National Laboratory for Molecular Sciences CAS Key Laboratory of Colloid and Interface and Thermodynamics CAS Research/Education Center for Excellence in Molecular Sciences Institute of Chemistry Chinese Academy of Sciences Zhongguancun North First Street 2 Beijing 100190 P. R. China"
+          },
+          {
+            "name": "School of Chemistry and Chemical Engineering University of Chinese Academy of Sciences Yuquan Road, Shijingshan District Beijing 100049 P. R. China"
+          },
+          {
+            "name": "Physical Science Laboratory Huairou National Comprehensive Science Center No. 5 Yanqi East Second Street Beijing 101400 China"
+          },
+          {
+            "name": "Shanghai Key Laboratory of Green Chemistry and Chemical Processes School of Chemistry and Molecular Engineering East China Normal University Shanghai 200062 P. R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1002/anie.202206279",
+    "status": 200,
+    "title": [
+      "Molecular Inhibition for Selective CO\n                    <sub>2</sub>\n                    Conversion"
+    ],
+    "container-title": [
+      "Angewandte Chemie International Edition"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2144-7261",
+        "authenticated-orcid": false,
+        "given": "Charles E.",
+        "family": "Creissen",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Laboratoire de Chimie des Processus Biologiques CNRS UMR 8229 Coll\u00e8ge de France  75231 Paris France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jos\u00e9 Guillermo",
+        "family": "Rivera de la Cruz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratoire de Chimie des Processus Biologiques CNRS UMR 8229 Coll\u00e8ge de France  75231 Paris France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dilan",
+        "family": "Karapinar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratoire de Chimie des Processus Biologiques CNRS UMR 8229 Coll\u00e8ge de France  75231 Paris France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dario",
+        "family": "Taverna",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institut de Min\u00e9ralogie et de Physique des Milieux Condens\u00e9s UMR 7590 CNRS Sorbonne Universit\u00e9s UPMC Univ Paris 06  4 place Jussieu 75005 Paris France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Moritz W.",
+        "family": "Schreiber",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Total Research and Technology Refining and Chemicals Division CO<sub>2</sub> Conversion  Feluy 7181 Seneffe Belgium"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8016-4747",
+        "authenticated-orcid": false,
+        "given": "Marc",
+        "family": "Fontecave",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Laboratoire de Chimie des Processus Biologiques CNRS UMR 8229 Coll\u00e8ge de France  75231 Paris France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1002/anie.202216102",
+    "status": 200,
+    "title": [
+      "Organic Additive\u2010derived Films on Cu Electrodes Promote Electrochemical CO<sub>2</sub> Reduction to C<sub>2+</sub> Products Under Strongly Acidic Conditions"
+    ],
+    "container-title": [
+      "Angewandte Chemie International Edition"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Weixuan",
+        "family": "Nie",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering California Institute of Technology  Pasadena CA-91125 USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gavin P.",
+        "family": "Heim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering California Institute of Technology  Pasadena CA-91125 USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicholas B.",
+        "family": "Watkins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering California Institute of Technology  Pasadena CA-91125 USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9692-7614",
+        "authenticated-orcid": false,
+        "given": "Theodor",
+        "family": "Agapie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering California Institute of Technology  Pasadena CA-91125 USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6610-4414",
+        "authenticated-orcid": false,
+        "given": "Jonas C.",
+        "family": "Peters",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering California Institute of Technology  Pasadena CA-91125 USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1002/celc.201801132",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1016/j.joule.2021.12.002",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1021/acscatal.0c00049",
+    "status": 200,
+    "title": [
+      "Highly Selective Reduction of CO<sub>2</sub> to C<sub>2+</sub> Hydrocarbons at Copper/Polyaniline Interfaces"
+    ],
+    "container-title": [
+      "ACS Catalysis"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          5
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Xing",
+        "family": "Wei",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "College of Chemistry and Molecular Sciences, Hubei Key Lab of Electrochemical Power Sources, Wuhan University, Wuhan 430072, P.R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhenglei",
+        "family": "Yin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Institute for Advanced Studies, Wuhan University, Wuhan 430072, P.R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kangjie",
+        "family": "Lyu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Chemistry and Molecular Sciences, Hubei Key Lab of Electrochemical Power Sources, Wuhan University, Wuhan 430072, P.R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhen",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Chemistry and Molecular Sciences, Hubei Key Lab of Electrochemical Power Sources, Wuhan University, Wuhan 430072, P.R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jun",
+        "family": "Gong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Chemistry and Molecular Sciences, Hubei Key Lab of Electrochemical Power Sources, Wuhan University, Wuhan 430072, P.R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gongwei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Chemistry and Molecular Sciences, Hubei Key Lab of Electrochemical Power Sources, Wuhan University, Wuhan 430072, P.R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6416-3138",
+        "authenticated-orcid": true,
+        "given": "Li",
+        "family": "Xiao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Chemistry and Molecular Sciences, Hubei Key Lab of Electrochemical Power Sources, Wuhan University, Wuhan 430072, P.R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Juntao",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Chemistry and Molecular Sciences, Hubei Key Lab of Electrochemical Power Sources, Wuhan University, Wuhan 430072, P.R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5642-6735",
+        "authenticated-orcid": true,
+        "given": "Lin",
+        "family": "Zhuang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Chemistry and Molecular Sciences, Hubei Key Lab of Electrochemical Power Sources, Wuhan University, Wuhan 430072, P.R. China"
+          },
+          {
+            "name": "The Institute for Advanced Studies, Wuhan University, Wuhan 430072, P.R. China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1021/acscatal.0c03766",
+    "status": 200,
+    "title": [
+      "Hydrophobic Copper Interfaces Boost Electroreduction of Carbon Dioxide to Ethylene in Water"
+    ],
+    "container-title": [
+      "ACS Catalysis"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Hong-Qing",
+        "family": "Liang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Carbon Dioxide Activation Center (CADIAC), Interdisciplinary Nanoscience Center (iNANO), and Department of Chemistry, Aarhus University, Gustav Wieds Vej 14, 8000 Aarhus, Denmark"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Siqi",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Carbon Dioxide Activation Center (CADIAC), Interdisciplinary Nanoscience Center (iNANO), and Department of Chemistry, Aarhus University, Gustav Wieds Vej 14, 8000 Aarhus, Denmark"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2219-8786",
+        "authenticated-orcid": true,
+        "given": "Xin-Ming",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Carbon Dioxide Activation Center (CADIAC), Interdisciplinary Nanoscience Center (iNANO), and Department of Chemistry, Aarhus University, Gustav Wieds Vej 14, 8000 Aarhus, Denmark"
+          },
+          {
+            "name": "Environment Research Institute, Shandong University, Binhai Road 72, Qingdao 266237, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcel",
+        "family": "Ceccato",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Carbon Dioxide Activation Center (CADIAC), Interdisciplinary Nanoscience Center (iNANO), and Department of Chemistry, Aarhus University, Gustav Wieds Vej 14, 8000 Aarhus, Denmark"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8090-5050",
+        "authenticated-orcid": true,
+        "given": "Troels",
+        "family": "Skrydstrup",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Carbon Dioxide Activation Center (CADIAC), Interdisciplinary Nanoscience Center (iNANO), and Department of Chemistry, Aarhus University, Gustav Wieds Vej 14, 8000 Aarhus, Denmark"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0212-8190",
+        "authenticated-orcid": true,
+        "given": "Kim",
+        "family": "Daasbjerg",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Carbon Dioxide Activation Center (CADIAC), Interdisciplinary Nanoscience Center (iNANO), and Department of Chemistry, Aarhus University, Gustav Wieds Vej 14, 8000 Aarhus, Denmark"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1021/acscatal.0c04106",
+    "status": 200,
+    "title": [
+      "Methanethiol SAMs Induce Reconstruction and Formation of Cu<sup>+</sup> on a Cu Catalyst under Electrochemical CO<sub>2</sub> Reduction"
+    ],
+    "container-title": [
+      "ACS Catalysis"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Go",
+        "family": "Iijima",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Advanced Research and Innovation Center, DENSO CORPORATION, 500-1 Minamiyama, Komenoki-cho, Nisshin 470-0111, Japan"
+          },
+          {
+            "name": "Graduate School of Engineering, Nagoya Institute of Technology, Gokiso-cho, Showa, Nagoya 466-8555, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hitoshi",
+        "family": "Yamaguchi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Advanced Research and Innovation Center, DENSO CORPORATION, 500-1 Minamiyama, Komenoki-cho, Nisshin 470-0111, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tomohiko",
+        "family": "Inomata",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Graduate School of Engineering, Nagoya Institute of Technology, Gokiso-cho, Showa, Nagoya 466-8555, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hiroaki",
+        "family": "Yoto",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Advanced Research and Innovation Center, DENSO CORPORATION, 500-1 Minamiyama, Komenoki-cho, Nisshin 470-0111, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Miho",
+        "family": "Ito",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Advanced Research and Innovation Center, DENSO CORPORATION, 500-1 Minamiyama, Komenoki-cho, Nisshin 470-0111, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1235-1129",
+        "authenticated-orcid": true,
+        "given": "Hideki",
+        "family": "Masuda",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Graduate School of Engineering, Nagoya Institute of Technology, Gokiso-cho, Showa, Nagoya 466-8555, Japan"
+          },
+          {
+            "name": "Department of Applied Chemistry, Aichi Institute of Technology, 1247 Yachigusa,\rYakusa-cho, Toyota 470-0392, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1021/acscatal.2c01681",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1021/acscatal.6b03613",
+    "status": 200,
+    "title": [
+      "Nanoporous Copper Films by Additive-Controlled Electrodeposition: CO<sub>2</sub> Reduction Catalysis"
+    ],
+    "container-title": [
+      "ACS Catalysis"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Thao T. H.",
+        "family": "Hoang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department\rof Chemistry, University of Illinois at Urbana\u2212Champaign, Urbana, Illinois 61801, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sichao",
+        "family": "Ma",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department\rof Chemistry, University of Illinois at Urbana\u2212Champaign, Urbana, Illinois 61801, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jake I.",
+        "family": "Gold",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Chemical & Biomolecular Engineering, University of Illinois at Urbana\u2212Champaign, Urbana, Illinois 61801, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7348-0381",
+        "authenticated-orcid": true,
+        "given": "Paul J. A.",
+        "family": "Kenis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Chemical & Biomolecular Engineering, University of Illinois at Urbana\u2212Champaign, Urbana, Illinois 61801, United States"
+          },
+          {
+            "name": "International\rInstitute for Carbon Neutral Energy Research (WPI-I2CNER), Kyushu University, Fukuoka 819-0395, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4400-9907",
+        "authenticated-orcid": true,
+        "given": "Andrew A.",
+        "family": "Gewirth",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department\rof Chemistry, University of Illinois at Urbana\u2212Champaign, Urbana, Illinois 61801, United States"
+          },
+          {
+            "name": "International\rInstitute for Carbon Neutral Energy Research (WPI-I2CNER), Kyushu University, Fukuoka 819-0395, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1021/acscatal.7b04347",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1021/acscentsci.1c00860",
+    "status": 200,
+    "title": [
+      "Breaking Scaling Relationships in CO\n                    <sub>2</sub>\n                    Reduction on Copper Alloys with Organic Additives"
+    ],
+    "container-title": [
+      "ACS Central Science"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yungchieh",
+        "family": "Lai",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Engineering and Applied Science, Liquid Sunlight Alliance, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicholas B.",
+        "family": "Watkins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alonso",
+        "family": "Rosas-Hern\u00e1ndez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arnaud",
+        "family": "Thevenon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gavin P.",
+        "family": "Heim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lan",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Engineering and Applied Science, Liquid Sunlight Alliance, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3784-0594",
+        "authenticated-orcid": true,
+        "given": "Yueshen",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonas C.",
+        "family": "Peters",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2863-5265",
+        "authenticated-orcid": true,
+        "given": "John M.",
+        "family": "Gregoire",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Engineering and Applied Science, Liquid Sunlight Alliance, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9692-7614",
+        "authenticated-orcid": true,
+        "given": "Theodor",
+        "family": "Agapie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1021/jacs.1c11253",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1038/s41467-019-11599-7",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1038/s41467-021-26724-8",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1038/s41467-021-27456-5",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1038/s41467-022-32740-z",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "doi": "10.1038/s41929-019-0383-7",
+    "status": 200,
+    "title": [
+      "Cooperative CO2-to-ethanol conversion via enriched intermediates at molecule\u2013metal catalyst interfaces"
+    ],
+    "container-title": [
+      "Nature Catalysis"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          16
+        ]
+      ]
+    },
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1531-2966",
+        "authenticated-orcid": false,
+        "given": "Fengwang",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9559-7051",
+        "authenticated-orcid": false,
+        "given": "Yuguang C.",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2817-8367",
+        "authenticated-orcid": false,
+        "given": "Ziyun",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1958-5665",
+        "authenticated-orcid": false,
+        "given": "Jun",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0871-1355",
+        "authenticated-orcid": false,
+        "given": "Dae-Hyun",
+        "family": "Nam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yanwei",
+        "family": "Lum",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mingchuan",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6298-1858",
+        "authenticated-orcid": false,
+        "given": "Xue",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Adnan",
+        "family": "Ozden",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sung-Fu",
+        "family": "Hung",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bin",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5336-5183",
+        "authenticated-orcid": false,
+        "given": "Yuhang",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joshua",
+        "family": "Wicks",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8108-0975",
+        "authenticated-orcid": false,
+        "given": "Yi",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yilin",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9456-6894",
+        "authenticated-orcid": false,
+        "given": "Christine M.",
+        "family": "Gabardo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9641-9815",
+        "authenticated-orcid": false,
+        "given": "Cao-Thang",
+        "family": "Dinh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6240-5535",
+        "authenticated-orcid": false,
+        "given": "Ying",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tao-Tao",
+        "family": "Zhuang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2714-6408",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "Sinton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0396-6495",
+        "authenticated-orcid": false,
+        "given": "Edward H.",
+        "family": "Sargent",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+target,n_records,n_studies,main_eligible
+C2H4,42,17,True
+C2H5OH,11,5,True
+CH3CO2H,5,1,False
+CH4,10,6,True
+CO,23,8,True
+HCOOH,8,3,False

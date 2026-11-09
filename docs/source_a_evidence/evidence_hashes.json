@@ -1,0 +1,86 @@
+{
+  "crossref.txt": {
+    "bytes": 14959,
+    "sha256": "9614815da94ff4fc4d871600db516cba4c6fd505f2374cb6a835e5cd589501f9"
+  },
+  "xml.bin": {
+    "bytes": 6136,
+    "sha256": "b0149f1ea5ecbfe0f7beaa3009246bc4be282eda0447db704da3f1b970451654"
+  },
+  "doi.txt": {
+    "bytes": 6088,
+    "sha256": "22386c3aff4601b54541200d3fc4ccb71e5fd4022f93bc55098cd942bec5a02a"
+  },
+  "zenodo.bin": {
+    "bytes": 763,
+    "sha256": "13fdb9a1f12be1c19b81a0ad28f882c7083a49f805cb4c6ac88b37d3fbbf0934"
+  },
+  "raw_master.bin": {
+    "bytes": 14,
+    "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  },
+  "verification.md": {
+    "bytes": 3670,
+    "sha256": "0bb3a174cf773ac3e5d2af794dce078fd44d950f746690bea9b3d4a2c5f3b872"
+  },
+  "crossref_transform.bin": {
+    "bytes": 23537,
+    "sha256": "32ccb5278ad58018ed44c9ffa583c75110c0d873804a7eb91e6e6adb5ab95bf2"
+  },
+  "github_page.txt": {
+    "bytes": 225370,
+    "sha256": "663cede387ebad1b8da71a6dae2a8fccc342fbe27acc3144f5106a75ceae8651"
+  },
+  "additional_access.json": {
+    "bytes": 4572,
+    "sha256": "1a77f61af82a76ee925d785ecf916ed7eef9db021a9af624344717c3af717689"
+  },
+  "probe.py": {
+    "bytes": 1791,
+    "sha256": "249516e477e6ef8dbaecdd79322658a60429715819f9dd2440180240a6ed06d9"
+  },
+  "raw_main.bin": {
+    "bytes": 14,
+    "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  },
+  "wiley_assets.bin": {
+    "bytes": 6314,
+    "sha256": "280b422d98d72e432a7a6986159233a9fb544143b923c0b925226c5e4939ef25"
+  },
+  "pdf.bin": {
+    "bytes": 6100,
+    "sha256": "f206f64beb1d699c9df9a09dcb53263602f8a2ca7dba33d9987476384c8a3aa2"
+  },
+  "user.bin": {
+    "bytes": 16471,
+    "sha256": "d457a9d38276e33666a51a5d7ad42904c5d8b1e168ca4bcf442b5f507a105225"
+  },
+  "tree_Bayesianandnonbayesian.json": {
+    "bytes": 2054,
+    "sha256": "d78246e892ed2835987a52bcd8f55e536492925b1e0c377e576afb24922fa019"
+  },
+  "openalex.bin": {
+    "bytes": 22393,
+    "sha256": "bb4ced5d47b77b4165bd9d788a5c81730dde105d1f5394c5421e6410fcf1ac22"
+  },
+  "tree_Electrochemistry.json": {
+    "bytes": 497,
+    "sha256": "59c6cef5959bd7985fe3c9cbef7e39c3f253ae65610bb19d6dbf9ef537407c0a"
+  },
+  "access_log.json": {
+    "bytes": 1796,
+    "sha256": "7fc4973a2463b527e98faa671c871e879f015195702de22a0b012a52f34ece05"
+  },
+  "wiley.txt": {
+    "bytes": 6109,
+    "sha256": "d8d1c14a2b8a792235a2f5120b14fa52b804acd643def49fbaf9991ffd77c311"
+  },
+  "github_api.txt": {
+    "bytes": 118,
+    "sha256": "4f50e254a719a6b1b06b529bdaa08980e4acf0878aad0090cba7771f6ebdf0b9"
+  },
+  "figshare.bin": {
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  }
+}

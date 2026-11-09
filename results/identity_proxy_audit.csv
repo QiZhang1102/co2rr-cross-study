@@ -1,0 +1,5 @@
+feature,distinct_recorded_values,values_in_one_doi,records_with_one_doi_value,total_records
+polymer_category,4,0,0,86
+ph_category,3,1,1,86
+electrolyte,10,4,24,86
+reactor,3,1,1,86

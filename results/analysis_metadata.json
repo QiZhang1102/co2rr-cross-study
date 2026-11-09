@@ -1,0 +1,10 @@
+{
+  "predictions_sha256": "e1c07d522f7377e0e94a5e70bf9fca0a7981d4753bdd1809490e7082ee56fc7d",
+  "bootstrap_replicates": 500,
+  "bootstrap_seed": 20262100,
+  "brier_definition": "mean(sum_k((p_k-one_hot_k)^2)); no division by K; range [0,2]",
+  "log_loss_epsilon": 1e-15,
+  "equal_study_definition": "one globally weighted confusion matrix, row weight 1/n_records_in_source",
+  "uncertainty": "Source cluster percentile bootstrap conditional on saved OOF predictions; no refitting; fold variability is not confidence interval",
+  "protocol_comparison": "descriptive; different training information, no causal/significance claim"
+}

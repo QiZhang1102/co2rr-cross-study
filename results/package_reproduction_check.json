@@ -1,0 +1,93 @@
+{
+  "passed": true,
+  "stages": [
+    {
+      "stage": "download",
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "scripts/download_data.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.358041478999894
+    },
+    {
+      "stage": "prepare",
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "scripts/prepare_data.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.5133610879997832
+    },
+    {
+      "stage": "train",
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "scripts/run_models.py",
+        "--run"
+      ],
+      "exit_code": 0,
+      "seconds": 10.93632459399987
+    },
+    {
+      "stage": "analysis",
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "scripts/analyze_results.py"
+      ],
+      "exit_code": 0,
+      "seconds": 3.0405322550000164
+    },
+    {
+      "stage": "tests",
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-v"
+      ],
+      "exit_code": 0,
+      "seconds": 2.094285914000011
+    },
+    {
+      "stage": "report",
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "scripts/generate_report.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.8029687389998799
+    }
+  ],
+  "saved_reference_comparisons": {
+    "outer_splits.csv": {
+      "expected_sha256": "29be87b47109e4330ef4120de25a35803e6889358aab63779c3baea1775bbf7c",
+      "actual_sha256": "29be87b47109e4330ef4120de25a35803e6889358aab63779c3baea1775bbf7c",
+      "identical": true
+    },
+    "predictions.csv": {
+      "expected_sha256": "e1c07d522f7377e0e94a5e70bf9fca0a7981d4753bdd1809490e7082ee56fc7d",
+      "actual_sha256": "e1c07d522f7377e0e94a5e70bf9fca0a7981d4753bdd1809490e7082ee56fc7d",
+      "identical": true
+    },
+    "metrics.csv": {
+      "expected_sha256": "d87d03b25d5aa18661443219e9fe5f52e85ab90e3dd2f31ed96874feb1c1dc08",
+      "actual_sha256": "d87d03b25d5aa18661443219e9fe5f52e85ab90e3dd2f31ed96874feb1c1dc08",
+      "identical": true
+    },
+    "paired_comparisons.csv": {
+      "expected_sha256": "efc0f865b3cc03afdcd5da7cedc71d96a2c0f95a1bf5727ce37f2f39597e8133",
+      "actual_sha256": "efc0f865b3cc03afdcd5da7cedc71d96a2c0f95a1bf5727ce37f2f39597e8133",
+      "identical": true
+    },
+    "calibration_matched_metrics.csv": {
+      "expected_sha256": "708aa095f41692d477dbf47bbd638e265d41b00eed1d067dc8361fba7f5bc43e",
+      "actual_sha256": "708aa095f41692d477dbf47bbd638e265d41b00eed1d067dc8361fba7f5bc43e",
+      "identical": true
+    }
+  },
+  "note": "Requires original frozen config/engine/assignments. Run logs may differ in elapsed time."
+}

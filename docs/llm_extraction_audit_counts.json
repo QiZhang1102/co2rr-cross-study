@@ -1,0 +1,78 @@
+{
+  "raw_dataset.csv": {
+    "rows": 56753,
+    "fields": [
+      "file_name",
+      "Sentence",
+      "Context",
+      "Output",
+      "Latency_s"
+    ],
+    "unique_file_name_count": 4391,
+    "product_list_lengths": {
+      "2": 13380,
+      "5": 1921,
+      "0": 14874,
+      "1": 13425,
+      "3": 6657,
+      "4": 3409,
+      "6": 907,
+      "9": 98,
+      "8": 179,
+      "10": 51,
+      "11": 22,
+      "7": 437,
+      "13": 4,
+      "15": 1,
+      "12": 11,
+      "18": 3,
+      "14": 1
+    },
+    "unparsed": 1373,
+    "sha256": "8a15bba9205f831de69bc5c406428a5ffcd4598fe0cc9a30d0f9eb3ea16781f4"
+  },
+  "expanded_dataset.csv": {
+    "rows": 96292,
+    "fields": [
+      "catalysts",
+      "metals",
+      "extra_info",
+      "item_classes",
+      "unique_classes",
+      "electrolytes",
+      "components",
+      "solvents",
+      "conditions",
+      "conc_value",
+      "conc_unit",
+      "conc_original_text",
+      "faradaic_eff",
+      "onset_potential",
+      "onset_values",
+      "onset_units",
+      "original_products",
+      "parsed_products"
+    ],
+    "unique_file_name_count": null,
+    "product_list_lengths": {
+      "2": 13355,
+      "5": 1930,
+      "0": 16267,
+      "1": 13372,
+      "3": 6706,
+      "4": 3445,
+      "6": 918,
+      "7": 423,
+      "8": 167,
+      "9": 91,
+      "10": 48,
+      "12": 9,
+      "11": 17,
+      "13": 1,
+      "16": 3,
+      "14": 1
+    },
+    "unparsed": 39539,
+    "sha256": "3a1ba135160db9f08926f485e79d5edc954ab5106c8cfa5a2eacd526244e1ec2"
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "au5c01087_si_003.xlsx",
+    "doi": "10.1021/jacsau.5c01087.s003",
+    "url": "https://ndownloader.figshare.com/files/58928814",
+    "bytes": 592423,
+    "sha256": "ab56da9b5823ff045d80a84d17a076f78df1a1b05e724e2ef39211a8614fdf0a",
+    "status": "downloaded_not_admitted",
+    "license": "CC BY-NC 4.0 (ACS figshare metadata)",
+    "access_date_utc": "2026-11-09"
+  },
+  {
+    "file": "au5c01087_si_002.pdf",
+    "doi": "10.1021/jacsau.5c01087.s002",
+    "url": "https://ndownloader.figshare.com/files/58928811",
+    "bytes": 3744090,
+    "sha256": "a304c1f0a84bc6b4b4974684f4a8805818902325419beb92db58dad77fdfb3cb",
+    "status": "downloaded_code_pdf",
+    "license": "CC BY-NC 4.0 (ACS figshare metadata)",
+    "access_date_utc": "2026-11-09"
+  },
+  {
+    "file": "au5c01087_si_001.pdf",
+    "doi": "10.1021/jacsau.5c01087.s001",
+    "url": "https://ndownloader.figshare.com/files/58928808",
+    "bytes": 2651209,
+    "sha256": "32da0316c005c2aa4716839d52efb3eafb51fa3bec42492a2a3b6705847e6195",
+    "status": "downloaded_supporting_pdf",
+    "license": "CC BY-NC 4.0 (ACS figshare metadata)",
+    "access_date_utc": "2026-11-09"
+  }
+]

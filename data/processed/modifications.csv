@@ -1,0 +1,244 @@
+record_id,raw_row,field,action,old_value,new_value,reference_row
+wang2023-sheet1-r0002,2,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0003,3,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0003,3,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-019-11599-7,2.0
+wang2023-sheet1-r0004,4,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0004,4,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-019-11599-7,2.0
+wang2023-sheet1-r0005,5,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0005,5,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-019-11599-7,2.0
+wang2023-sheet1-r0006,6,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0006,6,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-019-11599-7,2.0
+wang2023-sheet1-r0007,7,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0007,7,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-019-11599-7,2.0
+wang2023-sheet1-r0008,8,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0008,8,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-019-11599-7,2.0
+wang2023-sheet1-r0010,10,electrolyte,remove_whitespace_only,NaHCO3 (0.1M),NaHCO3(0.1M),
+wang2023-sheet1-r0010,10,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0012,12,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0012,12,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0013,13,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0013,13,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0013,13,study_id,continue_explicit_numbered_citation_block,,10.1038/s41929-019-0383-7,12.0
+wang2023-sheet1-r0014,14,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0014,14,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0014,14,study_id,continue_explicit_numbered_citation_block,,10.1038/s41929-019-0383-7,12.0
+wang2023-sheet1-r0015,15,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0015,15,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0015,15,study_id,continue_explicit_numbered_citation_block,,10.1038/s41929-019-0383-7,12.0
+wang2023-sheet1-r0016,16,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0016,16,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0016,16,study_id,continue_explicit_numbered_citation_block,,10.1038/s41929-019-0383-7,12.0
+wang2023-sheet1-r0017,17,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0017,17,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0017,17,study_id,continue_explicit_numbered_citation_block,,10.1038/s41929-019-0383-7,12.0
+wang2023-sheet1-r0082,82,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0082,82,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0085,85,electrolyte,remove_whitespace_only,KHCO3 (0.1M)+KCl(0.1M),KHCO3(0.1M)+KCl(0.1M),
+wang2023-sheet1-r0086,86,electrolyte,remove_whitespace_only,KHCO3 (0.1M)+KCl(0.1M),KHCO3(0.1M)+KCl(0.1M),
+wang2023-sheet1-r0086,86,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111136,85.0
+wang2023-sheet1-r0093,93,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0093,93,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0094,94,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0094,94,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0094,94,study_id,continue_explicit_numbered_citation_block,,10.1016/j.joule.2021.12.002,93.0
+wang2023-sheet1-r0095,95,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0095,95,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0095,95,study_id,continue_explicit_numbered_citation_block,,10.1016/j.joule.2021.12.002,93.0
+wang2023-sheet1-r0096,96,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0096,96,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0096,96,study_id,continue_explicit_numbered_citation_block,,10.1016/j.joule.2021.12.002,93.0
+wang2023-sheet1-r0098,98,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0098,98,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0099,99,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0099,99,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0099,99,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202102193,98.0
+wang2023-sheet1-r0100,100,electrolyte,remove_whitespace_only,KCl (0.1M),KCl(0.1M),
+wang2023-sheet1-r0100,100,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0100,100,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202102193,98.0
+wang2023-sheet1-r0107,107,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0107,107,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0109,109,electrolyte,remove_whitespace_only,KHCO3 (0.5M),KHCO3(0.5M),
+wang2023-sheet1-r0109,109,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0132,132,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0132,132,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0133,133,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0133,133,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0133,133,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-021-27456-5,132.0
+wang2023-sheet1-r0134,134,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0134,134,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0134,134,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-021-27456-5,132.0
+wang2023-sheet1-r0135,135,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0135,135,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0135,135,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-021-27456-5,132.0
+wang2023-sheet1-r0141,141,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202206279,139.0
+wang2023-sheet1-r0145,145,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0154,154,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0154,154,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202202607,149.0
+wang2023-sheet1-r0181,181,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0181,181,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0182,182,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0182,182,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0182,182,study_id,continue_explicit_numbered_citation_block,,10.1002/ange.201907935,181.0
+wang2023-sheet1-r0184,184,electrolyte,remove_whitespace_only,KHCO3 (0.5M),KHCO3(0.5M),
+wang2023-sheet1-r0184,184,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0185,185,electrolyte,remove_whitespace_only,KHCO3 (0.5M),KHCO3(0.5M),
+wang2023-sheet1-r0185,185,study_id,continue_explicit_numbered_citation_block,,10.1002/celc.201801132,184.0
+wang2023-sheet1-r0186,186,electrolyte,remove_whitespace_only,KHCO3 (0.5M),KHCO3(0.5M),
+wang2023-sheet1-r0186,186,study_id,continue_explicit_numbered_citation_block,,10.1002/celc.201801132,184.0
+wang2023-sheet1-r0188,188,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0189,189,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0189,189,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.2c01681,188.0
+wang2023-sheet1-r0190,190,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0190,190,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.2c01681,188.0
+wang2023-sheet1-r0192,192,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0192,192,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.2c01681,188.0
+wang2023-sheet1-r0193,193,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0193,193,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0193,193,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.2c01681,188.0
+wang2023-sheet1-r0194,194,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0194,194,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.2c01681,188.0
+wang2023-sheet1-r0195,195,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0195,195,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.2c01681,188.0
+wang2023-sheet1-r0196,196,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0196,196,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.2c01681,188.0
+wang2023-sheet1-r0197,197,electrolyte,remove_whitespace_only,KHCO3 (1M),KHCO3(1M),
+wang2023-sheet1-r0197,197,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.2c01681,188.0
+wang2023-sheet1-r0199,199,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0199,199,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0200,200,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0200,200,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0200,200,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0201,201,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0201,201,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0201,201,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0202,202,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0202,202,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0202,202,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0203,203,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0203,203,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0203,203,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0204,204,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0204,204,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0204,204,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0205,205,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0205,205,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0205,205,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0206,206,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0206,206,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0206,206,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0207,207,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0207,207,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0207,207,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0208,208,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0208,208,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0208,208,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0209,209,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0209,209,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0209,209,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0210,210,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0210,210,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0210,210,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0211,211,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0211,211,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0211,211,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0212,212,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0212,212,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0212,212,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0213,213,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0213,213,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0213,213,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0214,214,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0214,214,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0214,214,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0215,215,electrolyte,remove_whitespace_only,KOH (0.5M),KOH(0.5M),
+wang2023-sheet1-r0215,215,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0215,215,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202111265,199.0
+wang2023-sheet1-r0216,216,electrolyte,remove_whitespace_only,KOH (1M),KOH(1M),
+wang2023-sheet1-r0216,216,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0217,217,electrolyte,remove_whitespace_only,KOH (1M),KOH(1M),
+wang2023-sheet1-r0217,217,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0217,217,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.6b03613,216.0
+wang2023-sheet1-r0218,218,electrolyte,remove_whitespace_only,KOH (1M),KOH(1M),
+wang2023-sheet1-r0218,218,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0218,218,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.6b03613,216.0
+wang2023-sheet1-r0219,219,electrolyte,remove_whitespace_only,KOH (1M),KOH(1M),
+wang2023-sheet1-r0219,219,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0219,219,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.6b03613,216.0
+wang2023-sheet1-r0220,220,electrolyte,remove_whitespace_only,KOH (1M),KOH(1M),
+wang2023-sheet1-r0220,220,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0220,220,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.6b03613,216.0
+wang2023-sheet1-r0221,221,electrolyte,remove_whitespace_only,KOH (1M),KOH(1M),
+wang2023-sheet1-r0221,221,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0221,221,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.6b03613,216.0
+wang2023-sheet1-r0228,228,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0229,229,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0229,229,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.7b04347,228.0
+wang2023-sheet1-r0230,230,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0230,230,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.7b04347,228.0
+wang2023-sheet1-r0231,231,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0231,231,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.7b04347,228.0
+wang2023-sheet1-r0232,232,polymer_category,broad_structural_category,Yes,polymer,
+wang2023-sheet1-r0232,232,study_id,continue_explicit_numbered_citation_block,,10.1021/acscatal.7b04347,228.0
+wang2023-sheet1-r0263,263,electrolyte,remove_whitespace_only,KHCO3 (0.1M)/KCl(0.1M),KHCO3(0.1M)/KCl(0.1M),
+wang2023-sheet1-r0264,264,electrolyte,remove_whitespace_only,KHCO3 (0.1M)/KCl(0.1M),KHCO3(0.1M)/KCl(0.1M),
+wang2023-sheet1-r0264,264,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202010601,263.0
+wang2023-sheet1-r0265,265,electrolyte,remove_whitespace_only,KHCO3 (0.1M)/KCl(0.1M),KHCO3(0.1M)/KCl(0.1M),
+wang2023-sheet1-r0265,265,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202010601,263.0
+wang2023-sheet1-r0266,266,electrolyte,remove_whitespace_only,KHCO3 (0.1M)/KCl(0.1M),KHCO3(0.1M)/KCl(0.1M),
+wang2023-sheet1-r0266,266,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202010601,263.0
+wang2023-sheet1-r0275,275,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0275,275,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0276,276,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0276,276,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0276,276,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0277,277,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0277,277,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0277,277,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0278,278,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0278,278,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0278,278,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0279,279,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0279,279,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0279,279,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0280,280,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0280,280,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0280,280,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0281,281,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0281,281,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0281,281,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0282,282,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0282,282,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0282,282,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0283,283,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0283,283,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0283,283,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0284,284,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0284,284,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0284,284,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0285,285,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0285,285,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0285,285,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0288,288,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0288,288,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0288,288,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0289,289,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0289,289,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0289,289,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0290,290,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0290,290,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0290,290,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0291,291,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0291,291,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0291,291,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0292,292,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0292,292,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0292,292,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0293,293,electrolyte,remove_whitespace_only,KHCO3 (0.1M),KHCO3(0.1M),
+wang2023-sheet1-r0293,293,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0293,293,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-022-32740-z,275.0
+wang2023-sheet1-r0302,302,electrolyte,remove_whitespace_only,KOH (1M),KOH(1M),
+wang2023-sheet1-r0303,303,electrolyte,remove_whitespace_only,KOH (1M),KOH(1M),
+wang2023-sheet1-r0303,303,study_id,continue_explicit_numbered_citation_block,,10.1038/s41467-021-26724-8,302.0
+wang2023-sheet1-r0314,314,electrolyte,remove_whitespace_only,1.0 M H3PO4 (pH=1) at low [K+] (0.1 M),1.0MH3PO4(pH=1)atlow[K+](0.1M),
+wang2023-sheet1-r0314,314,polymer_category,broad_structural_category,No,nonpolymer,
+wang2023-sheet1-r0314,314,study_id,continue_explicit_numbered_citation_block,,10.1002/anie.202216102,312.0

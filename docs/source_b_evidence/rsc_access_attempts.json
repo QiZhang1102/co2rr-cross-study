@@ -1,0 +1,44 @@
+{
+  "access_date_utc": "2026-11-09",
+  "attempts": [
+    {
+      "url": "https://doi.org/10.1039/D6GC01753C",
+      "observed": "redirected to Cloudflare challenge HTML; no table"
+    },
+    {
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/gc/d6gc01753c",
+      "observed": "HTTP 403 Forbidden",
+      "link_status": "publisher URL"
+    },
+    {
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2026/gc/d6gc01753c",
+      "observed": "HTTP 403 Forbidden",
+      "link_status": "publisher URL"
+    },
+    {
+      "url": "https://pubs.rsc.org/GC/article-pdf/doi/10.1039/D6GC01753C/0/D6GC01753C.pdf",
+      "observed": "HTTP 403 Forbidden",
+      "link_status": "Crossref PDF, HTTPS"
+    },
+    {
+      "url": "https://pubs.rsc.org/en/content/getauthorversionpdf/d6gc01753c",
+      "observed": "HTTP 403 Forbidden",
+      "link_status": "plausible endpoint; not verified link"
+    },
+    {
+      "url": "https://www.rsc.org/suppdata/d6/gc/d6gc01753c/d6gc01753c1.pdf",
+      "observed": "HTTP 403 Forbidden",
+      "link_status": "guessed SI; not verified link"
+    },
+    {
+      "url": "https://www.rsc.org/suppdata/d6/gc/d6gc01753c/d6gc01753c2.zip",
+      "observed": "HTTP 403 Forbidden",
+      "link_status": "guessed SI; not verified link"
+    },
+    {
+      "url": "https://www.rsc.org/suppdata/d6/gc/d6gc01753c/d6gc01753c2.xlsx",
+      "observed": "HTTP 403 Forbidden",
+      "link_status": "guessed SI; not verified link"
+    }
+  ]
+}

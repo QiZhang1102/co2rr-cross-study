@@ -1,0 +1,87 @@
+[
+  {
+    "key": "user",
+    "url": "https://api.github.com/users/alpertap74/repos?per_page=100",
+    "final_url": "https://api.github.com/users/alpertap74/repos?per_page=100",
+    "status": 200,
+    "bytes": 16471,
+    "preview": "[{\"id\":531470315,\"node_id\":\"R_kgDOH62X6w\",\"name\":\"Bayesianandnonbayesian\",\"full_name\":\"alpertap74/Bayesianandnonbayesian\",\"private\":false,\"owner\":{\"login\":\"alpertap74\",\"id\":87003716,\"node_id\":\"MDQ6VXN"
+  },
+  {
+    "key": "pdf",
+    "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/er/2400202",
+    "final_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/er/2400202",
+    "status": 403,
+    "bytes": 6100,
+    "preview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam"
+  },
+  {
+    "key": "xml",
+    "url": "https://onlinelibrary.wiley.com/doi/full-xml/10.1155/er/2400202",
+    "final_url": "https://onlinelibrary.wiley.com/doi/full-xml/10.1155/er/2400202",
+    "status": 403,
+    "bytes": 6136,
+    "preview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam"
+  },
+  {
+    "key": "wiley_assets",
+    "url": "https://onlinelibrary.wiley.com/doi/suppl/10.1155/er/2400202/supinfo/er2400202-sup-0001-suppinfo.xlsx",
+    "final_url": "https://onlinelibrary.wiley.com/doi/suppl/10.1155/er/2400202/supinfo/er2400202-sup-0001-suppinfo.xlsx",
+    "status": 403,
+    "bytes": 6314,
+    "preview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam"
+  },
+  {
+    "key": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1155/er/2400202",
+    "final_url": "https://api.openalex.org/works/https://doi.org/10.1155/er/2400202",
+    "status": 200,
+    "bytes": 22393,
+    "preview": "{\"id\":\"https://openalex.org/W7165562580\",\"doi\":\"https://doi.org/10.1155/er/2400202\",\"title\":\"Multivariate Analysis of CO 2 Electroreduction for Fuel and Value\\u2010Added Chemical Production Using Expl"
+  },
+  {
+    "key": "crossref_transform",
+    "url": "https://api.crossref.org/works/10.1155/er/2400202/transform/application/vnd.crossref.unixsd+xml",
+    "final_url": "https://api.crossref.org/works/10.1155/er/2400202/transform/application/vnd.crossref.unixsd+xml",
+    "status": 200,
+    "bytes": 23537,
+    "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<crossref_result xmlns=\"http://www.crossref.org/qrschema/3.0\" version=\"3.0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www."
+  },
+  {
+    "key": "wayback",
+    "url": "https://web.archive.org/cdx/search/cdx?url=github.com/alpertap74/CO2-electrolyzer_2003_2025/*&output=json&filter=statuscode:200&collapse=urlkey",
+    "error": "TimeoutError('The read operation timed out')"
+  },
+  {
+    "key": "raw_main",
+    "url": "https://raw.githubusercontent.com/alpertap74/CO2-electrolyzer_2003_2025/main/database_CO2reduction_2003_2025.xlsx",
+    "final_url": "https://raw.githubusercontent.com/alpertap74/CO2-electrolyzer_2003_2025/main/database_CO2reduction_2003_2025.xlsx",
+    "status": 404,
+    "bytes": 14,
+    "preview": "404: Not Found"
+  },
+  {
+    "key": "raw_master",
+    "url": "https://raw.githubusercontent.com/alpertap74/CO2-electrolyzer_2003_2025/master/database_CO2reduction_2003_2025.xlsx",
+    "final_url": "https://raw.githubusercontent.com/alpertap74/CO2-electrolyzer_2003_2025/master/database_CO2reduction_2003_2025.xlsx",
+    "status": 404,
+    "bytes": 14,
+    "preview": "404: Not Found"
+  },
+  {
+    "key": "zenodo",
+    "url": "https://zenodo.org/api/records?q=2400202&size=10",
+    "final_url": "https://zenodo.org/api/records?q=2400202&size=10",
+    "status": 403,
+    "bytes": 763,
+    "preview": "\n          <html>\n          <head><title>403 Forbidden</title></head>\n          <body style=\"max-width: 600px; margin: 40px auto; padding: 0 20px; line-height: 1.6;\">\n          <h1>403 Forbidden</h1>\n"
+  },
+  {
+    "key": "figshare",
+    "url": "https://api.figshare.com/v2/articles?resource_doi=10.1155/er/2400202",
+    "final_url": "https://api.figshare.com/v2/articles?resource_doi=10.1155/er/2400202",
+    "status": 200,
+    "bytes": 2,
+    "preview": "[]"
+  }
+]

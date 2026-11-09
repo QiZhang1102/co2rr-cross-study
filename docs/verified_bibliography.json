@@ -1,0 +1,2788 @@
+[
+  {
+    "queried_doi": "10.1155/er/2400202",
+    "retrieved_utc": "2026-11-09T09:20:54.674942+00:00",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            12
+          ]
+        ],
+        "date-time": "2026-10-12T22:49:17Z",
+        "timestamp": 1791845357400,
+        "version": "4.3.4"
+      },
+      "reference-count": 95,
+      "publisher": "Wiley",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                22
+              ]
+            ],
+            "date-time": "2026-06-22T00:00:00Z",
+            "timestamp": 1782086400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 172,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "International Journal of Energy Research"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>\n                    This work presents a data‐driven assessment of CO\n                    <jats:sub>2</jats:sub>\n                    electroreduction (CO\n                    <jats:sub>2</jats:sub>\n                    R) performance trends toward sustainable carbon utilization to produce chemical feedstocks and renewable fuels, using an expanded dataset of 662 observations from 47 studies published between 2003 and 2025. To enable both performance benchmarking and selectivity mapping, the highest Faradaic efficiency (FE) and the most selective product were chosen as target variables, while 13 variables (e.g., cathode catalyst elements, preparation method, and support type) were used as descriptors. First, exploratory data analysis was conducted to quantify how the reported highest FE values evolved over time. This analysis revealed a clear improvement in performance, with the median of the highest FEs increasing from 32.0% (2003–2013) to 47.8% (2022–2025). Furthermore, comparative analysis revealed shifts in system configurations, including increased use of chemical dealloying and Nafion 212 membranes. Subsequently, SHAP analysis quantified the direction and magnitude of feature effects on FE, while parallel coordinate plots highlighted multivariable patterns governing product selectivity (e.g., CO, HCOOH, and C\n                    <jats:sub>2</jats:sub>\n                    H\n                    <jats:sub>4</jats:sub>\n                    ). Notably, key findings include a strong positive association between Sn atomic percentage and HCOOH FE, as well as the identification of preparation methods and electrolyte conditions linked to high C\n                    <jats:sub>2</jats:sub>\n                    H\n                    <jats:sub>4</jats:sub>\n                    and CH\n                    <jats:sub>4</jats:sub>\n                    selectivity. Overall, the proposed framework supports rational CO\n                    <jats:sub>2</jats:sub>\n                    electrolysis design and performance‐oriented optimization of integrated CO\n                    <jats:sub>2</jats:sub>\n                    R and renewable hydrogen systems.\n                  </jats:p>",
+      "DOI": "10.1155/er/2400202",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            22
+          ]
+        ],
+        "date-time": "2026-06-22T08:39:34Z",
+        "timestamp": 1782117574000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Multivariate Analysis of CO\n                    <sub>2</sub>\n                    Electroreduction for Fuel and Value‐Added Chemical Production Using Explainable Machine Learning"
+      ],
+      "prefix": "10.1155",
+      "volume": "2026",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1282-718X",
+          "authenticated-orcid": false,
+          "given": "M. Erdem",
+          "family": "Günay",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8599-0450",
+          "authenticated-orcid": false,
+          "given": "N. Alper",
+          "family": "Tapan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-6479-2362",
+          "authenticated-orcid": false,
+          "given": "Lana K. S.",
+          "family": "Alzeer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            22
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_8_1_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijhydene.2025.150622"
+        },
+        {
+          "key": "e_1_2_8_2_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00521-023-08580-3"
+        },
+        {
+          "key": "e_1_2_8_3_2",
+          "unstructured": "LindseyR. Climate Change: Atmospheric Carbon Dioxide 2025 https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide."
+        },
+        {
+          "key": "e_1_2_8_4_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijhydene.2024.09.304"
+        },
+        {
+          "key": "e_1_2_8_5_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijhydene.2022.02.030"
+        },
+        {
+          "key": "e_1_2_8_6_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/er.7565"
+        },
+        {
+          "key": "e_1_2_8_7_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.chemrev.3c00206"
+        },
+        {
+          "key": "e_1_2_8_8_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/anie.202422082"
+        },
+        {
+          "key": "e_1_2_8_9_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1872-2067(21)63988-8"
+        },
+        {
+          "key": "e_1_2_8_10_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/er.8479"
+        },
+        {
+          "key": "e_1_2_8_11_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jcou.2025.103052"
+        },
+        {
+          "key": "e_1_2_8_12_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/catal10111226"
+        },
+        {
+          "key": "e_1_2_8_13_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.xinn.2025.100807"
+        },
+        {
+          "key": "e_1_2_8_14_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/er.7007"
+        },
+        {
+          "key": "e_1_2_8_15_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijhydene.2025.04.077"
+        },
+        {
+          "key": "e_1_2_8_16_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acsnano.5c03677"
+        },
+        {
+          "key": "e_1_2_8_17_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/er.7836"
+        },
+        {
+          "key": "e_1_2_8_18_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40820-023-01146-x"
+        },
+        {
+          "key": "e_1_2_8_19_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1166/jnn.2018.15354"
+        },
+        {
+          "key": "e_1_2_8_20_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/aenm.202401447"
+        },
+        {
+          "key": "e_1_2_8_21_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s44286-023-00018-w"
+        },
+        {
+          "key": "e_1_2_8_22_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/anie.202417066"
+        },
+        {
+          "key": "e_1_2_8_23_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.electacta.2019.135053"
+        },
+        {
+          "key": "e_1_2_8_24_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.electacta.2020.136756"
+        },
+        {
+          "key": "e_1_2_8_25_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-024-54630-2"
+        },
+        {
+          "key": "e_1_2_8_26_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jacs.8b01868"
+        },
+        {
+          "key": "e_1_2_8_27_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acscatal.9b02312"
+        },
+        {
+          "key": "e_1_2_8_28_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1872-2067(20)63754-8"
+        },
+        {
+          "key": "e_1_2_8_29_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-023-36926-x"
+        },
+        {
+          "key": "e_1_2_8_30_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jacs.4c10472"
+        },
+        {
+          "key": "e_1_2_8_31_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.electacta.2022.140774"
+        },
+        {
+          "key": "e_1_2_8_32_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/adfm.202420161"
+        },
+        {
+          "key": "e_1_2_8_33_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-025-57307-6"
+        },
+        {
+          "key": "e_1_2_8_34_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cclet.2025.111637"
+        },
+        {
+          "key": "e_1_2_8_35_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smm2.1107"
+        },
+        {
+          "key": "e_1_2_8_36_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.compchemeng.2024.108723"
+        },
+        {
+          "key": "e_1_2_8_37_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acsengineeringau.5c00093"
+        },
+        {
+          "key": "e_1_2_8_38_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/er.8624"
+        },
+        {
+          "key": "e_1_2_8_39_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apcata.2024.119674"
+        },
+        {
+          "key": "e_1_2_8_40_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jece.2026.122198"
+        },
+        {
+          "key": "e_1_2_8_41_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jcou.2018.09.011"
+        },
+        {
+          "key": "e_1_2_8_42_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-018-03286-w"
+        },
+        {
+          "key": "e_1_2_8_43_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.resourpol.2022.103224"
+        },
+        {
+          "key": "e_1_2_8_44_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10800-022-01786-8"
+        },
+        {
+          "key": "e_1_2_8_45_2",
+          "unstructured": "CohenS. RuppinE. andDrorG. Feature Selection Based on the Shapley Value Proceedings of the Nineteenth International Joint Conference on Artificial Intelligence 2005 International Joint Conferences on Artificial Intelligence Organization (IJCAI)."
+        },
+        {
+          "key": "e_1_2_8_46_2",
+          "volume-title": "Interpretable Machine Learning: A Guide For Making Black Box Models Explainable",
+          "author": "Molnar C.",
+          "year": "2022"
+        },
+        {
+          "key": "e_1_2_8_47_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijhydene.2024.06.417"
+        },
+        {
+          "key": "e_1_2_8_48_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijhydene.2021.10.191"
+        },
+        {
+          "key": "e_1_2_8_49_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acscatal.1c00272"
+        },
+        {
+          "key": "e_1_2_8_50_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jcou.2017.02.003"
+        },
+        {
+          "key": "e_1_2_8_51_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/cctc.202400504"
+        },
+        {
+          "key": "e_1_2_8_52_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s44160-024-00705-3"
+        },
+        {
+          "key": "e_1_2_8_53_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s44160-023-00387-3"
+        },
+        {
+          "key": "e_1_2_8_54_2",
+          "volume-title": "Applied Statistics for the Behavioral Sciences",
+          "author": "Hinkle D. E.",
+          "year": "2003"
+        },
+        {
+          "key": "e_1_2_8_55_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smll.202406510"
+        },
+        {
+          "key": "e_1_2_8_56_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acsaem.2c00330"
+        },
+        {
+          "key": "e_1_2_8_57_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/anie.202319913"
+        },
+        {
+          "key": "e_1_2_8_58_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smtd.202300482"
+        },
+        {
+          "key": "e_1_2_8_59_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/celc.201500421"
+        },
+        {
+          "key": "e_1_2_8_60_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1039/C8SC03732A"
+        },
+        {
+          "key": "e_1_2_8_61_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/catal9080636"
+        },
+        {
+          "key": "e_1_2_8_62_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpowsour.2013.12.002"
+        },
+        {
+          "key": "e_1_2_8_63_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jcis.2026.140072"
+        },
+        {
+          "key": "e_1_2_8_64_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijhydene.2026.154075"
+        },
+        {
+          "key": "e_1_2_8_65_2",
+          "volume-title": "Handbook of Fuel Cells",
+          "author": "Hori Y.",
+          "year": "2010"
+        },
+        {
+          "key": "e_1_2_8_66_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cej.2012.06.099"
+        },
+        {
+          "key": "e_1_2_8_67_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1039/c2ee21234j"
+        },
+        {
+          "key": "e_1_2_8_68_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cherd.2013.11.002"
+        },
+        {
+          "key": "e_1_2_8_69_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/cs500537y"
+        },
+        {
+          "key": "e_1_2_8_70_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1039/C4CP01520G"
+        },
+        {
+          "key": "e_1_2_8_71_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ncomms5948"
+        },
+        {
+          "key": "e_1_2_8_72_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ja505791r"
+        },
+        {
+          "key": "e_1_2_8_73_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.elecom.2014.03.023"
+        },
+        {
+          "key": "e_1_2_8_74_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpowsour.2013.12.063"
+        },
+        {
+          "key": "e_1_2_8_75_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ja5065284"
+        },
+        {
+          "key": "e_1_2_8_76_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/celc.201402373"
+        },
+        {
+          "key": "e_1_2_8_77_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.electacta.2015.03.064"
+        },
+        {
+          "key": "e_1_2_8_78_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acscatal.5b00602"
+        },
+        {
+          "key": "e_1_2_8_79_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/anie.201410233"
+        },
+        {
+          "key": "e_1_2_8_80_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ceat.201600198"
+        },
+        {
+          "key": "e_1_2_8_81_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acscatal.6b00269"
+        },
+        {
+          "key": "e_1_2_8_82_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acscatal.5b02888"
+        },
+        {
+          "key": "e_1_2_8_83_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acscatal.5b02550"
+        },
+        {
+          "key": "e_1_2_8_84_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/cssc.201600693"
+        },
+        {
+          "key": "e_1_2_8_85_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jcou.2017.01.021"
+        },
+        {
+          "key": "e_1_2_8_86_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jacs.6b11023"
+        },
+        {
+          "key": "e_1_2_8_87_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acscatal.7b00687"
+        },
+        {
+          "key": "e_1_2_8_88_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12274-017-1514-6"
+        },
+        {
+          "key": "e_1_2_8_89_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jacs.7b00102"
+        },
+        {
+          "key": "e_1_2_8_90_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.elecom.2017.05.005"
+        },
+        {
+          "key": "e_1_2_8_91_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jcou.2017.05.002"
+        },
+        {
+          "key": "e_1_2_8_92_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jacs.7b00261"
+        },
+        {
+          "key": "e_1_2_8_93_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/jacs.6b10435"
+        },
+        {
+          "key": "e_1_2_8_94_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ente.201600616"
+        },
+        {
+          "key": "e_1_2_8_95_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.matchemphys.2017.02.016"
+        }
+      ],
+      "container-title": [
+        "International Journal of Energy Research"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/er/2400202",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1155/er/2400202",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/er/2400202",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            22
+          ]
+        ],
+        "date-time": "2026-06-22T08:39:44Z",
+        "timestamp": 1782117584000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1155/er/2400202"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "given": "Suresh Kannan",
+          "family": "Balasingam",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "editor"
+            }
+          ]
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "references-count": 95,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1155/er/2400202"
+      ],
+      "URL": "https://doi.org/10.1155/er/2400202",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "0363-907X",
+        "1099-114X"
+      ],
+      "issn-type": [
+        {
+          "value": "0363-907X",
+          "type": "print"
+        },
+        {
+          "value": "1099-114X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2026-03-03",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-05-18",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-06-22",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "2400202"
+    }
+  },
+  {
+    "queried_doi": "10.1039/D6GC01753C",
+    "retrieved_utc": "2026-11-09T09:20:55.002669+00:00",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T13:25:40Z",
+        "timestamp": 1791638740479,
+        "version": "4.3.4"
+      },
+      "reference-count": 58,
+      "publisher": "Royal Society of Chemistry (RSC)",
+      "issue": "28",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                9
+              ]
+            ],
+            "date-time": "2026-06-09T00:00:00Z",
+            "timestamp": 1780963200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 159,
+          "URL": "http://creativecommons.org/licenses/by-nc/3.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100000001",
+          "name": "National Science Foundation",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "DGE-1922649"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "DGE-1922649"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000001",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000183",
+          "name": "Army Research Office",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "W911NF-22-1-0293"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "W911NF-22-1-0293"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000183",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "rsc.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Green Chem."
+      ],
+      "abstract": "<jats:p>Shallow machine learning models are a more effective and sustainable way to uncover fundamental principles governing catalytic selectivity for green chemistry reactions, especially with the use of hybrid experimental and theoretical input features.</jats:p>",
+      "DOI": "10.1039/d6gc01753c",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            9
+          ]
+        ],
+        "date-time": "2026-06-09T09:43:38Z",
+        "timestamp": 1780998218000
+      },
+      "page": "11779-11789",
+      "update-policy": "https://doi.org/10.1039/rsc_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Interpretable, low-compute machine learning integrating experimental and catalytic descriptors for sustainable CO\n                    <sub>2</sub>\n                    electroreduction"
+      ],
+      "prefix": "10.1039",
+      "volume": "28",
+      "author": [
+        {
+          "given": "Brianna R.",
+          "family": "Farris",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Chemical & Petroleum Engineering, The University of Kansas, 4132 Learned Hall 1530 W 15th St, Lawrence, KS, USA"
+            },
+            {
+              "name": "Center for Environmentally Beneficial Catalysis, The University of Kansas, 1501 Wakarusa Dr. LSRL Building A, Suite 110, Lawrence, KS, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joshua J.",
+          "family": "Meckstroth",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemical & Petroleum Engineering, The University of Kansas, 4132 Learned Hall 1530 W 15th St, Lawrence, KS, USA"
+            },
+            {
+              "name": "Center for Environmentally Beneficial Catalysis, The University of Kansas, 1501 Wakarusa Dr. LSRL Building A, Suite 110, Lawrence, KS, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0172-3150",
+          "authenticated-orcid": false,
+          "given": "Kevin C.",
+          "family": "Leonard",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemical & Petroleum Engineering, The University of Kansas, 4132 Learned Hall 1530 W 15th St, Lawrence, KS, USA"
+            },
+            {
+              "name": "Center for Environmentally Beneficial Catalysis, The University of Kansas, 1501 Wakarusa Dr. LSRL Building A, Suite 110, Lawrence, KS, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "292",
+      "published-online": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "D6GC01753C/cit1/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "667",
+          "DOI": "10.1039/D3DD00151B",
+          "volume": "3",
+          "author": "Rosser",
+          "year": "2024",
+          "journal-title": "Digital Discovery"
+        },
+        {
+          "key": "D6GC01753C/cit2/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "15885",
+          "DOI": "10.1021/ja407394q",
+          "volume": "135",
+          "author": "Leonard",
+          "year": "2013",
+          "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+          "key": "D6GC01753C/cit3/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "6126",
+          "DOI": "10.1021/acssuschemeng.1c02741",
+          "volume": "9",
+          "author": "Leonard",
+          "year": "2021",
+          "journal-title": "ACS Sustainable Chem. Eng."
+        },
+        {
+          "key": "D6GC01753C/cit4/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "10934",
+          "DOI": "10.1021/acssuschemeng.2c02941",
+          "volume": "10",
+          "author": "Farris",
+          "year": "2022",
+          "journal-title": "ACS Sustainable Chem. Eng."
+        },
+        {
+          "key": "D6GC01753C/cit5/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "303",
+          "DOI": "10.1016/j.ijhydene.2024.12.406",
+          "volume": "101",
+          "author": "Wang",
+          "year": "2025",
+          "journal-title": "Int. J. Hydrogen Energy"
+        },
+        {
+          "key": "D6GC01753C/cit6/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "115707",
+          "DOI": "10.1016/j.foodres.2025.115707",
+          "volume": "202",
+          "author": "Ji",
+          "year": "2025",
+          "journal-title": "Food Res. Int."
+        },
+        {
+          "key": "D6GC01753C/cit7/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "759",
+          "DOI": "10.3390/molecules30040759",
+          "volume": "30",
+          "author": "Yin",
+          "year": "2025",
+          "journal-title": "Molecules"
+        },
+        {
+          "key": "D6GC01753C/cit8/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "601",
+          "DOI": "10.1038/s41570-025-00740-4",
+          "volume": "9",
+          "author": "Bozal-Ginesta",
+          "year": "2025",
+          "journal-title": "Nat. Rev. Chem."
+        },
+        {
+          "key": "D6GC01753C/cit9/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "59",
+          "DOI": "10.1038/s41524-022-00734-6",
+          "volume": "8",
+          "author": "Choudhary",
+          "year": "2022",
+          "journal-title": "npj Comput. Mater."
+        },
+        {
+          "key": "D6GC01753C/cit10/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "9767",
+          "DOI": "10.1021/acs.jpcb.0c09206",
+          "volume": "124",
+          "author": "Ferguson",
+          "year": "2020",
+          "journal-title": "J. Phys. Chem. B"
+        },
+        {
+          "key": "D6GC01753C/cit11/1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1039/9781839160233",
+          "volume-title": "Machine learning in chemistry : the impact of artificial intelligence",
+          "author": "Cartwright",
+          "year": "2020",
+          "unstructured": "H. M.Cartwright ,  Machine learning in chemistry : the impact of artificial intelligence , 1st edn,  2020"
+        },
+        {
+          "key": "D6GC01753C/cit12/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "208",
+          "DOI": "10.1007/s00299-024-03294-9",
+          "volume": "43",
+          "author": "Peng",
+          "year": "2024",
+          "journal-title": "Plant Cell Rep."
+        },
+        {
+          "key": "D6GC01753C/cit13/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "9722",
+          "DOI": "10.1021/acs.jpcb.0c06439",
+          "volume": "124",
+          "author": "Pugar",
+          "year": "2020",
+          "journal-title": "J. Phys. Chem. B"
+        },
+        {
+          "key": "D6GC01753C/cit14/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "8918",
+          "DOI": "10.1021/acs.jpcb.0c06172",
+          "volume": "124",
+          "author": "Dumortier",
+          "year": "2020",
+          "journal-title": "J. Phys. Chem. B"
+        },
+        {
+          "key": "D6GC01753C/cit15/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1752",
+          "DOI": "10.1039/D3DD00103B",
+          "volume": "2",
+          "author": "Rittig",
+          "year": "2023",
+          "journal-title": "Digital Discovery"
+        },
+        {
+          "key": "D6GC01753C/cit16/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1145/3514228",
+          "volume": "55",
+          "author": "Willard",
+          "year": "2022",
+          "journal-title": "ACM Comput. Surv."
+        },
+        {
+          "key": "D6GC01753C/cit17/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.cbpa.2021.04.005",
+          "volume": "65",
+          "author": "AlQuraishi",
+          "year": "2021",
+          "journal-title": "Curr. Opin. Chem. Biol."
+        },
+        {
+          "key": "D6GC01753C/cit18/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "8148",
+          "DOI": "10.1021/acssuschemeng.3c01233",
+          "volume": "11",
+          "author": "Zhang",
+          "year": "2023",
+          "journal-title": "ACS Sustainable Chem. Eng."
+        },
+        {
+          "key": "D6GC01753C/cit19/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "6358",
+          "DOI": "10.1021/acs.jpcb.0c04299",
+          "volume": "124",
+          "author": "Kollenz",
+          "year": "2020",
+          "journal-title": "J. Phys. Chem. B"
+        },
+        {
+          "key": "D6GC01753C/cit20/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1418",
+          "DOI": "10.1038/s41467-024-45563-x",
+          "volume": "15",
+          "author": "Dunn",
+          "year": "2024",
+          "journal-title": "Nat. Commun."
+        },
+        {
+          "key": "D6GC01753C/cit21/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1125",
+          "DOI": "10.1039/D4CS00913D",
+          "volume": "54",
+          "author": "Schilling-Wilhelmi",
+          "year": "2025",
+          "journal-title": "Chem. Soc. Rev."
+        },
+        {
+          "key": "D6GC01753C/cit22/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "347",
+          "DOI": "10.1038/s41597-024-03180-9",
+          "volume": "11",
+          "author": "Chen",
+          "year": "2024",
+          "journal-title": "Sci. Data"
+        },
+        {
+          "key": "D6GC01753C/cit23/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1150",
+          "DOI": "10.1039/D4DD00011K",
+          "volume": "3",
+          "author": "Kosonocky",
+          "year": "2024",
+          "journal-title": "Digital Discovery"
+        },
+        {
+          "key": "D6GC01753C/cit24/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "5578",
+          "DOI": "10.1021/jacsau.5c01087",
+          "volume": "5",
+          "author": "Farris",
+          "year": "2025",
+          "journal-title": "JACS Au"
+        },
+        {
+          "key": "D6GC01753C/cit25/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "e03560",
+          "DOI": "10.1002/aenm.202503560",
+          "author": "Xue",
+          "year": "2025",
+          "journal-title": "Adv. Energy Mater."
+        },
+        {
+          "key": "D6GC01753C/cit26/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "129422",
+          "DOI": "10.1016/j.seppur.2024.129422",
+          "volume": "354",
+          "author": "Pang",
+          "year": "2025",
+          "journal-title": "Sep. Purif. Technol."
+        },
+        {
+          "key": "D6GC01753C/cit27/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "100613",
+          "DOI": "10.1016/j.egyai.2025.100613",
+          "volume": "22",
+          "author": "Cheng",
+          "year": "2025",
+          "journal-title": "Energy AI"
+        },
+        {
+          "key": "D6GC01753C/cit28/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "120019",
+          "DOI": "10.1016/j.jece.2025.120019",
+          "volume": "13",
+          "author": "Halilu",
+          "year": "2025",
+          "journal-title": "J. Environ. Chem. Eng."
+        },
+        {
+          "key": "D6GC01753C/cit29/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "842",
+          "DOI": "10.1016/j.jechem.2025.09.017",
+          "volume": "112",
+          "author": "Zhu",
+          "year": "2026",
+          "journal-title": "J. Energy Chem."
+        },
+        {
+          "key": "D6GC01753C/cit30/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "161459",
+          "DOI": "10.1016/j.apsusc.2024.161459",
+          "volume": "681",
+          "author": "Shen",
+          "year": "2025",
+          "journal-title": "Appl. Surf. Sci."
+        },
+        {
+          "key": "D6GC01753C/cit31/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "e202424087",
+          "DOI": "10.1002/anie.202424087",
+          "volume": "64",
+          "author": "Leverett",
+          "year": "2025",
+          "journal-title": "Angew. Chem., Int. Ed."
+        },
+        {
+          "key": "D6GC01753C/cit32/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "2501286",
+          "DOI": "10.1002/aenm.202501286",
+          "volume": "15",
+          "author": "Brower",
+          "year": "2025",
+          "journal-title": "Adv. Energy Mater."
+        },
+        {
+          "key": "D6GC01753C/cit33/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "132565",
+          "DOI": "10.1016/j.biortech.2025.132565",
+          "volume": "430",
+          "author": "Benavides",
+          "year": "2025",
+          "journal-title": "Bioresour. Technol."
+        },
+        {
+          "key": "D6GC01753C/cit34/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "773",
+          "DOI": "10.1016/j.jiec.2024.10.074",
+          "volume": "145",
+          "author": "Intarapong",
+          "year": "2025",
+          "journal-title": "J. Ind. Eng. Chem."
+        },
+        {
+          "key": "D6GC01753C/cit35/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "2412812",
+          "DOI": "10.1002/adfm.202412812",
+          "volume": "35",
+          "author": "Xu",
+          "year": "2025",
+          "journal-title": "Adv. Funct. Mater."
+        },
+        {
+          "key": "D6GC01753C/cit36/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "898",
+          "DOI": "10.1039/D4CS00563E",
+          "volume": "54",
+          "author": "Xie",
+          "year": "2025",
+          "journal-title": "Chem. Soc. Rev."
+        },
+        {
+          "key": "D6GC01753C/cit37/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "124704",
+          "DOI": "10.1063/5.0280821",
+          "volume": "163",
+          "author": "Mahajan",
+          "year": "2025",
+          "journal-title": "J. Chem. Phys."
+        },
+        {
+          "key": "D6GC01753C/cit38/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "272",
+          "DOI": "10.1002/anie.201107947",
+          "volume": "51",
+          "author": "Hummelshøj",
+          "year": "2012",
+          "journal-title": "Angew. Chem., Int. Ed."
+        },
+        {
+          "key": "D6GC01753C/cit39/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "10555",
+          "DOI": "10.1021/acscatal.8b03327",
+          "volume": "8",
+          "author": "Sandberg",
+          "year": "2018",
+          "journal-title": "ACS Catal."
+        },
+        {
+          "key": "D6GC01753C/cit40/1",
+          "first-page": "4913",
+          "volume": "120",
+          "author": "Norskov",
+          "year": "2009",
+          "journal-title": "ACS Natl. Meet. Book Abstr."
+        },
+        {
+          "key": "D6GC01753C/cit41/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "3447",
+          "DOI": "10.1021/acscatal.8b00201",
+          "volume": "8",
+          "author": "Schumann",
+          "year": "2018",
+          "journal-title": "ACS Catal."
+        },
+        {
+          "key": "D6GC01753C/cit42/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "16171",
+          "DOI": "10.1039/D2TA02749F",
+          "volume": "10",
+          "author": "Li",
+          "year": "2022",
+          "journal-title": "J. Mater. Chem. A"
+        },
+        {
+          "key": "D6GC01753C/cit43/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "035439",
+          "DOI": "10.1103/PhysRevB.100.035439",
+          "volume": "100",
+          "author": "Sharada",
+          "year": "2019",
+          "journal-title": "Phys. Rev. B"
+        },
+        {
+          "key": "D6GC01753C/cit44/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "13087",
+          "DOI": "10.1021/acs.jpcc.6b03375",
+          "volume": "120",
+          "author": "Hoffmann",
+          "year": "2016",
+          "journal-title": "J. Phys. Chem. C"
+        },
+        {
+          "key": "D6GC01753C/cit45/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "6059",
+          "DOI": "10.1021/acscatal.0c04525",
+          "volume": "11",
+          "author": "Chanussot",
+          "year": "2021",
+          "journal-title": "ACS Catal."
+        },
+        {
+          "key": "D6GC01753C/cit46/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "3066",
+          "DOI": "10.1021/acscatal.2c05426",
+          "volume": "13",
+          "author": "Tran",
+          "year": "2023",
+          "journal-title": "ACS Catal."
+        },
+        {
+          "key": "D6GC01753C/cit47/1",
+          "first-page": "3133",
+          "volume": "15",
+          "author": "Fernández-Delgado",
+          "year": "2014",
+          "journal-title": "J. Mach. Learn. Res."
+        },
+        {
+          "key": "D6GC01753C/cit48/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1023/A:1010933404324",
+          "volume": "45",
+          "author": "Breiman",
+          "year": "2001",
+          "journal-title": "Mach. Learn."
+        },
+        {
+          "key": "D6GC01753C/cit49/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "56",
+          "DOI": "10.1038/s42256-019-0138-9",
+          "volume": "2",
+          "author": "Lundberg",
+          "year": "2020",
+          "journal-title": "Nat. Mach. Intell."
+        },
+        {
+          "key": "D6GC01753C/cit50/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "123811",
+          "DOI": "10.1016/j.seppur.2023.123811",
+          "volume": "316",
+          "author": "Ewis",
+          "year": "2023",
+          "journal-title": "Sep. Purif. Technol."
+        },
+        {
+          "key": "D6GC01753C/cit51/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "151474",
+          "DOI": "10.1016/j.apsusc.2021.151474",
+          "volume": "572",
+          "author": "Zheng",
+          "year": "2022",
+          "journal-title": "Appl. Surf. Sci."
+        },
+        {
+          "key": "D6GC01753C/cit52/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.1007/s12209-022-00330-1",
+          "volume": "28",
+          "author": "Jiang",
+          "year": "2022",
+          "journal-title": "Trans. Tianjin Univ."
+        },
+        {
+          "key": "D6GC01753C/cit53/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "2102886",
+          "DOI": "10.1002/advs.202102886",
+          "volume": "8",
+          "author": "Liang",
+          "year": "2021",
+          "journal-title": "Adv. Sci."
+        },
+        {
+          "key": "D6GC01753C/cit54/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "18306",
+          "DOI": "10.1021/acs.jpcc.2c04921",
+          "volume": "126",
+          "author": "Mravak",
+          "year": "2022",
+          "journal-title": "J. Phys. Chem. C"
+        },
+        {
+          "key": "D6GC01753C/cit55/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "101065",
+          "DOI": "10.1016/j.mtener.2022.101065",
+          "volume": "28",
+          "author": "Wu",
+          "year": "2022",
+          "journal-title": "Mater. Today Energy"
+        },
+        {
+          "key": "D6GC01753C/cit56/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "8238",
+          "DOI": "10.1021/acs.jpcc.5b01574",
+          "volume": "119",
+          "author": "Hirunsit",
+          "year": "2015",
+          "journal-title": "J. Phys. Chem. C"
+        },
+        {
+          "key": "D6GC01753C/cit57/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "108",
+          "DOI": "10.1016/j.jcat.2014.01.013",
+          "volume": "312",
+          "author": "Nie",
+          "year": "2014",
+          "journal-title": "J. Catal."
+        },
+        {
+          "key": "D6GC01753C/cit58/1",
+          "doi-asserted-by": "crossref",
+          "first-page": "32382",
+          "DOI": "10.1021/acs.langmuir.5c03988",
+          "volume": "41",
+          "author": "Zhang",
+          "year": "2025",
+          "journal-title": "Langmuir"
+        }
+      ],
+      "container-title": [
+        "Green Chemistry"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://pubs.rsc.org/GC/article-pdf/doi/10.1039/D6GC01753C/0/D6GC01753C.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "http://pubs.rsc.org/GC/article-pdf/doi/10.1039/D6GC01753C/0/D6GC01753C.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            20
+          ]
+        ],
+        "date-time": "2026-07-20T10:19:05Z",
+        "timestamp": 1784542745000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://pubs.rsc.org/GC/article-lookup/doi/10.1039/D6GC01753C"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "references-count": 58,
+      "journal-issue": {
+        "issue": "28",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              20
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1039/d6gc01753c",
+      "relation": {},
+      "ISSN": [
+        "1463-9262",
+        "1463-9270"
+      ],
+      "issn-type": [
+        {
+          "value": "1463-9262",
+          "type": "print"
+        },
+        {
+          "value": "1463-9270",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "queried_doi": "10.1038/s41929-023-01046-8",
+    "retrieved_utc": "2026-11-09T09:20:55.338306+00:00",
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            16
+          ]
+        ],
+        "date-time": "2026-10-16T13:57:57Z",
+        "timestamp": 1792159077788,
+        "version": "4.4.0"
+      },
+      "reference-count": 75,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "12",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                10,
+                19
+              ]
+            ],
+            "date-time": "2023-10-19T00:00:00Z",
+            "timestamp": 1697673600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                10,
+                19
+              ]
+            ],
+            "date-time": "2023-10-19T00:00:00Z",
+            "timestamp": 1697673600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Nat Catal"
+      ],
+      "DOI": "10.1038/s41929-023-01046-8",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            19
+          ]
+        ],
+        "date-time": "2023-10-19T12:02:20Z",
+        "timestamp": 1697716940000
+      },
+      "page": "1151-1163",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 93,
+      "title": [
+        "Electrochemical acetate production from high-pressure gaseous and liquid CO2"
+      ],
+      "prefix": "10.1038",
+      "volume": "6",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-8311-4043",
+          "authenticated-orcid": false,
+          "given": "Jiachen",
+          "family": "Li",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2136-0350",
+          "authenticated-orcid": false,
+          "given": "Yun",
+          "family": "Kuang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiao",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei-Hsuan",
+          "family": "Hung",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3640-0474",
+          "authenticated-orcid": false,
+          "given": "Ching-Yu",
+          "family": "Chiang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Guanzhou",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5541-6212",
+          "authenticated-orcid": false,
+          "given": "Gan",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Feifei",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peng",
+          "family": "Liang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4906-4502",
+          "authenticated-orcid": false,
+          "given": "Hongjie",
+          "family": "Dai",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "1046_CR1",
+          "doi-asserted-by": "crossref",
+          "first-page": "7610",
+          "DOI": "10.1021/acs.chemrev.8b00705",
+          "volume": "119",
+          "author": "S Nitopi",
+          "year": "2019",
+          "unstructured": "Nitopi, S. et al. Progress and perspectives of electrochemical CO2 reduction on copper in aqueous electrolyte. Chem. Rev. 119, 7610–7672 (2019).",
+          "journal-title": "Chem. Rev."
+        },
+        {
+          "key": "1046_CR2",
+          "doi-asserted-by": "crossref",
+          "first-page": "7050",
+          "DOI": "10.1039/c2ee21234j",
+          "volume": "5",
+          "author": "KP Kuhl",
+          "year": "2012",
+          "unstructured": "Kuhl, K. P., Cave, E. R., Abram, D. N. & Jaramillo, T. F. New insights into the electrochemical reduction of carbon dioxide on metallic copper surfaces. Energy Environ. Sci. 5, 7050–7059 (2012).",
+          "journal-title": "Energy Environ. Sci."
+        },
+        {
+          "key": "1046_CR3",
+          "doi-asserted-by": "crossref",
+          "first-page": "783",
+          "DOI": "10.1126/science.aas9100",
+          "volume": "360",
+          "author": "CT Dinh",
+          "year": "2018",
+          "unstructured": "Dinh, C. T. et al. CO2 electroreduction to ethylene via hydroxide-mediated copper catalysis at an abrupt interface. Science 360, 783–787 (2018).",
+          "journal-title": "Science"
+        },
+        {
+          "key": "1046_CR4",
+          "doi-asserted-by": "crossref",
+          "first-page": "3245",
+          "DOI": "10.1021/jacs.0c13427",
+          "volume": "143",
+          "author": "X Zhang",
+          "year": "2021",
+          "unstructured": "Zhang, X. et al. Selective and high current CO2 electro-reduction to multicarbon products in near-neutral KCl electrolytes. J. Am. Chem. Soc. 143, 3245–3255 (2021).",
+          "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+          "key": "1046_CR5",
+          "doi-asserted-by": "crossref",
+          "first-page": "8681",
+          "DOI": "10.1021/jacs.8b02173",
+          "volume": "140",
+          "author": "SY Lee",
+          "year": "2018",
+          "unstructured": "Lee, S. Y. et al. Mixed copper states in anodized Cu electrocatalyst for stable and selective ethylene production from CO2 reduction. J. Am. Chem. Soc. 140, 8681–8689 (2018).",
+          "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+          "key": "1046_CR6",
+          "doi-asserted-by": "crossref",
+          "first-page": "178",
+          "DOI": "10.1038/s41586-020-2242-8",
+          "volume": "581",
+          "author": "M Zhong",
+          "year": "2020",
+          "unstructured": "Zhong, M. et al. Accelerated discovery of CO2 electrocatalysts using active machine learning. Nature 581, 178–183 (2020).",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "1046_CR7",
+          "doi-asserted-by": "crossref",
+          "first-page": "5755",
+          "DOI": "10.1021/jacs.1c00339",
+          "volume": "143",
+          "author": "Y Guo",
+          "year": "2021",
+          "unstructured": "Guo, Y. et al. Machine-learning-guided discovery and optimization of additives in preparing Cu catalysts for CO2 reduction. J. Am. Chem. Soc. 143, 5755–5762 (2021).",
+          "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+          "key": "1046_CR8",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.1007/s10563-016-9215-9",
+          "volume": "20",
+          "author": "AW Budiman",
+          "year": "2016",
+          "unstructured": "Budiman, A. W. et al. Review of acetic acid synthesis from various feedstocks through different catalytic processes. Catal. Surv. Asia. 20, 173–193 (2016).",
+          "journal-title": "Catal. Surv. Asia."
+        },
+        {
+          "key": "1046_CR9",
+          "volume": "10",
+          "author": "Q Zhu",
+          "year": "2019",
+          "unstructured": "Zhu, Q. et al. Carbon dioxide electroreduction to C2 products over copper-cuprous oxide derived from electrosynthesized copper complex. Nat. Commun. 10, 3851 (2019).",
+          "journal-title": "Nat. Commun."
+        },
+        {
+          "key": "1046_CR10",
+          "doi-asserted-by": "crossref",
+          "first-page": "11631",
+          "DOI": "10.1021/jacs.5b02975",
+          "volume": "137",
+          "author": "Y Liu",
+          "year": "2015",
+          "unstructured": "Liu, Y., Chen, S., Quan, X. & Yu, H. Efficient electrochemical reduction of carbon dioxide to acetate on nitrogen-doped nanodiamond. J. Am. Chem. Soc. 137, 11631–11636 (2015).",
+          "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+          "key": "1046_CR11",
+          "doi-asserted-by": "crossref",
+          "first-page": "278",
+          "DOI": "10.1073/pnas.1713962115",
+          "volume": "115",
+          "author": "Y Wang",
+          "year": "2018",
+          "unstructured": "Wang, Y. et al. CO2 reduction to acetate in mixtures of ultrasmall (Cu)n,(Ag)m bimetallic nanoparticles. Proc. Natl Acad. Sci. USA 115, 278–283 (2018).",
+          "journal-title": "Proc. Natl Acad. Sci. USA"
+        },
+        {
+          "key": "1046_CR12",
+          "doi-asserted-by": "crossref",
+          "first-page": "2406",
+          "DOI": "10.1039/C6GC03422E",
+          "volume": "19",
+          "author": "C Genovese",
+          "year": "2017",
+          "unstructured": "Genovese, C., Ampelli, C., Perathoner, S. & Centi, G. Mechanism of C–C bond formation in the electrocatalytic reduction of CO2 to acetic acid. A challenging reaction to use renewable energy with chemistry. Green. Chem. 19, 2406–2415 (2017).",
+          "journal-title": "Green. Chem."
+        },
+        {
+          "key": "1046_CR13",
+          "doi-asserted-by": "crossref",
+          "first-page": "101253",
+          "DOI": "10.1016/j.coelec.2023.101253",
+          "volume": "39",
+          "author": "H Wang",
+          "year": "2023",
+          "unstructured": "Wang, H. et al. CO2 electrolysis toward acetate: a review. Curr. Opin. Electrochem. 39, 101253 (2023).",
+          "journal-title": "Curr. Opin. Electrochem."
+        },
+        {
+          "key": "1046_CR14",
+          "doi-asserted-by": "crossref",
+          "first-page": "299",
+          "DOI": "10.1016/j.jcou.2020.02.008",
+          "volume": "38",
+          "author": "C Li",
+          "year": "2020",
+          "unstructured": "Li, C., Zha, B. & Li, J. A SiW11Mn-assisted indium electrocatalyst for carbon dioxide reduction into formate and acetate. J. CO2 Util. 38, 299–305 (2020).",
+          "journal-title": "J. CO2 Util."
+        },
+        {
+          "key": "1046_CR15",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1016/j.jcat.2019.12.010",
+          "volume": "382",
+          "author": "B Zha",
+          "year": "2020",
+          "unstructured": "Zha, B., Li, C. & Li, J. Efficient electrochemical reduction of CO2 into formate and acetate in polyoxometalate catholyte with indium catalyst. J. Catal. 382, 69–76 (2020).",
+          "journal-title": "J. Catal."
+        },
+        {
+          "key": "1046_CR16",
+          "doi-asserted-by": "crossref",
+          "first-page": "e202206470",
+          "DOI": "10.1002/anie.202206470",
+          "volume": "61",
+          "author": "XF Qiu",
+          "year": "2022",
+          "unstructured": "Qiu, X. F. et al. A stable and conductive covalent organic framework with isolated active sites for highly selective electroreduction of carbon dioxide to acetate. Angew. Chem. Int. Ed. 61, e202206470 (2022).",
+          "journal-title": "Angew. Chem. Int. Ed."
+        },
+        {
+          "key": "1046_CR17",
+          "doi-asserted-by": "crossref",
+          "first-page": "245",
+          "DOI": "10.1038/s41929-020-0428-y",
+          "volume": "3",
+          "author": "S Cestellos-Blanco",
+          "year": "2020",
+          "unstructured": "Cestellos-Blanco, S., Zhang, H., Kim, J. M., Shen, Y. X. & Yang, P. Photosynthetic semiconductor biohybrids for solar-driven biocatalysis. Nat. Catal. 3, 245–255 (2020).",
+          "journal-title": "Nat. Catal."
+        },
+        {
+          "key": "1046_CR18",
+          "doi-asserted-by": "crossref",
+          "first-page": "5503",
+          "DOI": "10.1021/acs.nanolett.2c01576",
+          "volume": "22",
+          "author": "J Kim",
+          "year": "2022",
+          "unstructured": "Kim, J., Cestellos-Blanco, S., Shen, Y. X., Cai, R. & Yang, P. Enhancing biohybrid CO2 to multicarbon reduction via adapted whole-cell catalysts. Nano Lett. 22, 5503–5509 (2022).",
+          "journal-title": "Nano Lett."
+        },
+        {
+          "key": "1046_CR19",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1016/0022-0728(95)03897-P",
+          "volume": "390",
+          "author": "T Saeki",
+          "year": "1995",
+          "unstructured": "Saeki, T., Hashimoto, K., Kimura, N., Omata, K. & Fujishima, A. Electrochemical reduction of CO2 with high current density in a CO2 + methanol medium II. CO formation promoted by tetrabutylammonium cation. J. Electroanal. Chem. 390, 77–82 (1995).",
+          "journal-title": "J. Electroanal. Chem."
+        },
+        {
+          "key": "1046_CR20",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1016/S0022-0728(02)01151-8",
+          "volume": "535",
+          "author": "R Aydin",
+          "year": "2002",
+          "unstructured": "Aydin, R. & Köleli, F. Electrochemical reduction of CO2 on a polyaniline electrode under ambient conditions and at high pressure in methanol. J. Electroanal. Chem. 535, 107–112 (2002).",
+          "journal-title": "J. Electroanal. Chem."
+        },
+        {
+          "key": "1046_CR21",
+          "doi-asserted-by": "crossref",
+          "first-page": "75",
+          "DOI": "10.1016/j.synthmet.2004.02.007",
+          "volume": "144",
+          "author": "R Aydin",
+          "year": "2004",
+          "unstructured": "Aydin, R. & Köleli, F. Electrocatalytic conversion of CO2 on a polypyrrole electrode under high pressure in methanol. Synth. Met. 144, 75–80 (2004).",
+          "journal-title": "Synth. Met."
+        },
+        {
+          "key": "1046_CR22",
+          "doi-asserted-by": "crossref",
+          "first-page": "240",
+          "DOI": "10.1016/j.joule.2018.10.007",
+          "volume": "3",
+          "author": "DS Ripatti",
+          "year": "2019",
+          "unstructured": "Ripatti, D. S., Veltman, T. R. & Kanan, M. W. Carbon monoxide gas diffusion electrolysis that produces concentrated C2 products with high single-pass conversion. Joule 3, 240–256 (2019).",
+          "journal-title": "Joule"
+        },
+        {
+          "key": "1046_CR23",
+          "doi-asserted-by": "crossref",
+          "first-page": "738",
+          "DOI": "10.1038/s41929-022-00828-w",
+          "volume": "5",
+          "author": "S Overa",
+          "year": "2022",
+          "unstructured": "Overa, S. et al. Enhancing acetate selectivity by coupling anodic oxidation to carbon monoxide electroreduction. Nat. Catal. 5, 738–745 (2022).",
+          "journal-title": "Nat. Catal."
+        },
+        {
+          "key": "1046_CR24",
+          "doi-asserted-by": "crossref",
+          "first-page": "e2010868118",
+          "DOI": "10.1073/pnas.2010868118",
+          "volume": "118",
+          "author": "P Zhu",
+          "year": "2021",
+          "unstructured": "Zhu, P. et al. Direct and continuous generation of pure acetic acid solutions via electrocatalytic carbon monoxide reduction. Proc. Natl Acad. Sci. USA 118, e2010868118 (2021).",
+          "journal-title": "Proc. Natl Acad. Sci. USA"
+        },
+        {
+          "key": "1046_CR25",
+          "doi-asserted-by": "crossref",
+          "first-page": "423",
+          "DOI": "10.1038/s41929-019-0269-8",
+          "volume": "2",
+          "author": "W Luc",
+          "year": "2019",
+          "unstructured": "Luc, W. et al. Two-dimensional copper nanosheets for electrochemical reduction of carbon monoxide to acetate. Nat. Catal. 2, 423–430 (2019).",
+          "journal-title": "Nat. Catal."
+        },
+        {
+          "key": "1046_CR26",
+          "doi-asserted-by": "crossref",
+          "first-page": "747",
+          "DOI": "10.1039/C8EE03403F",
+          "volume": "12",
+          "author": "J Choi",
+          "year": "2019",
+          "unstructured": "Choi, J. et al. Energy efficient electrochemical reduction of CO2 to CO using a three-dimensional porphyrin/graphene hydrogel. Energy Environ. Sci. 12, 747–755 (2019).",
+          "journal-title": "Energy Environ. Sci."
+        },
+        {
+          "key": "1046_CR27",
+          "doi-asserted-by": "crossref",
+          "first-page": "2187",
+          "DOI": "10.1039/dt9960002187",
+          "volume": "11",
+          "author": "PM Maitlis",
+          "year": "1996",
+          "unstructured": "Maitlis, P. M., Haynes, A., Sunley, G. J. & Howard, M. J. Methanol carbonylation revisited: thirty years on. J. Chem. Soc. Dalton Trans. 11, 2187–2196 (1996).",
+          "journal-title": "J. Chem. Soc. Dalton Trans."
+        },
+        {
+          "key": "1046_CR28",
+          "doi-asserted-by": "crossref",
+          "first-page": "14178",
+          "DOI": "10.1021/jacs.0c05026",
+          "volume": "142",
+          "author": "J Qi",
+          "year": "2020",
+          "unstructured": "Qi, J. et al. Selective methanol carbonylation to acetic acid on heterogeneous atomically dispersed ReO4/SiO2 catalysts. J. Am. Chem. Soc. 142, 14178–14189 (2020).",
+          "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+          "key": "1046_CR29",
+          "doi-asserted-by": "crossref",
+          "first-page": "135",
+          "DOI": "10.1016/j.isci.2019.07.014",
+          "volume": "19",
+          "author": "M Konig",
+          "year": "2019",
+          "unstructured": "Konig, M., Vaes, J., Klemm, E. & Pant, D. Solvents and supporting electrolytes in the electrocatalytic reduction of CO2. iScience 19, 135–160 (2019).",
+          "journal-title": "iScience"
+        },
+        {
+          "key": "1046_CR30",
+          "doi-asserted-by": "crossref",
+          "first-page": "5995",
+          "DOI": "10.1039/D1EE01696B",
+          "volume": "14",
+          "author": "T Möller",
+          "year": "2021",
+          "unstructured": "Möller, T. et al. The product selectivity zones in gas diffusion electrodes during the electrocatalytic reduction of CO2. Energy Environ. Sci. 14, 5995–6006 (2021).",
+          "journal-title": "Energy Environ. Sci."
+        },
+        {
+          "key": "1046_CR31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1104",
+          "DOI": "10.1016/j.joule.2020.03.013",
+          "volume": "4",
+          "author": "YC Tan",
+          "year": "2020",
+          "unstructured": "Tan, Y. C., Lee, K. B., Song, H. & Oh, J. Modulating local CO2 concentration as a general strategy for enhancing C–C coupling in CO2 electroreduction. Joule 4, 1104–1120 (2020).",
+          "journal-title": "Joule"
+        },
+        {
+          "key": "1046_CR32",
+          "doi-asserted-by": "crossref",
+          "first-page": "eabo0399",
+          "DOI": "10.1126/sciadv.abo0399",
+          "volume": "8",
+          "author": "J Li",
+          "year": "2022",
+          "unstructured": "Li, J., Guo, J. & Dai, H. Probing dissolved CO2(aq) in aqueous solutions for CO2 electroreduciton and storage. Sci. Adv. 8, eabo0399 (2022).",
+          "journal-title": "Sci. Adv."
+        },
+        {
+          "key": "1046_CR33",
+          "doi-asserted-by": "crossref",
+          "first-page": "7276",
+          "DOI": "10.1021/jacs.0c00122",
+          "volume": "142",
+          "author": "J Li",
+          "year": "2020",
+          "unstructured": "Li, J. et al. Electroreduction of CO2 to formate on a copper-based electrocatalyst at high pressures with high energy conversion efficiency. J. Am. Chem. Soc. 142, 7276–7282 (2020).",
+          "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+          "key": "1046_CR34",
+          "volume": "11",
+          "author": "S Zhao",
+          "year": "2019",
+          "unstructured": "Zhao, S. et al. Advances in Sn‑based catalysts for electrochemical CO2 reduction. Nano-Micro Lett. 11, 62 (2019).",
+          "journal-title": "Nano-Micro Lett."
+        },
+        {
+          "key": "1046_CR35",
+          "doi-asserted-by": "crossref",
+          "first-page": "4822",
+          "DOI": "10.1021/acscatal.7b00687",
+          "volume": "7",
+          "author": "JT Feaster",
+          "year": "2017",
+          "unstructured": "Feaster, J. T. et al. Understanding selectivity for the electrochemical reduction of carbon dioxide to formic acid and carbon monoxide on metal electrodes. ACS Catal. 7, 4822–4827 (2017).",
+          "journal-title": "ACS Catal."
+        },
+        {
+          "key": "1046_CR36",
+          "doi-asserted-by": "crossref",
+          "first-page": "3761",
+          "DOI": "10.1002/cssc.201901107",
+          "volume": "12",
+          "author": "CI Shaughnessy",
+          "year": "2019",
+          "unstructured": "Shaughnessy, C. I. et al. Intensified electrocatalytic CO2 conversion in pressure-tunable CO2-expanded electrolytes. ChemSusChem 12, 3761–3768 (2019).",
+          "journal-title": "ChemSusChem"
+        },
+        {
+          "key": "1046_CR37",
+          "doi-asserted-by": "crossref",
+          "first-page": "2434",
+          "DOI": "10.1039/D0GC00013B",
+          "volume": "22",
+          "author": "CI Shaughnessy",
+          "year": "2020",
+          "unstructured": "Shaughnessy, C. I. et al. Insights into pressure tunable reaction rates for electrochemical reduction of CO2 in organic electrolytes. Green. Chem. 22, 2434–2442 (2020).",
+          "journal-title": "Green. Chem."
+        },
+        {
+          "key": "1046_CR38",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1016/j.jcou.2016.02.008",
+          "volume": "15",
+          "author": "AK Mishra",
+          "year": "2016",
+          "unstructured": "Mishra, A. K. & De Leeuw, N. H. Mechanistic insights into the Cu(I) oxide-catalyzed conversion of CO2 to fuels and chemicals: a DFT approach. J. CO2 Util. 15, 96–106 (2016).",
+          "journal-title": "J. CO2 Util."
+        },
+        {
+          "key": "1046_CR39",
+          "doi-asserted-by": "crossref",
+          "first-page": "4936",
+          "DOI": "10.1021/acscatal.1c00272",
+          "volume": "11",
+          "author": "G Marcandalli",
+          "year": "2021",
+          "unstructured": "Marcandalli, G., Goyal, A. & Koper, M. T. M. Electrolyte effects on the Faradaic efficiency of CO2 reduction to CO on a gold electrode. ACS Catal. 11, 4936–4945 (2021).",
+          "journal-title": "ACS Catal."
+        },
+        {
+          "key": "1046_CR40",
+          "doi-asserted-by": "crossref",
+          "first-page": "19969",
+          "DOI": "10.1021/ja309317u",
+          "volume": "134",
+          "author": "Y Chen",
+          "year": "2012",
+          "unstructured": "Chen, Y., Li, C. W. & Kanan, M. W. Aqueous CO2 reduction at very low overpotential on oxide-derived Au nanoparticles. J. Am. Chem. Soc. 134, 19969–19972 (2012).",
+          "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+          "key": "1046_CR41",
+          "doi-asserted-by": "crossref",
+          "first-page": "H252",
+          "DOI": "10.1149/2.0071605jes",
+          "volume": "163",
+          "author": "SD Giri",
+          "year": "2016",
+          "unstructured": "Giri, S. D. & Sarkar, A. Electrochemical study of bulk and monolayer copper in alkaline solution. J. Electrochem. Soc. 163, H252–H259 (2016).",
+          "journal-title": "J. Electrochem. Soc."
+        },
+        {
+          "key": "1046_CR42",
+          "doi-asserted-by": "crossref",
+          "first-page": "102",
+          "DOI": "10.1107/S0021889878012844",
+          "volume": "11",
+          "author": "JI Langford",
+          "year": "1978",
+          "unstructured": "Langford, J. I. & Wilson, A. J. C. Seherrer after sixty years: a survey and some new results in the determination of crystallite size. J. Appl. Crystallogr. 11, 102–113 (1978).",
+          "journal-title": "J. Appl. Crystallogr."
+        },
+        {
+          "key": "1046_CR43",
+          "doi-asserted-by": "crossref",
+          "first-page": "98",
+          "DOI": "10.1021/ed075p98",
+          "volume": "75",
+          "author": "AT Baker",
+          "year": "1998",
+          "unstructured": "Baker, A. T. The ligand field spectra of copper(II) complexes. J. Chem. Educ. 75, 98–99 (1998).",
+          "journal-title": "J. Chem. Educ."
+        },
+        {
+          "key": "1046_CR44",
+          "doi-asserted-by": "crossref",
+          "first-page": "4802",
+          "DOI": "10.1021/es200590m",
+          "volume": "45",
+          "author": "D Guo",
+          "year": "2011",
+          "unstructured": "Guo, D. et al. Borate-catalyzed carbon dioxide hydration via the carbonic anhydrase mechanism. Environ. Sci. Technol. 45, 4802–4807 (2011).",
+          "journal-title": "Environ. Sci. Technol."
+        },
+        {
+          "key": "1046_CR45",
+          "doi-asserted-by": "crossref",
+          "first-page": "28",
+          "DOI": "10.1016/j.ijggc.2016.07.020",
+          "volume": "53",
+          "author": "G Hu",
+          "year": "2016",
+          "unstructured": "Hu, G. et al. Carbon dioxide absorption into promoted potassium carbonate solutions: a review. Int. J. Greenh. Gas. Control. 53, 28–40 (2016).",
+          "journal-title": "Int. J. Greenh. Gas. Control."
+        },
+        {
+          "key": "1046_CR46",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1149/1.2778110",
+          "volume": "98",
+          "author": "P Delahay",
+          "year": "1951",
+          "unstructured": "Delahay, P. Potential-pH diagram of zinc and its applications to the study of zinc corrosion. J. Electrochem. Soc. 98, 101–105 (1951).",
+          "journal-title": "J. Electrochem. Soc."
+        },
+        {
+          "key": "1046_CR47",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Haynes, W. M., Lide, D. R. & Bruno, T. J. CRC Handbook of Chemistry and Physics 95th edn, 5–81 (CRC, 2014).",
+          "DOI": "10.1201/b17118"
+        },
+        {
+          "key": "1046_CR48",
+          "doi-asserted-by": "crossref",
+          "first-page": "15438",
+          "DOI": "10.1021/jacs.0c06779",
+          "volume": "142",
+          "author": "X Lu",
+          "year": "2020",
+          "unstructured": "Lu, X. et al. In-situ observation of the pH gradient near the gas diffusion electrode of CO2 reduction in alkaline electrolyte. J. Am. Chem. Soc. 142, 15438–15444 (2020).",
+          "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+          "key": "1046_CR49",
+          "doi-asserted-by": "crossref",
+          "first-page": "10816",
+          "DOI": "10.1039/C5RA22926J",
+          "volume": "6",
+          "author": "MK Wong",
+          "year": "2016",
+          "unstructured": "Wong, M. K., Shariff, A. M. & Bustam, M. A. Raman spectroscopic study on the equilibrium of carbon dioxide in aqueous monoethanolamine. RSC Adv. 6, 10816–10823 (2016).",
+          "journal-title": "RSC Adv."
+        },
+        {
+          "key": "1046_CR50",
+          "doi-asserted-by": "crossref",
+          "first-page": "104",
+          "DOI": "10.1016/0039-6028(93)90751-5",
+          "volume": "287",
+          "author": "W Akemann",
+          "year": "1993",
+          "unstructured": "Akemann, W. & Otto, A. The effect of atomic scale surface disorder on bonding and activation of adsorbates: vibrational properties of CO and CO2 on copper. Surf. Sci. 287, 104–109 (1993).",
+          "journal-title": "Surf. Sci."
+        },
+        {
+          "key": "1046_CR51",
+          "doi-asserted-by": "crossref",
+          "first-page": "11363",
+          "DOI": "10.1021/acsnano.0c03534",
+          "volume": "14",
+          "author": "W Shan",
+          "year": "2020",
+          "unstructured": "Shan, W. et al. In situ surface-enhanced Raman spectroscopic evidence on the origin of selectivity in CO2 electrocatalytic reduction. ACS Nano. 14, 11363–11372 (2020).",
+          "journal-title": "ACS Nano."
+        },
+        {
+          "key": "1046_CR52",
+          "doi-asserted-by": "crossref",
+          "first-page": "1345",
+          "DOI": "10.1002/anie.201811667",
+          "volume": "58",
+          "author": "D Bohra",
+          "year": "2019",
+          "unstructured": "Bohra, D. et al. Lateral adsorbate interactions inhibit HCOO– while promoting CO selectivity for CO2 electrocatalysis on silver. Angew. Chem. 58, 1345–1349 (2019).",
+          "journal-title": "Angew. Chem."
+        },
+        {
+          "key": "1046_CR53",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1016/S0022-2860(00)00460-9",
+          "volume": "526",
+          "author": "RL Frost",
+          "year": "2000",
+          "unstructured": "Frost, R. L. & Kloprogge, J. T. Raman spectroscopy of the acetates of sodium, potassium and magnesium at liquid nitrogen temperature. J. Mol. Struct. 526, 131–141 (2000).",
+          "journal-title": "J. Mol. Struct."
+        },
+        {
+          "key": "1046_CR54",
+          "doi-asserted-by": "crossref",
+          "first-page": "1468",
+          "DOI": "10.1002/jrs.2786",
+          "volume": "41",
+          "author": "M San Andrés",
+          "year": "2010",
+          "unstructured": "San Andrés, M., De La Roja, J. M., Baonza, V. G. & Sancho, N. Verdigris pigment: a mixture of compounds. Input from Raman spectroscopy. J. Raman Spectrosc. 41, 1468–1476 (2010).",
+          "journal-title": "J. Raman Spectrosc."
+        },
+        {
+          "key": "1046_CR55",
+          "doi-asserted-by": "crossref",
+          "first-page": "1614",
+          "DOI": "10.3390/heritage2020099",
+          "volume": "2",
+          "author": "J Buse",
+          "year": "2019",
+          "unstructured": "Buse, J., Otero, V. & Melo, M. New insights into synthetic copper greens: the search for specific signatures by Raman and infrared spectroscopy for their characterization in medieval artworks. Heritage 2, 1614–1629 (2019).",
+          "journal-title": "Heritage"
+        },
+        {
+          "key": "1046_CR56",
+          "doi-asserted-by": "crossref",
+          "first-page": "3878",
+          "DOI": "10.1039/D2EE01485H",
+          "volume": "15",
+          "author": "HH Heenen",
+          "year": "2022",
+          "unstructured": "Heenen, H. H. et al. The mechanism for acetate formation in electrochemical CO(2) reduction on Cu: selectivity with potential, pH, and nanostructuring. Energy Environ. Sci. 15, 3878–3990 (2022).",
+          "journal-title": "Energy Environ. Sci."
+        },
+        {
+          "key": "1046_CR57",
+          "doi-asserted-by": "crossref",
+          "first-page": "e2118166119",
+          "DOI": "10.1073/pnas.2118166119",
+          "volume": "119",
+          "author": "F Shao",
+          "year": "2022",
+          "unstructured": "Shao, F. et al. In situ spectroelectrochemical probing of CO redox landscape on copper single-crystal surfaces. Proc. Natl Acad. Sci. USA 119, e2118166119 (2022).",
+          "journal-title": "Proc. Natl Acad. Sci. USA"
+        },
+        {
+          "key": "1046_CR58",
+          "doi-asserted-by": "crossref",
+          "first-page": "7075",
+          "DOI": "10.1021/jp970284i",
+          "volume": "101",
+          "author": "Y Hori",
+          "year": "1997",
+          "unstructured": "Hori, Y., Takahashi, R., Yoshinami, Y. & Murata, A. Electrochemical reduction of CO at a copper electrode. J. Phys. Chem. B 101, 7075–7081 (1997).",
+          "journal-title": "J. Phys. Chem. B"
+        },
+        {
+          "key": "1046_CR59",
+          "doi-asserted-by": "crossref",
+          "first-page": "4059",
+          "DOI": "10.1021/acscatal.9b05319",
+          "volume": "10",
+          "author": "LRL Ting",
+          "year": "2020",
+          "unstructured": "Ting, L. R. L. et al. Enhancing CO2 electroreduction to ethanol on copper–silver composites by opening an alternative catalytic pathway. ACS Catal. 10, 4059–4069 (2020).",
+          "journal-title": "ACS Catal."
+        },
+        {
+          "key": "1046_CR60",
+          "doi-asserted-by": "crossref",
+          "first-page": "6706",
+          "DOI": "10.1073/pnas.1701405114",
+          "volume": "114",
+          "author": "M Favaro",
+          "year": "2017",
+          "unstructured": "Favaro, M. et al. Subsurface oxide plays a critical role in CO2 activation by Cu(111) surfaces to form chemisorbed CO2, the first step in reduction of CO2. Proc. Natl Acad. Sci. USA 114, 6706–6711 (2017).",
+          "journal-title": "Proc. Natl Acad. Sci. USA"
+        },
+        {
+          "key": "1046_CR61",
+          "doi-asserted-by": "crossref",
+          "first-page": "684",
+          "DOI": "10.1039/D2GC03343G",
+          "volume": "25",
+          "author": "R Qiu",
+          "year": "2023",
+          "unstructured": "Qiu, R. et al. Enhanced electroreduction of CO2 to ethanol via enriched intermediates at high CO2 pressures. Green. Chem. 25, 684–691 (2023).",
+          "journal-title": "Green. Chem."
+        },
+        {
+          "key": "1046_CR62",
+          "doi-asserted-by": "crossref",
+          "first-page": "2097",
+          "DOI": "10.1149/1.2055067",
+          "volume": "141",
+          "author": "K Hara",
+          "year": "1994",
+          "unstructured": "Hara, K., Tsuneto, A., Kudo, A. & Sakata, T. Electrochemical reduction of CO2 on a Cu electrode under high pressure: factors that determine the product selectivity. J. Electrochem. Soc. 141, 2097–2103 (1994).",
+          "journal-title": "J. Electrochem. Soc."
+        },
+        {
+          "key": "1046_CR63",
+          "doi-asserted-by": "crossref",
+          "first-page": "354",
+          "DOI": "10.1002/celc.201402373",
+          "volume": "2",
+          "author": "R Kas",
+          "year": "2015",
+          "unstructured": "Kas, R., Kortlever, R., Yılmaz, H., Koper, M. T. M. & Mul, G. Manipulating the hydrocarbon selectivity of copper nanoparticles in CO2 electroreduction by process conditions. ChemElectroChem 2, 354–358 (2015).",
+          "journal-title": "ChemElectroChem"
+        },
+        {
+          "key": "1046_CR64",
+          "doi-asserted-by": "crossref",
+          "first-page": "6844",
+          "DOI": "10.1016/j.egypro.2017.03.1822",
+          "volume": "114",
+          "author": "C Coquelet",
+          "year": "2017",
+          "unstructured": "Coquelet, C. et al. Transport of CO2: presentation of new thermophysical property measurements and phase diagrams. Energy Procedia 114, 6844–6859 (2017).",
+          "journal-title": "Energy Procedia"
+        },
+        {
+          "key": "1046_CR65",
+          "doi-asserted-by": "crossref",
+          "first-page": "23915",
+          "DOI": "10.1073/pnas.1915319116",
+          "volume": "116",
+          "author": "Y Meng",
+          "year": "2019",
+          "unstructured": "Meng, Y. et al. Highly active oxygen evolution integrated with efficient CO2 to CO electroreduction. Proc. Natl Acad. Sci. USA 116, 23915–23922 (2019).",
+          "journal-title": "Proc. Natl Acad. Sci. USA"
+        },
+        {
+          "key": "1046_CR66",
+          "doi-asserted-by": "crossref",
+          "first-page": "3660",
+          "DOI": "10.1002/cssc.201701205",
+          "volume": "10",
+          "author": "O Melchaeva",
+          "year": "2017",
+          "unstructured": "Melchaeva, O. et al. Electrochemical reduction of protic supercritical CO2 on copper electrodes. ChemSusChem 10, 3660–3670 (2017).",
+          "journal-title": "ChemSusChem"
+        },
+        {
+          "key": "1046_CR67",
+          "doi-asserted-by": "crossref",
+          "first-page": "106739",
+          "DOI": "10.1016/j.elecom.2020.106739",
+          "volume": "115",
+          "author": "FD Speck",
+          "year": "2020",
+          "unstructured": "Speck, F. D. & Cherevko, S. Electrochemical copper dissolution: a benchmark for stable CO2 reduction on copper electrocatalysts. Electrochem. Commun. 115, 106739 (2020).",
+          "journal-title": "Electrochem. Commun."
+        },
+        {
+          "key": "1046_CR68",
+          "doi-asserted-by": "crossref",
+          "first-page": "130",
+          "DOI": "10.1016/S0021-9673(01)96628-2",
+          "volume": "40",
+          "author": "D Cozzi",
+          "year": "1969",
+          "unstructured": "Cozzi, D., Desideri, P. G. & Lepri, L. The mechanism of ion exchange with alginic acid. J. Chromatogr. 40, 130–137 (1969).",
+          "journal-title": "J. Chromatogr."
+        },
+        {
+          "key": "1046_CR69",
+          "doi-asserted-by": "crossref",
+          "first-page": "4158",
+          "DOI": "10.1021/acs.biomac.9b01052",
+          "volume": "20",
+          "author": "M Urbanova",
+          "year": "2019",
+          "unstructured": "Urbanova, M. et al. Interaction pathways and structure-chemical transformations of alginate gels in physiological environments. Biomacromolecules 20, 4158–4170 (2019).",
+          "journal-title": "Biomacromolecules"
+        },
+        {
+          "key": "1046_CR70",
+          "doi-asserted-by": "crossref",
+          "first-page": "948",
+          "DOI": "10.1038/nm.3619",
+          "volume": "20",
+          "author": "B Zhang",
+          "year": "2014",
+          "unstructured": "Zhang, B., Kumar, R. B., Dai, H. & Feldman, B. J. A plasmonic chip for biomarker discovery and diagnosis of type 1 diabetes. Nat. Med. 20, 948–953 (2014).",
+          "journal-title": "Nat. Med."
+        },
+        {
+          "key": "1046_CR71",
+          "doi-asserted-by": "crossref",
+          "first-page": "351",
+          "DOI": "10.1002/pts.905",
+          "volume": "23",
+          "author": "LR Braga",
+          "year": "2010",
+          "unstructured": "Braga, L. R., Sarantópoulos, C. I. G. L., Peres, L. & Braga, J. W. B. Evaluation of absorption kinetics of oxygen scavenger sachets using response surface methodology. Packag. Technol. Sci. 23, 351–361 (2010).",
+          "journal-title": "Packag. Technol. Sci."
+        },
+        {
+          "key": "1046_CR72",
+          "doi-asserted-by": "crossref",
+          "first-page": "900",
+          "DOI": "10.1039/B713254A",
+          "volume": "7",
+          "author": "WW Rudolph",
+          "year": "2008",
+          "unstructured": "Rudolph, W. W., Irmer, G. & Konigsberger, E. Speciation studies in aqueous HCO3−–CO32− solutions. A combined Raman spectroscopic and thermodynamic study. Dalton Trans. 7, 900–908 (2008).",
+          "journal-title": "Dalton Trans."
+        },
+        {
+          "key": "1046_CR73",
+          "doi-asserted-by": "crossref",
+          "first-page": "329",
+          "DOI": "10.1007/BF00715991",
+          "volume": "1",
+          "author": "AR Davis",
+          "year": "1972",
+          "unstructured": "Davis, A. R. & Oliver, B. G. A vibrational-spectroscopic study of the species present in the CO2–H2O system. J. Solut. Chem. 1, 329–339 (1972).",
+          "journal-title": "J. Solut. Chem."
+        },
+        {
+          "key": "1046_CR74",
+          "doi-asserted-by": "crossref",
+          "first-page": "601",
+          "DOI": "10.1146/annurev.anchem.1.031207.112814",
+          "volume": "1",
+          "author": "PL Stiles",
+          "year": "2008",
+          "unstructured": "Stiles, P. L., Dieringer, J. A., Shah, N. C. & Duyne, van R. P. Surface-enhanced Raman spectroscopy. Annu. Rev. Anal. Chem. 1, 601–626 (2008).",
+          "journal-title": "Annu. Rev. Anal. Chem."
+        },
+        {
+          "key": "1046_CR75",
+          "doi-asserted-by": "crossref",
+          "first-page": "1653",
+          "DOI": "10.1021/ar800041s",
+          "volume": "41",
+          "author": "JP Camden",
+          "year": "2008",
+          "unstructured": "Camden, J. P., Dieringer, J. A., Zhao, J. & van Duyne, R. P. Controlled plasmonic nanostructures for surface-enhanced spectroscopy and sensing. Acc. Chem. Res. 41, 1653–1661 (2008).",
+          "journal-title": "Acc. Chem. Res."
+        }
+      ],
+      "container-title": [
+        "Nature Catalysis"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.nature.com/articles/s41929-023-01046-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41929-023-01046-8",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41929-023-01046-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            21
+          ]
+        ],
+        "date-time": "2023-12-21T03:50:33Z",
+        "timestamp": 1703130633000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.nature.com/articles/s41929-023-01046-8"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            19
+          ]
+        ]
+      },
+      "references-count": 75,
+      "journal-issue": {
+        "issue": "12",
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "1046"
+      ],
+      "URL": "https://doi.org/10.1038/s41929-023-01046-8",
+      "relation": {},
+      "ISSN": [
+        "2520-1158"
+      ],
+      "issn-type": [
+        {
+          "value": "2520-1158",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "7 December 2022",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "14 September 2023",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "19 October 2023",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "The authors declare no competing interests.",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ]
+    }
+  }
+]

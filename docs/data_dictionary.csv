@@ -1,0 +1,30 @@
+field,dtype,role,definition,units,raw_source,missing_rows,unique_nonmissing
+record_id,object,metadata,"Stable identifier from workbook identity, worksheet and original row",identifier,raw workbook row,0,86
+study_id,object,metadata,Lowercase explicit original-study DOI used for paper grouping,DOI,ref / explicit Nature article URL,0,22
+source_group_id,object,metadata,Independent source group; equals DOI because no shared dataset was verified,DOI,study_id,0,22
+raw_row,int64,metadata,One-based Excel row including header offset,row number,Sheet1,0,86
+source_worksheet,object,metadata,Original worksheet name,name,workbook,0,1
+raw_reference,object,metadata,Explicit citation text at the current numbered source block header,text,ref,0,22
+raw_reference_row,int64,metadata,Excel row of the explicit citation supporting source attribution,row number,ref,0,22
+source_block_marker,object,metadata,Original source-block marker from unnamed column Y,source marker,Unnamed: 24,0,22
+smiles,object,metadata,"Original modifier representation; retained for provenance and grouping, excluded from predictors",source string,additive,0,40
+target,object,target,Individual carbon species having unique positive maximum explicitly reported numeric FE among at least two species,chemical label,individual-carbon FE columns,0,4
+reported_carbon_species_n,int64,metadata,Number of explicitly numeric individual carbon-species FE values; outcome metadata excluded from predictors,count,individual-carbon FE columns,0,7
+reported_carbon_fe_json,object,metadata,Exact numeric reported carbon-species FE values used to define target; outcome metadata excluded from predictors,percent FE,individual-carbon FE columns,0,86
+potential_rhe_v,float64,conditions,Numeric source cathode potential labelled versus RHE; nonnumeric total-cell values remain missing,V vs RHE,typical voltage (V vs RHE),11,26
+ph_category,object,conditions,Source qualitative acidity category; never converted to a numeric pH,source category,typical pH,0,3
+electrolyte,object,conditions,Source electrolyte identity/concentration string after whitespace removal only,source string,typical electrolyte,0,10
+reactor,object,conditions,"Source cell-type category, including original MAE spelling without inferred correction",source category,cell type,1,2
+polymer_category,object,catalyst,Broad source modifier structural category; Yes variants mapped to polymer and No to nonpolymer,category,IsPolymerized,3,3
+atom_C,int64,catalyst,"Count of explicit C atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,20
+atom_N,int64,catalyst,"Count of explicit N atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,10
+atom_O,int64,catalyst,"Count of explicit O atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,7
+atom_S,int64,catalyst,"Count of explicit S atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,3
+atom_F,int64,catalyst,"Count of explicit F atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,6
+atom_P,int64,catalyst,"Count of explicit P atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,1
+atom_Cl,int64,catalyst,"Count of explicit Cl atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,3
+atom_Br,int64,catalyst,"Count of explicit Br atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,2
+atom_I,int64,catalyst,"Count of explicit I atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,1
+atom_metal,int64,catalyst,"Count of explicit metal atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,3
+atom_total,int64,catalyst,"Count of explicit total atom tokens in the original source modifier representation, not a complete polymer formula",explicit atom-token count,additive,0,27
+condition_id,object,metadata,"SHA256-derived grouping key for DOI, exact modifier and recorded conditions",identifier,recorded input fields,0,86

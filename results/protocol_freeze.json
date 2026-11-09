@@ -1,0 +1,13 @@
+{
+  "status": "frozen_before_any_outer_model_evaluation",
+  "utc": "2026-11-09T09:57:37.140208+00:00",
+  "files": {
+    "configs/config.json": "d9f05f7a5b99662189011947d0a567bac2b630eae35a4c3cab09b33ebf44f7d1",
+    "scripts/prepare_data.py": "6afecc53d73ab62b9681fe2213a03ca2555b3eaa81a9826fc45a0cab158bb967",
+    "scripts/run_models.py": "e1960f2bfd4ec25d87abecafcc2113db8137e962807d04f79c4b81378bd6fe59",
+    "scripts/analyze_results.py": "e64e0528380f5bf831b0a2ef69a17613e483f089ad1b68efc62fb8ce880c6706",
+    "docs/evaluation_protocol.md": "82620212cdcdc770d45815cab2db40d288478bad8ef543d30f9d44b880190dff",
+    "data/processed/records.csv": "1017f7d9415e6748db4d36cd1f90a7b236cf1dd70e1fe5cb1418afc4bb02295c",
+    "results/outer_splits.csv": "29be87b47109e4330ef4120de25a35803e6889358aab63779c3baea1775bbf7c"
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "key": "doi",
+    "url": "https://doi.org/10.1155/er/2400202",
+    "final_url": "https://onlinelibrary.wiley.com/doi/10.1155/er/2400202",
+    "status": 403,
+    "bytes": 6088
+  },
+  {
+    "key": "github_api",
+    "url": "https://api.github.com/repos/alpertap74/CO2-electrolyzer_2003_2025",
+    "final_url": "https://api.github.com/repos/alpertap74/CO2-electrolyzer_2003_2025",
+    "status": 404,
+    "bytes": 118
+  },
+  {
+    "key": "github_page",
+    "url": "https://github.com/alpertap74/CO2-electrolyzer_2003_2025",
+    "final_url": "https://github.com/alpertap74/CO2-electrolyzer_2003_2025",
+    "status": 404,
+    "bytes": 225370
+  },
+  {
+    "key": "crossref",
+    "url": "https://api.crossref.org/works/10.1155/er/2400202",
+    "final_url": "https://api.crossref.org/works/10.1155/er/2400202",
+    "status": 200,
+    "bytes": 14959,
+    "headers": {
+      "date": "Mon, 09 Nov 2026 09:20:25 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*",
+      "server": "envoy",
+      "x-rate-limit-limit": "5",
+      "x-rate-limit-interval": "1s",
+      "x-concurrency-limit": "1",
+      "x-api-pool": "public-single",
+      "permissions-policy": "interest-cohort=()",
+      "strict-transport-security": "max-age=31536000;",
+      "x-envoy-upstream-service-time": "260",
+      "connection": "close",
+      "transfer-encoding": "chunked"
+    }
+  },
+  {
+    "key": "wiley",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1155/er/2400202",
+    "final_url": "https://onlinelibrary.wiley.com/doi/10.1155/er/2400202",
+    "status": 403,
+    "bytes": 6109
+  }
+]

@@ -1,0 +1,19 @@
+split,fold,model,feature_set,status,seed
+random_condition,0,logistic_regression,combined,eligible,20261126
+random_condition,0,random_forest,combined,eligible,20261126
+random_condition,0,hist_gradient_boosting,combined,eligible,20261126
+random_condition,1,logistic_regression,combined,eligible,20261126
+random_condition,1,random_forest,combined,eligible,20261126
+random_condition,1,hist_gradient_boosting,combined,eligible,20261126
+random_condition,2,logistic_regression,combined,eligible,20261126
+random_condition,2,random_forest,combined,eligible,20261126
+random_condition,2,hist_gradient_boosting,combined,eligible,20261126
+study,0,logistic_regression,combined,skip: calibration fold 0 has a missing training/validation class,20261126
+study,0,random_forest,combined,skip: calibration fold 0 has a missing training/validation class,20261126
+study,0,hist_gradient_boosting,combined,skip: calibration fold 0 has a missing training/validation class,20261126
+study,1,logistic_regression,combined,eligible,20261126
+study,1,random_forest,combined,eligible,20261126
+study,1,hist_gradient_boosting,combined,eligible,20261126
+study,2,logistic_regression,combined,eligible,20261126
+study,2,random_forest,combined,eligible,20261126
+study,2,hist_gradient_boosting,combined,eligible,20261126

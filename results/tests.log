@@ -1,0 +1,15 @@
+test_features_follow_independent_allowlist (test_research_integrity.ResearchIntegrity.test_features_follow_independent_allowlist) ... ok
+test_fit_and_calibration_provenance_never_touch_outer_test (test_research_integrity.ResearchIntegrity.test_fit_and_calibration_provenance_never_touch_outer_test) ... ok
+test_immutable_raw_and_frozen_inputs (test_research_integrity.ResearchIntegrity.test_immutable_raw_and_frozen_inputs) ... ok
+test_labels_use_reported_species_without_zero_imputation (test_research_integrity.ResearchIntegrity.test_labels_use_reported_species_without_zero_imputation) ... ok
+test_outer_splits_disjoint_and_identical_cohort (test_research_integrity.ResearchIntegrity.test_outer_splits_disjoint_and_identical_cohort) ... ok
+test_paired_comparisons_use_identical_records (test_research_integrity.ResearchIntegrity.test_paired_comparisons_use_identical_records) ... ok
+test_predictions_coverage_probability_axis_and_labels (test_research_integrity.ResearchIntegrity.test_predictions_coverage_probability_axis_and_labels) ... ok
+test_raw_trace_exclusions_and_source_continuation (test_research_integrity.ResearchIntegrity.test_raw_trace_exclusions_and_source_continuation) ... ok
+test_reliability_bins_and_exploratory_coverage (test_research_integrity.ResearchIntegrity.test_reliability_bins_and_exploratory_coverage) ... ok
+test_saved_metrics_recompute_independently (test_research_integrity.ResearchIntegrity.test_saved_metrics_recompute_independently) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.987s
+
+OK

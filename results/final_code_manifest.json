@@ -1,0 +1,13 @@
+{
+  "utc": "2026-11-09T10:06:23.121670+00:00",
+  "sha256": {
+    "configs/config.json": "d9f05f7a5b99662189011947d0a567bac2b630eae35a4c3cab09b33ebf44f7d1",
+    "scripts/analyze_results.py": "6bda26de26fb389ea0fd3334f10f1be4712450d9ba1894ab234e8307c6fae61a",
+    "scripts/download_data.py": "0de9451d36ec463b851cc9b91e131b05bf755c6a41ce60771de1cbe50b83aa7c",
+    "scripts/generate_report.py": "6e0b9a671c2dc37f6bc297b9e6f73df47c94ae722a6ce90b5adb2fa4fb65a595",
+    "scripts/prepare_data.py": "b660c171c820a76a3ed9016ae88d4e074c4960c4596a7150657ce9b4ec27c11b",
+    "scripts/reproduce.py": "826e79b2a52a7d08365e27884594f18f653a89fcd8175e308644883f04688377",
+    "scripts/run_models.py": "e1960f2bfd4ec25d87abecafcc2113db8137e962807d04f79c4b81378bd6fe59",
+    "tests/test_research_integrity.py": "bfe12f1f3df7a4655b22c66268311c9529c49bb0a14768d459c87e721c2abbaf"
+  }
+}

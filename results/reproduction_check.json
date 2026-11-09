@@ -1,0 +1,312 @@
+{
+  "status": "passed",
+  "scope": "Full clean-output rerun of split preparation, all fixed models, grouped sigmoid calibration and analysis (500 source-cluster bootstrap replicates).",
+  "fit_count": 75,
+  "prediction_rows": 2146,
+  "files": [
+    {
+      "file": "analysis_metadata.json",
+      "main_sha256": "fbc55275c73e2bc20e5581395f6e988247bc3ee0e1fae0e8d681fc3f443f74dc",
+      "reproduction_sha256": "fbc55275c73e2bc20e5581395f6e988247bc3ee0e1fae0e8d681fc3f443f74dc",
+      "byte_identical": true
+    },
+    {
+      "file": "analysis_stdout.log",
+      "main_sha256": "1d0369a1544c7fd0fd2f17e5de3c7afd13b1be5ba6222aad3e46e686c673e9fe",
+      "reproduction_sha256": "1d0369a1544c7fd0fd2f17e5de3c7afd13b1be5ba6222aad3e46e686c673e9fe",
+      "byte_identical": true
+    },
+    {
+      "file": "calibration_matched_bins.csv",
+      "main_sha256": "5d201858d3f45d2cd5f6e0fed35d43e9c3e3a98d1772ad733c4ab2e216d269f6",
+      "reproduction_sha256": "5d201858d3f45d2cd5f6e0fed35d43e9c3e3a98d1772ad733c4ab2e216d269f6",
+      "byte_identical": true
+    },
+    {
+      "file": "calibration_matched_metrics.csv",
+      "main_sha256": "708aa095f41692d477dbf47bbd638e265d41b00eed1d067dc8361fba7f5bc43e",
+      "reproduction_sha256": "708aa095f41692d477dbf47bbd638e265d41b00eed1d067dc8361fba7f5bc43e",
+      "byte_identical": true
+    },
+    {
+      "file": "calibration_status.csv",
+      "main_sha256": "0ac6cd5da87aef2f4bdede5338b1a15f3a39f2b1654b98986917e96429cc97f7",
+      "reproduction_sha256": "0ac6cd5da87aef2f4bdede5338b1a15f3a39f2b1654b98986917e96429cc97f7",
+      "byte_identical": true
+    },
+    {
+      "file": "calibration_subset_metrics.csv",
+      "main_sha256": "b5a99394f0c5843e4a69ee07a1d6fafd7470cd671b4e0d6a640897ad966b22bf",
+      "reproduction_sha256": "b5a99394f0c5843e4a69ee07a1d6fafd7470cd671b4e0d6a640897ad966b22bf",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_hist_gradient_boosting_catalyst_uncalibrated.csv",
+      "main_sha256": "ca2fe6f93f848b3195d74abb8da87b8212a1884735a2193e0ff3eee5f530e5e4",
+      "reproduction_sha256": "ca2fe6f93f848b3195d74abb8da87b8212a1884735a2193e0ff3eee5f530e5e4",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_hist_gradient_boosting_combined_sigmoid.csv",
+      "main_sha256": "9e7ace1ab0f05b75110fd5c969e2218078ef4c47906843e605ab0320dede067b",
+      "reproduction_sha256": "9e7ace1ab0f05b75110fd5c969e2218078ef4c47906843e605ab0320dede067b",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_hist_gradient_boosting_combined_uncalibrated.csv",
+      "main_sha256": "4eb7da062022460abbe6a0bf04a14ec0b82a743549bd39dcb2842de0e0af52bc",
+      "reproduction_sha256": "4eb7da062022460abbe6a0bf04a14ec0b82a743549bd39dcb2842de0e0af52bc",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_hist_gradient_boosting_conditions_uncalibrated.csv",
+      "main_sha256": "638858fc31e8feb959c1bf490c2299b0c8ea1aa9ef0544c9a06e8e95b26103b7",
+      "reproduction_sha256": "638858fc31e8feb959c1bf490c2299b0c8ea1aa9ef0544c9a06e8e95b26103b7",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_logistic_regression_catalyst_uncalibrated.csv",
+      "main_sha256": "afed2bf5f1f8b6172dc6d5c8334d9003876a13df02263efcb2906f2c719e4b73",
+      "reproduction_sha256": "afed2bf5f1f8b6172dc6d5c8334d9003876a13df02263efcb2906f2c719e4b73",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_logistic_regression_combined_sigmoid.csv",
+      "main_sha256": "6e9c0a85df66affcaa04cc932d5743445a0336de021ed9853f925617abdb444d",
+      "reproduction_sha256": "6e9c0a85df66affcaa04cc932d5743445a0336de021ed9853f925617abdb444d",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_logistic_regression_combined_uncalibrated.csv",
+      "main_sha256": "e3bdf0850a59ee21812a6b790ab1c526a3e3fc59236585c11258973185d97eac",
+      "reproduction_sha256": "e3bdf0850a59ee21812a6b790ab1c526a3e3fc59236585c11258973185d97eac",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_logistic_regression_conditions_uncalibrated.csv",
+      "main_sha256": "1de0297b4aadb247e375a09f80bf84a73e4582060f6a495e967692684bc65b7b",
+      "reproduction_sha256": "1de0297b4aadb247e375a09f80bf84a73e4582060f6a495e967692684bc65b7b",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_majority_none_uncalibrated.csv",
+      "main_sha256": "77a2f5e45b81640a61c9b7cfed0f2ac6803bb87ef97221a47a99d4921c23fe61",
+      "reproduction_sha256": "77a2f5e45b81640a61c9b7cfed0f2ac6803bb87ef97221a47a99d4921c23fe61",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_random_forest_catalyst_uncalibrated.csv",
+      "main_sha256": "a7f6960d0a1de4afa058b7ec2fd04f163727941253d36998d6d1e55e1fcb069f",
+      "reproduction_sha256": "a7f6960d0a1de4afa058b7ec2fd04f163727941253d36998d6d1e55e1fcb069f",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_random_forest_combined_sigmoid.csv",
+      "main_sha256": "05940b078bfc9e2c3a6c3f6d0d9c7657d5acad60bd1d2145aa1cc54d37e5a754",
+      "reproduction_sha256": "05940b078bfc9e2c3a6c3f6d0d9c7657d5acad60bd1d2145aa1cc54d37e5a754",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_random_forest_combined_uncalibrated.csv",
+      "main_sha256": "cbec22811cab03d1e7f41752a80e87d54252e19d294eed1cc208f2a39307e8a4",
+      "reproduction_sha256": "cbec22811cab03d1e7f41752a80e87d54252e19d294eed1cc208f2a39307e8a4",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_random_condition_random_forest_conditions_uncalibrated.csv",
+      "main_sha256": "3cd77e605d2f784ba1860712230309c84e6ca33a6852e838a8f1b8ce325dc1f3",
+      "reproduction_sha256": "3cd77e605d2f784ba1860712230309c84e6ca33a6852e838a8f1b8ce325dc1f3",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_hist_gradient_boosting_catalyst_uncalibrated.csv",
+      "main_sha256": "515176dcf10b828db2991d95cdd6b3e7f3e6900cfb4c2683676d038a310940f7",
+      "reproduction_sha256": "515176dcf10b828db2991d95cdd6b3e7f3e6900cfb4c2683676d038a310940f7",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_hist_gradient_boosting_combined_sigmoid.csv",
+      "main_sha256": "c206f9a1a0dcf09f30c4735ca1fcd9c9077f47ebfbbc1ba4d1c4b74ce0e80c6e",
+      "reproduction_sha256": "c206f9a1a0dcf09f30c4735ca1fcd9c9077f47ebfbbc1ba4d1c4b74ce0e80c6e",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_hist_gradient_boosting_combined_uncalibrated.csv",
+      "main_sha256": "4c45c56dd64398c4132141b7c2de6fa02f502efe90acb23cabd4f974129ca9cb",
+      "reproduction_sha256": "4c45c56dd64398c4132141b7c2de6fa02f502efe90acb23cabd4f974129ca9cb",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_hist_gradient_boosting_conditions_uncalibrated.csv",
+      "main_sha256": "960b8b396d684aa6e9e0536c8f8b5541913cc46302cf197e2c2e22019f871a85",
+      "reproduction_sha256": "960b8b396d684aa6e9e0536c8f8b5541913cc46302cf197e2c2e22019f871a85",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_logistic_regression_catalyst_uncalibrated.csv",
+      "main_sha256": "75d06494def6ffa3fb79a83b6a705fb11b3d1c97f6e466ec48971ee4503ed2fb",
+      "reproduction_sha256": "75d06494def6ffa3fb79a83b6a705fb11b3d1c97f6e466ec48971ee4503ed2fb",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_logistic_regression_combined_sigmoid.csv",
+      "main_sha256": "c0ab6b7d698321d3fd2ab65bcf27be00e9cbcb74d3a808e7bd392e233f8955dd",
+      "reproduction_sha256": "c0ab6b7d698321d3fd2ab65bcf27be00e9cbcb74d3a808e7bd392e233f8955dd",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_logistic_regression_combined_uncalibrated.csv",
+      "main_sha256": "3465ed9f5ec0c6d4aba8f704f2681582461262e60a7203fdfa56d274aa3c2d61",
+      "reproduction_sha256": "3465ed9f5ec0c6d4aba8f704f2681582461262e60a7203fdfa56d274aa3c2d61",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_logistic_regression_conditions_uncalibrated.csv",
+      "main_sha256": "6d6d5eb93c3e29e16b72b6279e9633709b3e625b8af29323ed5b8eabd091e25a",
+      "reproduction_sha256": "6d6d5eb93c3e29e16b72b6279e9633709b3e625b8af29323ed5b8eabd091e25a",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_majority_none_uncalibrated.csv",
+      "main_sha256": "77a2f5e45b81640a61c9b7cfed0f2ac6803bb87ef97221a47a99d4921c23fe61",
+      "reproduction_sha256": "77a2f5e45b81640a61c9b7cfed0f2ac6803bb87ef97221a47a99d4921c23fe61",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_random_forest_catalyst_uncalibrated.csv",
+      "main_sha256": "38464d39736f78f2032eb7eea1b7a10fcd2916abc9444caa4053eadb947482ce",
+      "reproduction_sha256": "38464d39736f78f2032eb7eea1b7a10fcd2916abc9444caa4053eadb947482ce",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_random_forest_combined_sigmoid.csv",
+      "main_sha256": "4c203ec5e9db006b1bf2b990c981e2b545daa7f5a0975f36ecdd190cb0e12d99",
+      "reproduction_sha256": "4c203ec5e9db006b1bf2b990c981e2b545daa7f5a0975f36ecdd190cb0e12d99",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_random_forest_combined_uncalibrated.csv",
+      "main_sha256": "2eb95adae1ef4297446f1cac6631da38537731cd5d06749fedbf826ef84a508b",
+      "reproduction_sha256": "2eb95adae1ef4297446f1cac6631da38537731cd5d06749fedbf826ef84a508b",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_study_random_forest_conditions_uncalibrated.csv",
+      "main_sha256": "5463b098d76a990c6a9a3281233213cd4ba0a02efc7635d02296638f56f776a0",
+      "reproduction_sha256": "5463b098d76a990c6a9a3281233213cd4ba0a02efc7635d02296638f56f776a0",
+      "byte_identical": true
+    },
+    {
+      "file": "metrics.csv",
+      "main_sha256": "d87d03b25d5aa18661443219e9fe5f52e85ab90e3dd2f31ed96874feb1c1dc08",
+      "reproduction_sha256": "d87d03b25d5aa18661443219e9fe5f52e85ab90e3dd2f31ed96874feb1c1dc08",
+      "byte_identical": true
+    },
+    {
+      "file": "metrics_all_including_partial.csv",
+      "main_sha256": "db8f5b521d64461d93b2c456ae2c8638f392ebe5e89678e15e45974aa7599373",
+      "reproduction_sha256": "db8f5b521d64461d93b2c456ae2c8638f392ebe5e89678e15e45974aa7599373",
+      "byte_identical": true
+    },
+    {
+      "file": "outer_splits.csv",
+      "main_sha256": "29be87b47109e4330ef4120de25a35803e6889358aab63779c3baea1775bbf7c",
+      "reproduction_sha256": "29be87b47109e4330ef4120de25a35803e6889358aab63779c3baea1775bbf7c",
+      "byte_identical": true
+    },
+    {
+      "file": "paired_comparisons.csv",
+      "main_sha256": "efc0f865b3cc03afdcd5da7cedc71d96a2c0f95a1bf5727ce37f2f39597e8133",
+      "reproduction_sha256": "efc0f865b3cc03afdcd5da7cedc71d96a2c0f95a1bf5727ce37f2f39597e8133",
+      "byte_identical": true
+    },
+    {
+      "file": "per_class.csv",
+      "main_sha256": "ff2267188967bd62c9738779edfbcc44f68144b0c1dcb49a4e1ab7b4d7e69835",
+      "reproduction_sha256": "ff2267188967bd62c9738779edfbcc44f68144b0c1dcb49a4e1ab7b4d7e69835",
+      "byte_identical": true
+    },
+    {
+      "file": "prediction_completion.csv",
+      "main_sha256": "e15e8898d2c4fd43ddbc676ee87cf9e96827b12cd8869ba29f232668284b5e9c",
+      "reproduction_sha256": "e15e8898d2c4fd43ddbc676ee87cf9e96827b12cd8869ba29f232668284b5e9c",
+      "byte_identical": true
+    },
+    {
+      "file": "predictions.csv",
+      "main_sha256": "e1c07d522f7377e0e94a5e70bf9fca0a7981d4753bdd1809490e7082ee56fc7d",
+      "reproduction_sha256": "e1c07d522f7377e0e94a5e70bf9fca0a7981d4753bdd1809490e7082ee56fc7d",
+      "byte_identical": true
+    },
+    {
+      "file": "reliability_bins.csv",
+      "main_sha256": "6e634fc86ab73b27720a67be43f7f47f9ffda51d0135a670e777fb22b1eff4e4",
+      "reproduction_sha256": "6e634fc86ab73b27720a67be43f7f47f9ffda51d0135a670e777fb22b1eff4e4",
+      "byte_identical": true
+    },
+    {
+      "file": "risk_coverage.csv",
+      "main_sha256": "10c6bed7e1795fbb0befe4ea22139acb4cf160916b76b1194c7e9dfed2e55d2b",
+      "reproduction_sha256": "10c6bed7e1795fbb0befe4ea22139acb4cf160916b76b1194c7e9dfed2e55d2b",
+      "byte_identical": true
+    },
+    {
+      "file": "source_influence.csv",
+      "main_sha256": "94c5ccf4e3131c16641786ed1a35893c7db3ee657fd75013c863c30bf0f4cf59",
+      "reproduction_sha256": "94c5ccf4e3131c16641786ed1a35893c7db3ee657fd75013c863c30bf0f4cf59",
+      "byte_identical": true
+    },
+    {
+      "file": "split_coverage.csv",
+      "main_sha256": "36c2c6f2619f6b6a72d9da2b3e401ed95efd17973fcf62648c9138fa31b9f7dc",
+      "reproduction_sha256": "36c2c6f2619f6b6a72d9da2b3e401ed95efd17973fcf62648c9138fa31b9f7dc",
+      "byte_identical": true
+    },
+    {
+      "file": "split_manifest.json",
+      "main_sha256": "240c02eb9aff44a3985694126453a8e31bef347a97b72122b3d2d0a9d414f250",
+      "reproduction_sha256": "240c02eb9aff44a3985694126453a8e31bef347a97b72122b3d2d0a9d414f250",
+      "byte_identical": true
+    },
+    {
+      "file": "study_errors.csv",
+      "main_sha256": "fc099ddcc410a8c0c2257164d329fea5007b9c19a928f490514d5f03fea489fc",
+      "reproduction_sha256": "fc099ddcc410a8c0c2257164d329fea5007b9c19a928f490514d5f03fea489fc",
+      "byte_identical": true
+    },
+    {
+      "file": "subgroup_errors.csv",
+      "main_sha256": "3fc58ac4ccc257035361a1d11d0b357482273301855283fa942d70832aa8b100",
+      "reproduction_sha256": "3fc58ac4ccc257035361a1d11d0b357482273301855283fa942d70832aa8b100",
+      "byte_identical": true
+    }
+  ],
+  "fit_provenance_equal_ignoring_seconds": true,
+  "figures": [
+    {
+      "file": "calibration_matched_subsets.png",
+      "byte_identical": true
+    },
+    {
+      "file": "confusion_matrix.png",
+      "byte_identical": true
+    },
+    {
+      "file": "data_coverage.png",
+      "byte_identical": true
+    },
+    {
+      "file": "model_feature_comparison.png",
+      "byte_identical": true
+    },
+    {
+      "file": "reliability_risk.png",
+      "byte_identical": true
+    },
+    {
+      "file": "split_comparison.png",
+      "byte_identical": true
+    }
+  ],
+  "run_log_note": "Wall time and machine runtime details are not expected to be byte-identical. No hyperparameters or split decisions changed."
+}

@@ -1,0 +1,23 @@
+{
+  "changes_after_initial_code_snapshot": [
+    {
+      "file": "scripts/prepare_data.py",
+      "at_initial_freeze_sha256": "6afecc53d73ab62b9681fe2213a03ca2555b3eaa81a9826fc45a0cab158bb967",
+      "final_sha256": "b660c171c820a76a3ed9016ae88d4e074c4960c4596a7150657ce9b4ec27c11b"
+    },
+    {
+      "file": "scripts/analyze_results.py",
+      "at_initial_freeze_sha256": "e64e0528380f5bf831b0a2ef69a17613e483f089ad1b68efc62fb8ce880c6706",
+      "final_sha256": "6bda26de26fb389ea0fd3334f10f1be4712450d9ba1894ab234e8307c6fae61a"
+    }
+  ],
+  "scientific_choices_changed": false,
+  "explanation": "prepare_data: richer dictionary and documented robust parse handling with unchanged record SHA; analyze_results: plotting-column typo fix and completion of prespecified missingness/composition/matched-calibration summaries. No changes to config, cohort, engine, splits or models after outer outcomes.",
+  "unchanged_frozen_core": {
+    "configs/config.json": true,
+    "scripts/run_models.py": true,
+    "docs/evaluation_protocol.md": true,
+    "data/processed/records.csv": true,
+    "results/outer_splits.csv": true
+  }
+}
