@@ -2,7 +2,7 @@
 
 An auditable evaluation of product labels from published CO₂ electroreduction experiments, focused on **organically modified copper catalysts**. This project compares random condition-grouped and paper-disjoint evaluation, feature ablations, and training-only probability calibration using small CPU models.
 
-[English report (PDF)](report/report_en.pdf) · [Full report (Markdown)](report/report_en.md) · [中文结果解读](report/interpretation_zh.md) · [Frozen protocol](docs/evaluation_protocol.md) · [Data audit](docs/data_audit.md)
+[Interactive research website · private](https://co2rr-cross-study-research.zq20021102mia.chatgpt.site) · [English report (PDF)](report/report_en.pdf) · [Full report (Markdown)](report/report_en.md) · [中文结果解读](report/interpretation_zh.md) · [Frozen protocol](docs/evaluation_protocol.md) · [Data audit](docs/data_audit.md)
 
 ## Research scope
 
