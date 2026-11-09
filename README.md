@@ -4,6 +4,13 @@ An auditable evaluation of product labels from published CO₂ electroreduction 
 
 [Interactive research website](https://co2rr-cross-study-research.zq20021102mia.chatgpt.site) · [English report (PDF)](report/report_en.pdf) · [Full report (Markdown)](report/report_en.md) · [中文结果解读](report/interpretation_zh.md) · [Frozen protocol](docs/evaluation_protocol.md) · [Data audit](docs/data_audit.md)
 
+
+## Phase 2: Bayesian optimization replay
+
+[Results and reproduction](phase2/README.md) · [Protocol](phase2/PROTOCOL.md) · [Data sources](phase2/SOURCES.md) · [Interactive website](https://co2rr-cross-study-research.zq20021102mia.chatgpt.site/#phase2)
+
+The follow-up tests sequential experiment selection using historical CO₂RR measurements. At a budget of six conditions in the 11-condition acetate cohort from Li et al., Gaussian-process expected improvement found the best recorded condition in 100.0% of 500 paired replays, compared with 54.8% for random selection. The candidate pool contains previously measured conditions, and the result is retrospective.
+
 ## Research scope
 
 The primary cohort contains **86 recorded conditions from 22 explicit DOI groups**, with four labels: C₂H₄, C₂H₅OH, CH₄ and CO. Each label is the individual carbon species with the **highest explicitly reported numeric Faradaic efficiency**, conditional on at least two reported individual carbon species and a unique positive maximum. Unreported species remain unknown; this is not a complete product-distribution target.
