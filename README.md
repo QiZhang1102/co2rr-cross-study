@@ -2,12 +2,12 @@
 
 An auditable evaluation of product labels from published CO₂ electroreduction experiments, focused on **organically modified copper catalysts**. This project compares random condition-grouped and paper-disjoint evaluation, feature ablations, and training-only probability calibration using small CPU models.
 
-[Interactive research website](https://co2rr-cross-study-research.zq20021102mia.chatgpt.site) · [English report (PDF)](report/report_en.pdf) · [Full report (Markdown)](report/report_en.md) · [中文结果解读](report/interpretation_zh.md) · [Frozen protocol](docs/evaluation_protocol.md) · [Data audit](docs/data_audit.md)
+[Interactive research website](https://qizhang1102.github.io/co2rr/) · [English report (PDF)](report/report_en.pdf) · [Full report (Markdown)](report/report_en.md) · [中文结果解读](report/interpretation_zh.md) · [Frozen protocol](docs/evaluation_protocol.md) · [Data audit](docs/data_audit.md)
 
 
 ## Phase 2: Bayesian optimization replay
 
-[Results and reproduction](phase2/README.md) · [Protocol](phase2/PROTOCOL.md) · [Data sources](phase2/SOURCES.md) · [Interactive website](https://co2rr-cross-study-research.zq20021102mia.chatgpt.site/#phase2)
+[Results and reproduction](phase2/README.md) · [Protocol](phase2/PROTOCOL.md) · [Data sources](phase2/SOURCES.md) · [Interactive website](https://qizhang1102.github.io/co2rr/#phase2)
 
 The follow-up tests sequential experiment selection using historical CO₂RR measurements. At a budget of six conditions in the 11-condition acetate cohort from Li et al., Gaussian-process expected improvement found the best recorded condition in 100.0% of 500 paired replays, compared with 54.8% for random selection. The candidate pool contains previously measured conditions, and the result is retrospective.
 
