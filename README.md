@@ -2,7 +2,7 @@
 
 An auditable evaluation of product labels from published CO₂ electroreduction experiments, focused on **organically modified copper catalysts**. This project compares random condition-grouped and paper-disjoint evaluation, feature ablations, and training-only probability calibration using small CPU models.
 
-[Interactive research website](https://qizhang1102.github.io/co2rr/) · [English report (PDF)](report/report_en.pdf) · [Full report (Markdown)](report/report_en.md) · [中文结果解读](report/interpretation_zh.md) · [Frozen protocol](docs/evaluation_protocol.md) · [Data audit](docs/data_audit.md)
+[Interactive research website](https://qizhang1102.github.io/co2rr/) · [English report (PDF)](report/report_en.pdf) · [Full report (Markdown)](report/report_en.md) · [Frozen protocol](docs/evaluation_protocol.md) · [Data audit](docs/data_audit.md)
 
 
 ## Phase 2: Bayesian optimization replay
@@ -55,7 +55,7 @@ The completed version contains **75 actual fits and 2,146 outer prediction rows*
 
 | Path | Contents |
 | --- | --- |
-| [`report/`](report/) | English PDF and Markdown report, Chinese interpretation |
+| [`report/`](report/) | English PDF and Markdown report |
 | [`scripts/`](scripts/) | Pinned retrieval, audit/cleaning, fixed models, analysis, reporting and one-command entry point |
 | [`configs/config.json`](configs/config.json) | Versioned labels, feature allowlists, seeds and eligibility rules |
 | [`docs/`](docs/) | Provenance, dictionary, feature policy, frozen protocol, decisions, verification and limitations |

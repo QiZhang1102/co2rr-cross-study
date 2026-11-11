@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the English report, Chinese interpretation and PDF from saved results.
+"""Build the English report and PDF from saved results.
 
 Fails if the executed experiment or required metrics are absent; no example
 numbers or synthetic results can enter the report.
@@ -356,46 +356,8 @@ Raw retrieval is pinned by commit and SHA256 and recreates missing measurement t
 [5] Farris BR, Leonard KC. Accelerating Catalysis Understanding via Large Language Model Data Extraction and Shallow Machine Learning Techniques. JACS Au 5, 5578–5589 (2025). https://doi.org/10.1021/jacsau.5c01087 . Downloaded supplement excluded for unresolved paper mapping; SI DOI https://doi.org/10.1021/jacsau.5c01087.s003 .
 '''
     (report/'report_en.md').write_text(text)
-    # This concise interpretation is generated from the same saved metrics.
-    zh=f'''# 中文结果解读
-
-本次已实际运行的研究使用公开的铜基有机修饰剂文献数据。原始工作表有 {audit['raw_rows']} 行，按来源、标签和表示规则清洗后，主分析保留 {audit['main_rows']} 个条件、{audit['main_studies']} 个 DOI 来源、四个产物类别。最初候选 A 的 662/47 和候选 B 的 3,880 都是论文声称的规模，没有当作已下载或已建模数据；另一个确实下载的 4,286 行补充表因为无法确认文件名到论文的映射而排除。
-
-## 标签和范围
-
-预测标签是“至少两个明确报告的个体碳产物中，数值 FE 最高的那个”。未报告的 FE 没有填零。这个标签不等于唯一产物，也不能保证是完整产物分布中的主产物。数据全部来自铜基有机修饰体系，不能据此比较铜和其他金属，也不能推广为通用 CO2RR 预测器。
-
-## 三个问题的实际结果
-
-下表使用同一批记录的外层预测；模型特征为催化剂信息与条件结合，多数类基线不依赖特征。
-
-{table(ptab,[('model','模型'),('random_f1','随机条件分组 F1'),('study_f1','留论文 F1'),('random_acc','随机 accuracy'),('study_acc','留论文 accuracy'),('study_equal_f1','等权论文 F1')])}
-
-预先指定的随机森林结合特征模型，随机条件分组 macro-F1 为 {rr.macro_f1:.3f}，留论文为 {rf.macro_f1:.3f}；差值为 {rr.macro_f1-rf.macro_f1:+.3f}。留论文 F1 的论文分组 bootstrap 95% 区间为 {rf.macro_f1_ci_low:.3f}–{rf.macro_f1_ci_high:.3f}。本次三个结合特征模型在留论文划分下的 F1 都更低，但不能把这个方向推广为普遍规律。划分差异是描述性比较，不能直接当作数据泄漏的证明，也不能把 CV 折当独立实验宣称显著。
-
-留论文的特征消融如下。它检验现有表示的预测贡献，不是化学因果效应。
-
-{table(ablation,[('model','模型'),('catalyst','催化剂 F1'),('conditions','条件 F1'),('combined','结合 F1')])}
-
-结合特征对梯度提升有帮助，但逻辑回归没有超过催化剂特征单独输入，随机森林的结合结果还低于任一单独特征组。因此不能说“结合一定更好”。随机森林留论文时对乙醇和 CO 的 recall 都为零，{100*rf.accuracy:.1f}% 的 accuracy 掩盖了类别崩塌。
-
-可靠性分析使用未参与拟合的外层预测。校准只使用训练侧的独立 DOI 分组。留论文的一个外层折无法满足校准类别/来源覆盖，因此校准只适用于 {matched_n}/{audit['main_rows']} 条记录、{matched_studies} 个 DOI；该折未校准预测仍完整保留。下表严格在同一可校准子集比较，不能和全体 {audit['main_rows']} 条记录直接比较。log loss 和 Brier 越低越好；Brier 是每条记录各类别平方误差之和的平均，没有除以类别数。
-
-{table(matched,[('model','结合特征模型'),('calibration','校准'),('n_records','记录数'),('log_loss','log loss'),('brier','Brier'),('macro_f1','macro-F1')])}
-
-在这个可校准子集中，sigmoid 降低了梯度提升和逻辑回归的 log loss，却同时降低 macro-F1；随机森林的 log loss 反而升高。概率损失改善的 bootstrap 区间跨零，因此没有稳定改善的证据。不能默认校准一定更好；概率损失、区间和分类表现应一起读。confidence–coverage 曲线只作探索，没有用测试数据选可部署阈值。英文报告另给出逐类 recall、论文等权结果、反应器/缺失模式/修饰剂类别错误和来源影响分析。
-
-## 可信度与限制
-
-数据来源 DOI、原始行、引用块、排除原因和条件去重均可追溯；结果可由保存的逐条概率重算。但本次不是对每篇原论文的所有数值逐条重新提取验证。大量记录因来源不清或标签条件不满足而排除，因此存在明显选择偏倚；缺失信息和电解液、反应器等字段也可能成为论文身份代理。当前简单分子表示不能代表完整催化剂结构；未知共享数据和字符串不同的相同条件仍可能漏检。bootstrap 区间没有包含重新训练和标签测量误差。
-
-实际完整性测试 {ntests}/{ntests} 通过；另一次干净输出目录重跑让 {nrepro} 个实质结果文件和 {nfigs} 张图逐字节一致。运行 `python scripts/reproduce.py` 可按固定来源、环境和协议复现。
-
-这是基于真实下载数据、实际运行的评估研究，贡献是可审计执行和严谨比较。没有新方法、机制证明或新实验验证，不声称首创或保证发表。请结合英文报告、数据审计、冻结协议和测试/复现记录阅读。
-'''
-    (report/'interpretation_zh.md').write_text(zh)
     pdf_from_markdown(text,report/'report_en.pdf')
-    print('Generated report/report_en.md, report/interpretation_zh.md, report/report_en.pdf')
+    print('Generated report/report_en.md, report/report_en.pdf')
 
 
 if __name__=='__main__':
